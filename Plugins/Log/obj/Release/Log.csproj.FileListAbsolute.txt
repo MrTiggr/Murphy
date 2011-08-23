@@ -1,0 +1,15 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Log.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Log.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\Log.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\Log.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Log.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Log.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\Log.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Log\obj\Release\Log.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Log.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Log.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Log\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Log\obj\Release\Log.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Log\obj\Release\Log.pdb

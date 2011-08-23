@@ -1,0 +1,5 @@
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Bash.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Bash.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Bash\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Bash\obj\Debug\Bash.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Bash\obj\Debug\Bash.pdb

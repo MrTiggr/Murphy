@@ -1,0 +1,5 @@
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Reconnect.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Reconnect.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Reconnect\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Reconnect\obj\Debug\Reconnect.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Reconnect\obj\Debug\Reconnect.pdb

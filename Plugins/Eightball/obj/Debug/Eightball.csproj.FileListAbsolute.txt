@@ -1,0 +1,5 @@
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Debug Output\Plugins\Eightball.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Debug\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Debug\Eightball.pdb

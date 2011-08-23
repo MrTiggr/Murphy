@@ -1,0 +1,24 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.dll.config
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.XmlSerializers.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.XmlSerializers.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.dll.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.XmlSerializers.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\GoogleSearch.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\GoogleSearch\obj\Release\GoogleSearch.XmlSerializers.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\GoogleSearch.dll.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\GoogleSearch.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\GoogleSearch.XmlSerializers.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\GoogleSearch.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\GoogleSearch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\GoogleSearch\obj\Release\GoogleSearch.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\GoogleSearch\obj\Release\GoogleSearch.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\GoogleSearch\obj\Release\GoogleSearch.XmlSerializers.dll

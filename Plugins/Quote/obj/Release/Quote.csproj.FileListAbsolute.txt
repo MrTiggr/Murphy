@@ -1,0 +1,15 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Quote.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Quote.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\Quote.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\Quote.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Quote.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Quote.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\Quote.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Quote\obj\Release\Quote.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Quote.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Quote.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Quote\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Quote\obj\Release\Quote.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Quote\obj\Release\Quote.pdb

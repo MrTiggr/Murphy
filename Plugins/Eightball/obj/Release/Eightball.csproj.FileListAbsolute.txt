@@ -1,0 +1,15 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Eightball.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Eightball.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\Eightball.dll
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\Eightball.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\Eightball.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Eightball\obj\Release\Eightball.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\Eightball.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Eightball\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Eightball\obj\Release\Eightball.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Eightball\obj\Release\Eightball.pdb

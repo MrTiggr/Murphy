@@ -1,0 +1,300 @@
+1313801543775.34 :asimov.freenode.net NOTICE * :*** Looking up your hostname...
+1313801544148.36 :asimov.freenode.net NOTICE * :*** Checking Ident
+1313801544171.36 :asimov.freenode.net NOTICE * :*** Found your hostname
+1313801544192.36 :asimov.freenode.net NOTICE * :*** No Ident response
+1313801544226.36 :asimov.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313801544228.36 :asimov.freenode.net 002 Caltex-Bot :Your host is asimov.freenode.net[174.143.119.91/6667], running version ircd-seven-1.0.3
+1313801544228.36 :asimov.freenode.net 003 Caltex-Bot :This server was created Fri Mar 4 2011 at 17:35:00 UTC
+1313801544229.36 :asimov.freenode.net 004 Caltex-Bot asimov.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313801544229.36 :asimov.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313801544230.36 :asimov.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313801544230.36 :asimov.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313801544231.36 :asimov.freenode.net 251 Caltex-Bot :There are 320 users and 68524 invisible on 27 servers
+1313801544231.36 :asimov.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313801544232.36 :asimov.freenode.net 253 Caltex-Bot 11 :unknown connection(s)
+1313801544232.36 :asimov.freenode.net 254 Caltex-Bot 43890 :channels formed
+1313801544233.36 :asimov.freenode.net 255 Caltex-Bot :I have 8467 clients and 1 servers
+1313801544233.36 :asimov.freenode.net 265 Caltex-Bot 8467 9039 :Current local users 8467, max 9039
+1313801544234.36 :asimov.freenode.net 266 Caltex-Bot 68844 73143 :Current global users 68844, max 73143
+1313801544234.36 :asimov.freenode.net 250 Caltex-Bot :Highest connection count: 9040 (9039 clients) (1486398 connections received)
+1313801544235.36 :asimov.freenode.net 375 Caltex-Bot :- asimov.freenode.net Message of the Day - 
+1313801544235.36 :asimov.freenode.net 372 Caltex-Bot :- Welcome to asimov.freenode.net in TX, USA!  Thanks to
+1313801544238.36 :asimov.freenode.net 372 Caltex-Bot :- Rackspace (www.rackspace.com) for sponsoring
+1313801544238.36 :asimov.freenode.net 372 Caltex-Bot :- this server!
+1313801544239.36 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544258.36 :asimov.freenode.net 372 Caltex-Bot :- ASIMOV, ISAAC [1920-1992].  One of the brightest stars of the
+1313801544259.36 :asimov.freenode.net 372 Caltex-Bot :- science fiction universe.  Author of I Robot, the
+1313801544259.36 :asimov.freenode.net 372 Caltex-Bot :- Foundation series (which "grew like Topsy"), Pebble in the
+1313801544260.36 :asimov.freenode.net 372 Caltex-Bot :- Sky and hundreds of works of science fact and science
+1313801544260.36 :asimov.freenode.net 372 Caltex-Bot :- fiction.
+1313801544260.36 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544261.36 :asimov.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313801544261.36 :asimov.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313801544262.36 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544262.36 :asimov.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313801544263.37 :asimov.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313801544263.37 :asimov.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313801544263.37 :asimov.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313801544264.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544264.37 :asimov.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313801544265.37 :asimov.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313801544265.37 :asimov.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313801544266.37 :asimov.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313801544266.37 :asimov.freenode.net 372 Caltex-Bot :- support.
+1313801544266.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544267.37 :asimov.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313801544267.37 :asimov.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313801544267.37 :asimov.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313801544268.37 :asimov.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313801544268.37 :asimov.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313801544269.37 :asimov.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313801544269.37 :asimov.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313801544270.37 :asimov.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313801544270.37 :asimov.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313801544270.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544271.37 :asimov.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313801544271.37 :asimov.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313801544272.37 :asimov.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313801544272.37 :asimov.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313801544272.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544273.37 :asimov.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313801544273.37 :asimov.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313801544274.37 :asimov.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313801544274.37 :asimov.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313801544274.37 :asimov.freenode.net 372 Caltex-Bot :- the network!
+1313801544275.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544275.37 :asimov.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313801544276.37 :asimov.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313801544276.37 :asimov.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313801544276.37 :asimov.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313801544277.37 :asimov.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313801544277.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544278.37 :asimov.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313801544278.37 :asimov.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313801544278.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544279.37 :asimov.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313801544279.37 :asimov.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313801544280.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544280.37 :asimov.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313801544280.37 :asimov.freenode.net 372 Caltex-Bot :-  
+1313801544281.37 :asimov.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801544281.37 :asimov.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313801544282.37 :asimov.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801544282.37 :asimov.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313801544348.37 :Caltex-Bot MODE Caltex-Bot :+i
+1313801548727.62 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313801549921.69 :asimov.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot MrTiggr SuprTiggr
+1313801549927.69 :asimov.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313801549929.69 :asimov.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313801549946.69 :asimov.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313801549946.69 :asimov.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Caltex-Bo 220-253-181-138.NSW.netspace.net.au asimov.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313801549951.69 :asimov.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313801549951.69 :asimov.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313801549952.69 :asimov.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313801549952.69 :asimov.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313801549980.69 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313801604111.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#eauth MrTiggr
+1313801618757.63 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :eauth
+1313801679707.11 PING :asimov.freenode.net
+1313801684130.36 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register MrTiggr 8F60F5E8
+1313801822676.29 :barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+1313801823528.34 :barjavel.freenode.net NOTICE * :*** Checking Ident
+1313801823528.34 :barjavel.freenode.net NOTICE * :*** No Ident response
+1313801824109.37 :barjavel.freenode.net NOTICE * :*** Found your hostname
+1313801824109.37 :barjavel.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313801824110.37 :barjavel.freenode.net 002 Caltex-Bot :Your host is barjavel.freenode.net[78.40.125.4/6667], running version ircd-seven-1.0.3
+1313801824111.37 :barjavel.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:29 CET
+1313801824111.37 :barjavel.freenode.net 004 Caltex-Bot barjavel.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313801824111.37 :barjavel.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313801824111.37 :barjavel.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313801824111.37 :barjavel.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313801824112.37 :barjavel.freenode.net 251 Caltex-Bot :There are 320 users and 68563 invisible on 27 servers
+1313801824112.37 :barjavel.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313801824372.39 :barjavel.freenode.net 253 Caltex-Bot 7 :unknown connection(s)
+1313801824372.39 :barjavel.freenode.net 254 Caltex-Bot 43892 :channels formed
+1313801824372.39 :barjavel.freenode.net 255 Caltex-Bot :I have 4362 clients and 1 servers
+1313801824372.39 :barjavel.freenode.net 265 Caltex-Bot 4362 10333 :Current local users 4362, max 10333
+1313801824373.39 :barjavel.freenode.net 266 Caltex-Bot 68883 74011 :Current global users 68883, max 74011
+1313801824373.39 :barjavel.freenode.net 250 Caltex-Bot :Highest connection count: 10334 (10333 clients) (6276290 connections received)
+1313801824373.39 :barjavel.freenode.net 375 Caltex-Bot :- barjavel.freenode.net Message of the Day - 
+1313801824373.39 :barjavel.freenode.net 372 Caltex-Bot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+1313801824374.39 :barjavel.freenode.net 372 Caltex-Bot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+1313801824375.39 :barjavel.freenode.net 372 Caltex-Bot :- this server!
+1313801824375.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824375.39 :barjavel.freenode.net 372 Caltex-Bot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+1313801824375.39 :barjavel.freenode.net 372 Caltex-Bot :- science-fiction author, a journalist and a critic. He is
+1313801824375.39 :barjavel.freenode.net 372 Caltex-Bot :- credited with having written the first novel to introduce 
+1313801824376.39 :barjavel.freenode.net 372 Caltex-Bot :- the Grandfather Paradox in time travel, in his 1943 work 
+1313801824376.39 :barjavel.freenode.net 372 Caltex-Bot :- 'Le Voyageur imprudent'.
+1313801824376.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824376.39 :barjavel.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313801824376.39 :barjavel.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313801824377.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824378.39 :barjavel.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313801824378.39 :barjavel.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313801824378.39 :barjavel.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313801824378.39 :barjavel.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313801824378.39 :barjavel.freenode.net 372 Caltex-Bot :- support.
+1313801824379.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824379.39 :barjavel.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313801824379.39 :barjavel.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313801824379.39 :barjavel.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313801824379.39 :barjavel.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313801824380.39 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824868.41 :barjavel.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313801824868.41 :barjavel.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313801824868.41 :barjavel.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313801824869.41 :barjavel.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313801824869.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801824869.41 :barjavel.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313801825199.43 :barjavel.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313801825199.43 :barjavel.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313801825199.43 :barjavel.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313801825199.43 :barjavel.freenode.net 372 Caltex-Bot :- the network!
+1313801825200.43 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801825200.43 :barjavel.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313801825200.43 :barjavel.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313801825200.43 :barjavel.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313801825200.43 :barjavel.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313801825201.43 :barjavel.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313801825201.43 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801825201.43 :barjavel.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313801825201.43 :barjavel.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313801825201.43 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801825202.43 :barjavel.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313801825202.43 :barjavel.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313801825202.43 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801825202.43 :barjavel.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313801825202.43 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801825203.43 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801825203.43 :barjavel.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313801825203.43 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801825203.43 :barjavel.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313801825241.44 :Caltex-Bot MODE Caltex-Bot :+i
+1313801827013.54 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313801827478.56 :barjavel.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot MrTiggr SuprTiggr
+1313801827487.56 :barjavel.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313801828269.61 :barjavel.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313801828289.61 :barjavel.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313801828290.61 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Caltex-Bo 220-253-181-138.NSW.netspace.net.au barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313801828296.61 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313801828297.61 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313801828297.61 :barjavel.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313801828297.61 :barjavel.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313801828878.64 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313801866406.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register MrTiggr 8F60F5E8
+1313801880388.59 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register
+1313801887616 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#eauth
+1313801891206.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :eauth
+1313801894572.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :register
+1313801898381.62 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :##register
+1313801963909.37 :barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+1313801964453.4 :barjavel.freenode.net NOTICE * :*** Checking Ident
+1313801964484.4 :barjavel.freenode.net NOTICE * :*** Found your hostname
+1313801964509.4 :barjavel.freenode.net NOTICE * :*** No Ident response
+1313801964510.4 :barjavel.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313801964511.4 :barjavel.freenode.net 002 Caltex-Bot :Your host is barjavel.freenode.net[78.40.125.4/6667], running version ircd-seven-1.0.3
+1313801964511.4 :barjavel.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:29 CET
+1313801964512.4 :barjavel.freenode.net 004 Caltex-Bot barjavel.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313801964512.4 :barjavel.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313801964512.4 :barjavel.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313801964512.4 :barjavel.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313801964513.4 :barjavel.freenode.net 251 Caltex-Bot :There are 320 users and 68567 invisible on 27 servers
+1313801964513.4 :barjavel.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313801964513.4 :barjavel.freenode.net 253 Caltex-Bot 4 :unknown connection(s)
+1313801964513.4 :barjavel.freenode.net 254 Caltex-Bot 43888 :channels formed
+1313801964514.4 :barjavel.freenode.net 255 Caltex-Bot :I have 4356 clients and 1 servers
+1313801964514.4 :barjavel.freenode.net 265 Caltex-Bot 4356 10333 :Current local users 4356, max 10333
+1313801964514.4 :barjavel.freenode.net 266 Caltex-Bot 68887 74011 :Current global users 68887, max 74011
+1313801964514.4 :barjavel.freenode.net 250 Caltex-Bot :Highest connection count: 10334 (10333 clients) (6276358 connections received)
+1313801964515.4 :barjavel.freenode.net 375 Caltex-Bot :- barjavel.freenode.net Message of the Day - 
+1313801964515.4 :barjavel.freenode.net 372 Caltex-Bot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+1313801964516.4 :barjavel.freenode.net 372 Caltex-Bot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+1313801964517.4 :barjavel.freenode.net 372 Caltex-Bot :- this server!
+1313801964517.4 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964517.4 :barjavel.freenode.net 372 Caltex-Bot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+1313801964517.4 :barjavel.freenode.net 372 Caltex-Bot :- science-fiction author, a journalist and a critic. He is
+1313801964517.4 :barjavel.freenode.net 372 Caltex-Bot :- credited with having written the first novel to introduce 
+1313801964518.4 :barjavel.freenode.net 372 Caltex-Bot :- the Grandfather Paradox in time travel, in his 1943 work 
+1313801964518.4 :barjavel.freenode.net 372 Caltex-Bot :- 'Le Voyageur imprudent'.
+1313801964518.4 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964518.4 :barjavel.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313801964518.4 :barjavel.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313801964519.4 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964519.4 :barjavel.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313801964519.4 :barjavel.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313801964519.4 :barjavel.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313801964519.4 :barjavel.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313801964520.4 :barjavel.freenode.net 372 Caltex-Bot :- support.
+1313801964521.4 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964521.4 :barjavel.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313801964521.4 :barjavel.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313801964521.4 :barjavel.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313801964521.4 :barjavel.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313801964522.4 :barjavel.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313801964622.41 :barjavel.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313801964622.41 :barjavel.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313801964623.41 :barjavel.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313801964623.41 :barjavel.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313801964624.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964624.41 :barjavel.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313801964624.41 :barjavel.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313801964625.41 :barjavel.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313801964625.41 :barjavel.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313801964626.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964626.41 :barjavel.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313801964627.41 :barjavel.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313801964628.41 :barjavel.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313801964628.41 :barjavel.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313801964629.41 :barjavel.freenode.net 372 Caltex-Bot :- the network!
+1313801964629.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964630.41 :barjavel.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313801964630.41 :barjavel.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313801964631.41 :barjavel.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313801964631.41 :barjavel.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313801964632.41 :barjavel.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313801964632.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964633.41 :barjavel.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313801964633.41 :barjavel.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313801964634.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964634.41 :barjavel.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313801964635.41 :barjavel.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313801964635.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964635.41 :barjavel.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313801964636.41 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313801964636.41 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801964637.41 :barjavel.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313801964637.41 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313801964638.41 :barjavel.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313801964724.41 :Caltex-Bot MODE Caltex-Bot :+i
+1313801968048.6 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313801968505.63 :barjavel.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot MrTiggr SuprTiggr
+1313801968515.63 :barjavel.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313801969205.67 :barjavel.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313801969224.67 :barjavel.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313801969225.67 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Caltex-Bo 220-253-181-138.NSW.netspace.net.au barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313801969234.67 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313801969234.67 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313801969235.67 :barjavel.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313801969235.67 :barjavel.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313801969911.71 :Caltex-Bot!~Caltex-Bo@220-253-181-138.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313802059745.85 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register
+1313802064728.13 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tell
+1313802069299.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tell tiggr ok
+1313802080156.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :register
+1313802085467.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register

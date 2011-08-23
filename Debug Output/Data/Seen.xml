@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeenInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SeenInfo>
+    <Names>
+      <string>Caltex-Bot</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-20T00:59:28.0826061+10:00</Date>
+    <Text>joining #bitcoin-police-bot</Text>
+    <Ident>~Caltex-Bo</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>MrTiggr</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-20T01:01:25.4683202+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying #register</Text>
+    <Ident>~MrTiggr</Ident>
+  </SeenInfo>
+</ArrayOfSeenInfo>

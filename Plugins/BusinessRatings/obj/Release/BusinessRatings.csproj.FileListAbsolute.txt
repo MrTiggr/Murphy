@@ -1,0 +1,19 @@
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\bin\Release\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\bin\Release\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\obj\Release\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\obj\Release\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\bin\Release\Engine.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\BusinessRatings\bin\Release\Engine.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Plugins\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Release Output\Plugins\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\Release Output\Plugins\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\BusinessRatings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\BusinessRatings\obj\Release\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Plugins\BusinessRatings\obj\Release\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Release Output\Plugins\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Release Output\Plugins\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\BusinessRatings.pdb

@@ -1,0 +1,17 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Service.exe
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Service.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\Service.exe
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\Service.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Service.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Service.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\Service.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Service\obj\Release\Service.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Service.exe.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Service.exe.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Service.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Service.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Service\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Service\obj\Release\Service.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Service\obj\Release\Service.pdb

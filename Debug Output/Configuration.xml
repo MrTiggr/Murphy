@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Abbot>
+    
+    <Network Name="Caltex-Bot" Port="6667" Nickname="Caltex-Bot" Realname="Caltex-Bot" Username="Caltex-Bot" Password="" SendDelay="200">
+        <Server Address="irc.freenode.net" />
+        <Server Address="roddenberry.freenode.net" />
+        <Channel Name="#bitcoin-police-bot" />
+    </Network>
+    
+    
+    <Plugins>
+        <AutoOp>
+            <Op>.*?!~MrTiggr@.*\.at</Op>
+        </AutoOp>
+	<GoogleSearch Key="5y08QKNQFHJQs/JiLiGfCWbvnv3vBT8B" />
+    </Plugins>
+
+</Abbot>

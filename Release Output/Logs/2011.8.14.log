@@ -1,0 +1,379 @@
+1313339518848.82 :niven.freenode.net NOTICE * :*** Looking up your hostname...
+1313339519181.84 :niven.freenode.net NOTICE * :*** Checking Ident
+1313339519194.84 :niven.freenode.net NOTICE * :*** Found your hostname
+1313339529616.44 :niven.freenode.net NOTICE * :*** No Ident response
+1313339529816.45 :niven.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313339529821.45 :niven.freenode.net 002 Caltex-Bot :Your host is niven.freenode.net[140.211.167.98/6667], running version ircd-seven-1.0.3
+1313339529822.45 :niven.freenode.net 003 Caltex-Bot :This server was created Tue Feb 23 2010 at 23:01:59 UTC
+1313339529823.45 :niven.freenode.net 004 Caltex-Bot niven.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313339529823.45 :niven.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313339529824.45 :niven.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313339529825.45 :niven.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313339529825.45 :niven.freenode.net 251 Caltex-Bot :There are 284 users and 56898 invisible on 27 servers
+1313339529826.45 :niven.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313339529827.45 :niven.freenode.net 253 Caltex-Bot 5 :unknown connection(s)
+1313339529827.45 :niven.freenode.net 254 Caltex-Bot 42600 :channels formed
+1313339529828.45 :niven.freenode.net 255 Caltex-Bot :I have 3702 clients and 2 servers
+1313339529829.45 :niven.freenode.net 265 Caltex-Bot 3702 4437 :Current local users 3702, max 4437
+1313339529830.45 :niven.freenode.net 266 Caltex-Bot 57182 73143 :Current global users 57182, max 73143
+1313339529830.45 :niven.freenode.net 250 Caltex-Bot :Highest connection count: 4439 (4437 clients) (967039 connections received)
+1313339529831.45 :niven.freenode.net 375 Caltex-Bot :- niven.freenode.net Message of the Day - 
+1313339529832.45 :niven.freenode.net 372 Caltex-Bot :- Welcome to niven.freenode.net in Corvallis, Oregon, US.  Our
+1313339529835.45 :niven.freenode.net 372 Caltex-Bot :- thanks to Oregon State University for sponsoring this server!
+1313339529836.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529837.45 :niven.freenode.net 372 Caltex-Bot :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+1313339529837.45 :niven.freenode.net 372 Caltex-Bot :- the setting of Protector, World of Ptaavs and the
+1313339529838.45 :niven.freenode.net 372 Caltex-Bot :- Ringworld series.  Author of "Flash Crowd", a canonical
+1313339529839.45 :niven.freenode.net 372 Caltex-Bot :- sociological hard science fiction short story dealing with
+1313339529839.45 :niven.freenode.net 372 Caltex-Bot :- effects of near instantaneous transportation on a modern
+1313339529840.45 :niven.freenode.net 372 Caltex-Bot :- technological society.  In addition, he is well known for his
+1313339529841.45 :niven.freenode.net 372 Caltex-Bot :- collaborations with Jerry Pournelle, including The Mote in
+1313339529842.45 :niven.freenode.net 372 Caltex-Bot :- God's Eye and Lucifer's Hammer.
+1313339529842.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529843.45 :niven.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313339529844.45 :niven.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313339529845.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529845.45 :niven.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313339529846.45 :niven.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313339529846.45 :niven.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313339529847.45 :niven.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313339529847.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529847.45 :niven.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313339529848.45 :niven.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313339529848.45 :niven.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313339529848.45 :niven.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313339529849.45 :niven.freenode.net 372 Caltex-Bot :- support.
+1313339529849.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529849.45 :niven.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313339529849.45 :niven.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313339529850.45 :niven.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313339529850.45 :niven.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313339529851.45 :niven.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313339529851.45 :niven.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313339529851.45 :niven.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313339529851.45 :niven.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313339529852.45 :niven.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313339529852.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529852.45 :niven.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313339529853.45 :niven.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313339529853.45 :niven.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313339529853.45 :niven.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313339529855.45 :niven.freenode.net 372 Caltex-Bot :-  
+1313339529881.45 :niven.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313339529882.45 :niven.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313339530322.48 :niven.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313339530323.48 :niven.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313339530324.48 :niven.freenode.net 372 Caltex-Bot :- the network!
+1313339530324.48 :niven.freenode.net 372 Caltex-Bot :-  
+1313339530325.48 :niven.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313339530326.48 :niven.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313339530326.48 :niven.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313339530327.48 :niven.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313339530328.48 :niven.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313339530328.48 :niven.freenode.net 372 Caltex-Bot :-  
+1313339530329.48 :niven.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313339530330.48 :niven.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313339530330.48 :niven.freenode.net 372 Caltex-Bot :-  
+1313339530331.48 :niven.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313339530332.48 :niven.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313339530332.48 :niven.freenode.net 372 Caltex-Bot :-  
+1313339530333.48 :niven.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313339530837.51 :niven.freenode.net 372 Caltex-Bot :-  
+1313339530838.51 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339530839.51 :niven.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313339530839.51 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339530840.51 :niven.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313339530894.51 :Caltex-Bot MODE Caltex-Bot :+i
+1313339533893.68 :Caltex-Bot!~Caltex-Bo@220.253-242-74.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313339580923.37 :niven.freenode.net NOTICE * :*** Looking up your hostname...
+1313339581304.4 :niven.freenode.net NOTICE * :*** Checking Ident
+1313339581312.4 :niven.freenode.net NOTICE * :*** Found your hostname
+1313339594605.16 :niven.freenode.net NOTICE * :*** No Ident response
+1313339595108.18 :niven.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313339595113.19 :niven.freenode.net 002 Caltex-Bot :Your host is niven.freenode.net[140.211.167.98/6667], running version ircd-seven-1.0.3
+1313339595114.19 :niven.freenode.net 003 Caltex-Bot :This server was created Tue Feb 23 2010 at 23:01:59 UTC
+1313339595115.19 :niven.freenode.net 004 Caltex-Bot niven.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313339595115.19 :niven.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313339595116.19 :niven.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313339595117.19 :niven.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313339595117.19 :niven.freenode.net 251 Caltex-Bot :There are 284 users and 56904 invisible on 27 servers
+1313339595118.19 :niven.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313339595119.19 :niven.freenode.net 253 Caltex-Bot 2 :unknown connection(s)
+1313339595119.19 :niven.freenode.net 254 Caltex-Bot 42598 :channels formed
+1313339595120.19 :niven.freenode.net 255 Caltex-Bot :I have 3701 clients and 2 servers
+1313339595121.19 :niven.freenode.net 265 Caltex-Bot 3701 4437 :Current local users 3701, max 4437
+1313339595122.19 :niven.freenode.net 266 Caltex-Bot 57188 73143 :Current global users 57188, max 73143
+1313339595122.19 :niven.freenode.net 250 Caltex-Bot :Highest connection count: 4439 (4437 clients) (967043 connections received)
+1313339595123.19 :niven.freenode.net 375 Caltex-Bot :- niven.freenode.net Message of the Day - 
+1313339595124.19 :niven.freenode.net 372 Caltex-Bot :- Welcome to niven.freenode.net in Corvallis, Oregon, US.  Our
+1313339595127.19 :niven.freenode.net 372 Caltex-Bot :- thanks to Oregon State University for sponsoring this server!
+1313339595127.19 :niven.freenode.net 372 Caltex-Bot :-  
+1313339595127.19 :niven.freenode.net 372 Caltex-Bot :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+1313339595128.19 :niven.freenode.net 372 Caltex-Bot :- the setting of Protector, World of Ptaavs and the
+1313339595128.19 :niven.freenode.net 372 Caltex-Bot :- Ringworld series.  Author of "Flash Crowd", a canonical
+1313339595128.19 :niven.freenode.net 372 Caltex-Bot :- sociological hard science fiction short story dealing with
+1313339595129.19 :niven.freenode.net 372 Caltex-Bot :- effects of near instantaneous transportation on a modern
+1313339595129.19 :niven.freenode.net 372 Caltex-Bot :- technological society.  In addition, he is well known for his
+1313339595129.19 :niven.freenode.net 372 Caltex-Bot :- collaborations with Jerry Pournelle, including The Mote in
+1313339596001.24 :niven.freenode.net 372 Caltex-Bot :- God's Eye and Lucifer's Hammer.
+1313339596002.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596003.24 :niven.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313339596003.24 :niven.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313339596004.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596005.24 :niven.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313339596005.24 :niven.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313339596006.24 :niven.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313339596007.24 :niven.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313339596011.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596011.24 :niven.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313339596012.24 :niven.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313339596013.24 :niven.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313339596013.24 :niven.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313339596014.24 :niven.freenode.net 372 Caltex-Bot :- support.
+1313339596015.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596015.24 :niven.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313339596016.24 :niven.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313339596017.24 :niven.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313339596017.24 :niven.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313339596018.24 :niven.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313339596019.24 :niven.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313339596019.24 :niven.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313339596020.24 :niven.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313339596021.24 :niven.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313339596022.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596026.24 :niven.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313339596027.24 :niven.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313339596027.24 :niven.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313339596027.24 :niven.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313339596028.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596028.24 :niven.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313339596028.24 :niven.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313339596029.24 :niven.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313339596029.24 :niven.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313339596029.24 :niven.freenode.net 372 Caltex-Bot :- the network!
+1313339596029.24 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596030.24 :niven.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313339596030.24 :niven.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313339596030.24 :niven.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313339596031.24 :niven.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313339596211.25 :niven.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313339596212.25 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596213.25 :niven.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313339596214.25 :niven.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313339596214.25 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596215.25 :niven.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313339596216.25 :niven.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313339596217.25 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596217.25 :niven.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313339596218.25 :niven.freenode.net 372 Caltex-Bot :-  
+1313339596219.25 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339596219.25 :niven.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313339596220.25 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339596221.25 :niven.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313339596273.25 :Caltex-Bot MODE Caltex-Bot :+i
+1313339599003.41 :Caltex-Bot!~Caltex-Bo@220.253-242-74.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313339599236.42 :niven.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeird MrTiggr TiggrBot
+1313339599339.43 :niven.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313339599651.44 :niven.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313339599661.45 :niven.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313339599662.45 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Caltex-Bo 220.253-242-74.NSW.netspace.net.au niven.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313339599666.45 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird niven.freenode.net SomeoneWeird H :0 no
+1313339599666.45 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in card.freenode.net MrTiggr H :0 MrTiggr
+1313339599667.45 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com kornbluth.freenode.net TiggrBot H :0 PPF V0.6
+1313339599667.45 :niven.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313339600052.47 :niven.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313339600067.47 :Caltex-Bot!~Caltex-Bo@220.253-242-74.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313339618476.52 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :seen SomeoneWeird 
+1313339695296.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tell SomeoneWeird This Bot is Abbot :D ...try it ..eeeasy!!!!!
+1313339718913.27 :niven.freenode.net NOTICE * :*** Looking up your hostname...
+1313339719258.29 :niven.freenode.net NOTICE * :*** Checking Ident
+1313339719268.29 :niven.freenode.net NOTICE * :*** Found your hostname
+1313339732453.04 :niven.freenode.net NOTICE * :*** No Ident response
+1313339732654.05 :niven.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313339732659.05 :niven.freenode.net 002 Caltex-Bot :Your host is niven.freenode.net[140.211.167.98/6667], running version ircd-seven-1.0.3
+1313339732660.05 :niven.freenode.net 003 Caltex-Bot :This server was created Tue Feb 23 2010 at 23:01:59 UTC
+1313339732660.05 :niven.freenode.net 004 Caltex-Bot niven.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313339732661.05 :niven.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313339732662.05 :niven.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313339732663.05 :niven.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313339732664.05 :niven.freenode.net 251 Caltex-Bot :There are 284 users and 56901 invisible on 27 servers
+1313339732664.05 :niven.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313339732665.05 :niven.freenode.net 253 Caltex-Bot 2 :unknown connection(s)
+1313339732666.05 :niven.freenode.net 254 Caltex-Bot 42596 :channels formed
+1313339732666.05 :niven.freenode.net 255 Caltex-Bot :I have 3703 clients and 2 servers
+1313339732667.05 :niven.freenode.net 265 Caltex-Bot 3703 4437 :Current local users 3703, max 4437
+1313339732668.05 :niven.freenode.net 266 Caltex-Bot 57185 73143 :Current global users 57185, max 73143
+1313339732668.05 :niven.freenode.net 250 Caltex-Bot :Highest connection count: 4439 (4437 clients) (967059 connections received)
+1313339732669.05 :niven.freenode.net 375 Caltex-Bot :- niven.freenode.net Message of the Day - 
+1313339732670.05 :niven.freenode.net 372 Caltex-Bot :- Welcome to niven.freenode.net in Corvallis, Oregon, US.  Our
+1313339732674.05 :niven.freenode.net 372 Caltex-Bot :- thanks to Oregon State University for sponsoring this server!
+1313339732675.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732675.05 :niven.freenode.net 372 Caltex-Bot :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+1313339732676.05 :niven.freenode.net 372 Caltex-Bot :- the setting of Protector, World of Ptaavs and the
+1313339732676.05 :niven.freenode.net 372 Caltex-Bot :- Ringworld series.  Author of "Flash Crowd", a canonical
+1313339732676.05 :niven.freenode.net 372 Caltex-Bot :- sociological hard science fiction short story dealing with
+1313339732677.05 :niven.freenode.net 372 Caltex-Bot :- effects of near instantaneous transportation on a modern
+1313339732677.05 :niven.freenode.net 372 Caltex-Bot :- technological society.  In addition, he is well known for his
+1313339732677.05 :niven.freenode.net 372 Caltex-Bot :- collaborations with Jerry Pournelle, including The Mote in
+1313339732678.05 :niven.freenode.net 372 Caltex-Bot :- God's Eye and Lucifer's Hammer.
+1313339732678.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732678.05 :niven.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313339732679.05 :niven.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313339732679.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732679.05 :niven.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313339732680.05 :niven.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313339732680.05 :niven.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313339732680.05 :niven.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313339732681.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732681.05 :niven.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313339732681.05 :niven.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313339732682.05 :niven.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313339732682.05 :niven.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313339732682.05 :niven.freenode.net 372 Caltex-Bot :- support.
+1313339732683.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732683.05 :niven.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313339732683.05 :niven.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313339732684.05 :niven.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313339732684.05 :niven.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313339732684.05 :niven.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313339732684.05 :niven.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313339732685.05 :niven.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313339732685.05 :niven.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313339732685.05 :niven.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313339732686.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732686.05 :niven.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313339732686.05 :niven.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313339732687.05 :niven.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313339732690.05 :niven.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313339732690.05 :niven.freenode.net 372 Caltex-Bot :-  
+1313339732690.05 :niven.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313339732691.05 :niven.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313339733161.08 :niven.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313339733162.08 :niven.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313339733162.08 :niven.freenode.net 372 Caltex-Bot :- the network!
+1313339733163.08 :niven.freenode.net 372 Caltex-Bot :-  
+1313339733163.08 :niven.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313339733163.08 :niven.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313339733164.08 :niven.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313339733164.08 :niven.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313339733164.08 :niven.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313339733165.08 :niven.freenode.net 372 Caltex-Bot :-  
+1313339733165.08 :niven.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313339733165.08 :niven.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313339733165.08 :niven.freenode.net 372 Caltex-Bot :-  
+1313339733166.08 :niven.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313339733166.08 :niven.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313339733166.08 :niven.freenode.net 372 Caltex-Bot :-  
+1313339733167.08 :niven.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313339733847.12 :niven.freenode.net 372 Caltex-Bot :-  
+1313339733849.12 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339733850.12 :niven.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313339733853.12 :niven.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313339733854.12 :niven.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313339733909.12 :Caltex-Bot MODE Caltex-Bot :+i
+1313339736903.3 :Caltex-Bot!~Caltex-Bo@220.253-242-74.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313339738033.36 :niven.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeird MrTiggr TiggrBot
+1313339738038.36 :niven.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313339738040.36 :niven.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313339738049.36 :niven.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313339738049.36 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Caltex-Bo 220.253-242-74.NSW.netspace.net.au niven.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313339738053.36 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird niven.freenode.net SomeoneWeird H :0 no
+1313339738054.36 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in card.freenode.net MrTiggr H :0 MrTiggr
+1313339738054.36 :niven.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com kornbluth.freenode.net TiggrBot H :0 PPF V0.6
+1313339738054.36 :niven.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313339738055.36 :niven.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313339738061.36 :Caltex-Bot!~Caltex-Bo@220.253-242-74.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313339743552.68 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tell SomeoneWeird This Bot is Abbot :D ...try it ..eeeasy!!!!!
+1313339865884.67 PING :niven.freenode.net
+1313339912246.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :quote
+1313339917467.62 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :bash
+1313339933255.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :google Dalin S Owen
+1313339940094.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::(
+1313339968665.55 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :eightball will SomeoneWeird use a framework for his bot?
+1313339999573.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehe
+1313340034020.29 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Eightball will SomeoneWeird use a framework for his bot?
+1313340039528.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::(
+1313340044323.88 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Eightball
+1313340070213.36 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot: will SomeoneWeird use a framework for his bot?
+1313340078765.85 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot will SomeoneWeird use a framework for his bot?
+1313340083804.14 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot will SomeoneWeird use a framework for his bot?
+1313340088451.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot will SomeoneWeird use a framework for his bot?
+1313340092456.63 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot will SomeoneWeird use a framework for his bot?
+1313340096092.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot will SomeoneWeird use a framework for his bot?
+1313340166330.86 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :rofl
+1313340209247.31 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :bash
+1313340217420.78 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :0.o
+1313340219477.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :bash
+1313340289805.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D:D:D u like?
+1313340300107.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :thats the Abbot bot
+1313340313359.27 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol yeh, its just the plugin formats that are confusing, ill look @ it again later
+1313340314595.34 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ye
+1313340323436.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tsk tsk
+1313340324482.9 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok
+1313340328425.13 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :-.-
+1313340329806.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :care to email me your code for the bot
+1313340334328.47 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :all on git
+1313340340046.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :or you want email
+1313340346227.15 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :email b good
+1313340355911.7 PING :niven.freenode.net
+1313340356294.72 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :that way if i get bad nets i can still play
+1313340369084.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :..i'll move it over to abbot for you and send you the result
+1313340390337.67 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :bash
+1313340399748.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehe
+1313340421788.47 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :log
+1313340438384.42 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ohk cool
+1313340442198.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lemme zip it
+1313340509752.5 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :remind me in 12 minutes to start getting ready to leave
+1313340611096.3 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ok
+1313340635931.72 PING :niven.freenode.net
+1313340733523.3 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :sent
+1313340738046.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :well, sending
+1313340775886.72 PING :niven.freenode.net
+1313340816874.07 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :btw it has like no error checking code atm
+1313340823299.43 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :just so you dont go o.O
+1313340857264.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :no prombs; i'll just grab the core of what u have done and turn it into plugins
+1313340864473.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :events
+1313340864877.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1313340876069.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot events
+1313340876624.48 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hm?
+1313340879627.66 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hrm
+1313340883984.9 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :listevents
+1313340889561.22 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1313340890032.25 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :dubble hrrm
+1313340911017.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Caltex-Bot: events
+1313340915892.73 PING :niven.freenode.net
+1313340918733.89 :MrTiggr!~MrTiggr@ozco.in PRIVMSG Caltex-Bot :events
+1313340919650.94 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :anyway its based around events already, so shouldn't be hard to change
+1313340937165.95 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :if you just c/p the core of it into where it needs to go ill fix it all up
+1313340942063.23 :MrTiggr!~MrTiggr@ozco.in PRIVMSG Caltex-Bot :list events
+1313340957598.11 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :^^ gotta do it in PVT :S   isee 
+1313340965164.55 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ah
+1313340975373.13 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG Caltex-Bot :events
+1313340980211.41 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG Caltex-Bot :listevents
+1313341069746.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D  this looks easy ...i gotta go any minnit ..but i will do it tonight when i get to the gong ... ur gonna love this
+1313341090888.74 PING :niven.freenode.net
+1313341370907.75 PING :niven.freenode.net
+1313341510905.76 PING :niven.freenode.net
+1313341514961.99 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hahahahaha
+1313341650888.77 PING :niven.freenode.net
+1313341686375.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::0
+1313341694646.27 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :well i guess i bettr go
+1313341711925.26 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i'll catch u in 3 or so hours; not far to drive :S
+1313341719165.67 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeah alright; cya
+1313341755586.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol your gunna love this
+1313341760617.04 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i just generated a address
+1313341761509.1 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :1bitcopEUGbSMJLYi5wh7ZC4CD9p35rcv
+1313341771697.68 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ooooooooh
+1313341774442.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :iii luv you
+1313341778543.07 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :haha
+1313341779041.1 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ACTION licks SomeoneWeird 
+1313341785496.47 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ACTION AND his cool wallet
+1313341790902.78 PING :niven.freenode.net
+1313341795942.07 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ValintyWallet!!!!
+1313341807106.7 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we shud use that for the tipjar
+1313341817150.28 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION still needs to compile a wallet so i can use all my generated addresses
+1313341818972.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :quotes
+1313341824468.7 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i have like 8 that start with 1sweird
+1313341828297.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :quote
+1313341841572.68 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok ...gone now bra
+1313341848423.07 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yah; cya

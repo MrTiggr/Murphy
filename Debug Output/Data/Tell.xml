@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTellInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TellInfo>
+    <Target>tiggr</Target>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-20T01:01:09.3223967+10:00</Date>
+    <Text>ok</Text>
+    <Name>MrTiggr</Name>
+  </TellInfo>
+</ArrayOfTellInfo>

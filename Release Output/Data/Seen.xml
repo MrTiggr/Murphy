@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSeenInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SeenInfo>
+    <Names>
+      <string>Caltex-Bot</string>
+      <string>Calte551199134</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-20T17:25:12.5544764+10:00</Date>
+    <Text>quitting IRC (Ping timeout: 240 seconds)</Text>
+    <Ident>~Caltex-Bo</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>MrTiggr</string>
+      <string>Caltex-Bot</string>
+      <string>Calte267867100</string>
+      <string>Calte355303693</string>
+      <string>MrTiggrAFK</string>
+      <string>Calte2102372722</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-23T03:36:42.6258178+10:00</Date>
+    <Text>on , saying #set PHONE 0408 232 584</Text>
+    <Ident>~MrTiggr</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>SomeoneWeird</string>
+      <string>SomeoneWeirdAFK</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-22T00:11:15.4586694+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying not what it should be doing though :p</Text>
+    <Ident>~no</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>noagendamarket</string>
+      <string>noagenda_</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-23T08:41:55.9532434+10:00</Date>
+    <Text>joining #bitcoin-police-bot</Text>
+    <Ident>~dave</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>Graet</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-21T01:36:14.635611+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying #everify  Ozcoin:634494872697846139</Text>
+    <Ident>~Graet</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>KenArmitt</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-21T16:54:38.0942659+10:00</Date>
+    <Text>joining #bitcoin-police-bot</Text>
+    <Ident>KenArmitt</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>TiggrBot</string>
+    </Names>
+    <Network>Caltex-Bot</Network>
+    <Date>2011-08-23T02:15:54.4744991+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying Known words: fwiw, "Duck, NSA, MITM, FUBAR, MineShaft, IxCoin, DSO, DEA, tineye, LMGTFY, SNAFU, FS, MH, FOBP, IANAL, IANAM, bbiab, MO, bbiaf, TAFE, BCIS, HC, RCMP, somethingawful, bbiaw, SA, NaCL, CoC, PS</Text>
+    <Ident>~TiggrBot</Ident>
+  </SeenInfo>
+</ArrayOfSeenInfo>

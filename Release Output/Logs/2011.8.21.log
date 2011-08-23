@@ -1,0 +1,1820 @@
+1313884857825.63 PING :zelazny.freenode.net
+1313884989887.18 PING :zelazny.freenode.net
+1313885056460.99 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1313885121850.73 PING :zelazny.freenode.net
+1313887075368.46 :holmes.freenode.net NOTICE * :*** Looking up your hostname...
+1313887075879.49 :holmes.freenode.net NOTICE * :*** Checking Ident
+1313887076436.53 :holmes.freenode.net NOTICE * :*** Found your hostname
+1313887087046.13 :holmes.freenode.net NOTICE * :*** No Ident response
+1313887087516.16 :holmes.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313887087521.16 :holmes.freenode.net 002 Caltex-Bot :Your host is holmes.freenode.net[213.232.93.3/6667], running version ircd-seven-1.0.3
+1313887087522.16 :holmes.freenode.net 003 Caltex-Bot :This server was created Tue Feb 23 2010 at 23:01:30 GMT
+1313887087522.16 :holmes.freenode.net 004 Caltex-Bot holmes.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313887087523.16 :holmes.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313887087523.16 :holmes.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313887087523.16 :holmes.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313887087524.16 :holmes.freenode.net 251 Caltex-Bot :There are 303 users and 60835 invisible on 26 servers
+1313887087524.16 :holmes.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313887087525.16 :holmes.freenode.net 253 Caltex-Bot 2 :unknown connection(s)
+1313887087525.16 :holmes.freenode.net 254 Caltex-Bot 43114 :channels formed
+1313887087526.16 :holmes.freenode.net 255 Caltex-Bot :I have 3888 clients and 1 servers
+1313887087526.16 :holmes.freenode.net 265 Caltex-Bot 3888 7093 :Current local users 3888, max 7093
+1313887087527.16 :holmes.freenode.net 266 Caltex-Bot 61138 75049 :Current global users 61138, max 75049
+1313887087528.16 :holmes.freenode.net 250 Caltex-Bot :Highest connection count: 7094 (7093 clients) (1316352 connections received)
+1313887087528.16 :holmes.freenode.net 375 Caltex-Bot :- holmes.freenode.net Message of the Day - 
+1313887087529.16 :holmes.freenode.net 372 Caltex-Bot :- Welcome to holmes.freenode.net in London, UK! Massive thanks to 
+1313887087534.16 :holmes.freenode.net 372 Caltex-Bot :- UK2 (http://www.uk2.net) for sponsoring this server.
+1313887087535.16 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887087535.16 :holmes.freenode.net 372 Caltex-Bot :- HOLMES, ROBERT (1928-1986). An English television scriptwriter, 
+1313887087536.16 :holmes.freenode.net 372 Caltex-Bot :- most notably remembered for his work on the sci-fi series; 
+1313887087537.16 :holmes.freenode.net 372 Caltex-Bot :- Doctor Who. 
+1313887087537.16 :holmes.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313887087538.16 :holmes.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313887087539.16 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887087540.16 :holmes.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313887088220.2 :holmes.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313887088221.2 :holmes.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313887088221.2 :holmes.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313887088222.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088222.2 :holmes.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313887088223.2 :holmes.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313887088223.2 :holmes.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313887088224.2 :holmes.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313887088225.2 :holmes.freenode.net 372 Caltex-Bot :- support.
+1313887088225.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088226.2 :holmes.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313887088226.2 :holmes.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313887088227.2 :holmes.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313887088227.2 :holmes.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313887088228.2 :holmes.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313887088228.2 :holmes.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313887088229.2 :holmes.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313887088229.2 :holmes.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313887088230.2 :holmes.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313887088230.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088231.2 :holmes.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313887088231.2 :holmes.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313887088232.2 :holmes.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313887088232.2 :holmes.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313887088233.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088233.2 :holmes.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313887088234.2 :holmes.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313887088235.2 :holmes.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313887088235.2 :holmes.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313887088235.2 :holmes.freenode.net 372 Caltex-Bot :- the network!
+1313887088236.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088237.2 :holmes.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313887088237.2 :holmes.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313887088238.2 :holmes.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313887088238.2 :holmes.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313887088239.2 :holmes.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313887088239.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088240.2 :holmes.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313887088240.2 :holmes.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313887088241.2 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088246.2 :holmes.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313887088576.22 :holmes.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313887088576.22 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088577.22 :holmes.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313887088577.22 :holmes.freenode.net 372 Caltex-Bot :-  
+1313887088577.22 :holmes.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313887088577.22 :holmes.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313887088577.22 :holmes.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313887088578.22 :holmes.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313887088641.22 :Caltex-Bot MODE Caltex-Bot :+i
+1313887088669.23 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313887091268.37 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313887091643.4 :holmes.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeird MrTiggr SuprTiggr
+1313887091652.4 :holmes.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313887092193.43 :holmes.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313887092208.43 :holmes.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313887092209.43 :holmes.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-191-99.NSW.netspace.net.au holmes.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313887092219.43 :holmes.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird barjavel.freenode.net SomeoneWeird H :0 no
+1313887092220.43 :holmes.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313887092220.43 :holmes.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313887092221.43 :holmes.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313887092221.43 :holmes.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313887092250.43 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313887098211.77 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313887118357.92 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :k
+1313887119673 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehehe
+1313887122082.14 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :awwwsm
+1313887127583.45 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :waitwut
+1313889085621.44 :barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+1313889086145.47 :barjavel.freenode.net NOTICE * :*** Checking Ident
+1313889086967.52 :barjavel.freenode.net NOTICE * :*** Found your hostname
+1313889096974.09 :barjavel.freenode.net NOTICE * :*** No Ident response
+1313889097424.12 :barjavel.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313889097428.12 :barjavel.freenode.net 002 Caltex-Bot :Your host is barjavel.freenode.net[78.40.125.4/6667], running version ircd-seven-1.0.3
+1313889097429.12 :barjavel.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:29 CET
+1313889097429.12 :barjavel.freenode.net 004 Caltex-Bot barjavel.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313889097430.12 :barjavel.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313889097430.12 :barjavel.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313889097431.12 :barjavel.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313889097432.12 :barjavel.freenode.net 251 Caltex-Bot :There are 297 users and 61130 invisible on 26 servers
+1313889097432.12 :barjavel.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313889097433.12 :barjavel.freenode.net 253 Caltex-Bot 10 :unknown connection(s)
+1313889098134.16 :barjavel.freenode.net 254 Caltex-Bot 43117 :channels formed
+1313889098135.16 :barjavel.freenode.net 255 Caltex-Bot :I have 6888 clients and 1 servers
+1313889098135.16 :barjavel.freenode.net 265 Caltex-Bot 6888 10333 :Current local users 6888, max 10333
+1313889098135.16 :barjavel.freenode.net 266 Caltex-Bot 61427 75048 :Current global users 61427, max 75048
+1313889098136.16 :barjavel.freenode.net 250 Caltex-Bot :Highest connection count: 10334 (10333 clients) (6330638 connections received)
+1313889098136.16 :barjavel.freenode.net 375 Caltex-Bot :- barjavel.freenode.net Message of the Day - 
+1313889098137.16 :barjavel.freenode.net 372 Caltex-Bot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+1313889098139.16 :barjavel.freenode.net 372 Caltex-Bot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+1313889098140.16 :barjavel.freenode.net 372 Caltex-Bot :- this server!
+1313889098140.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098141.16 :barjavel.freenode.net 372 Caltex-Bot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+1313889098141.16 :barjavel.freenode.net 372 Caltex-Bot :- science-fiction author, a journalist and a critic. He is
+1313889098142.16 :barjavel.freenode.net 372 Caltex-Bot :- credited with having written the first novel to introduce 
+1313889098142.16 :barjavel.freenode.net 372 Caltex-Bot :- the Grandfather Paradox in time travel, in his 1943 work 
+1313889098143.16 :barjavel.freenode.net 372 Caltex-Bot :- 'Le Voyageur imprudent'.
+1313889098143.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098144.16 :barjavel.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313889098144.16 :barjavel.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313889098145.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098145.16 :barjavel.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313889098146.16 :barjavel.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313889098146.16 :barjavel.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313889098147.16 :barjavel.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313889098147.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098147.16 :barjavel.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313889098148.16 :barjavel.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313889098148.16 :barjavel.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313889098149.16 :barjavel.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313889098149.16 :barjavel.freenode.net 372 Caltex-Bot :- support.
+1313889098150.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098150.16 :barjavel.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313889098151.16 :barjavel.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313889098151.16 :barjavel.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313889098152.16 :barjavel.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313889098152.16 :barjavel.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313889098152.16 :barjavel.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313889098153.16 :barjavel.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313889098153.16 :barjavel.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313889098154.16 :barjavel.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313889098154.16 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098554.18 :barjavel.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313889098555.18 :barjavel.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313889098555.18 :barjavel.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313889098555.18 :barjavel.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313889098556.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098556.18 :barjavel.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313889098562.18 :barjavel.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313889098562.18 :barjavel.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313889098563.18 :barjavel.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313889098563.18 :barjavel.freenode.net 372 Caltex-Bot :- the network!
+1313889098564.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098564.18 :barjavel.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313889098565.18 :barjavel.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313889098565.18 :barjavel.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313889098566.18 :barjavel.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313889098566.18 :barjavel.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313889098567.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098567.18 :barjavel.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313889098568.18 :barjavel.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313889098568.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098569.18 :barjavel.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313889098569.18 :barjavel.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313889098570.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098570.18 :barjavel.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313889098570.18 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313889098571.19 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313889098571.19 :barjavel.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313889098572.19 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313889098572.19 :barjavel.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313889098644.19 :Caltex-Bot MODE Caltex-Bot :+i
+1313889098672.19 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313889101159.33 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313889101562.36 :barjavel.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeird MrTiggr SuprTiggr
+1313889101584.36 :barjavel.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313889102126.39 :barjavel.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313889102141.39 :barjavel.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313889102142.39 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-191-99.NSW.netspace.net.au barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313889102150.39 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird barjavel.freenode.net SomeoneWeird H :0 no
+1313889102151.39 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313889102151.39 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313889102152.39 :barjavel.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313889102152.39 :barjavel.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313889102187.39 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313889109106.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#eauth
+1313889117120.25 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :^^
+1313889174660.54 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634494859096278174
+1313889181427.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1313889197541.85 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#setemail Mr.Tiggr@gmail.com
+1313889208401.47 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :\o/
+1313889217681 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and it WAS!
+1313889227481.56 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#emailauth
+1313889232245.83 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::(
+1313889236681.08 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :heh
+1313889239965.27 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::(
+1313889251868.95 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313889280409.59 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :that should all be pm
+1313889282725.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :or notice
+1313889288566.05 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :so channel dont get spammed
+1313889330716.46 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634494860518759535
+1313889335057.71 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :AHAHAHAHAHA
+1313889338120.89 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :WINNNING!!!!
+1313889340488.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :OK 
+1313889342570.14 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you try
+1313889343138.17 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :aweeeeeomssee :D
+1313889346347.36 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :k
+1313889348861.5 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#eauth
+1313889377778.15 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#everify SomeoneWeird:634494861488915025
+1313889391976.97 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#setemail ajbrady@internode.on.net
+1313889407422.85 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#logout
+1313889427760.01 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :what smtp server you using?
+1313889437057.55 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#email
+1313889473120.61 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#everify SomeoneWeird:634494862370625456
+1313889478675.93 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D:D:D:D:D
+1313889479724.99 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :MrTiggr++
+1313889483564.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you like ?
+1313889487639.44 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION liek
+1313889532795.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :notice the emails come from our bitcoinpolice.org email :D
+1313889537284.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tasty :D
+1313889539412.4 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh i saw :D
+1313889550222.02 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :we should make it gpg@bitcoinpolice.org
+1313889552042.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :or something
+1313889569212.1 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and my enigmail decrypted that with no user intervention :D
+1313889573138.33 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh
+1313889580410.74 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i will create an account for it efentuallt
+1313889596157.65 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :noiice
+1313889599959.86 PING :barjavel.freenode.net
+1313889602730.02 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION should setup enigmail
+1313889742946.04 PING :barjavel.freenode.net
+1313889790019.73 :noagendamarket!~dave@unaffiliated/noagendamarket JOIN :#bitcoin-police-bot
+1313889790420.76 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket verne.freenode.net noagendamarket H :0 dave
+1313889790981.79 :barjavel.freenode.net 315 Caltex-Bot noagendamarket :End of /WHO list.
+1313889804446.56 :Graet!~Graet@unaffiliated/graet JOIN :#bitcoin-police-bot
+1313889804917.59 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313889805478.62 :barjavel.freenode.net 315 Caltex-Bot Graet :End of /WHO list.
+1313889878661.8 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :guys, #register then #eauth then #everify
+1313889934960.02 PING :barjavel.freenode.net
+1313890006439.11 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :with Caltex-Bot ?
+1313890011352.39 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#register
+1313890014319.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :here
+1313890048624.52 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :my pgp key/ or create one for ozcoin?
+1313890056687.99 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yours will do
+1313890061667.27 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :its only testing for now
+1313890062217.3 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :still testing
+1313890064194.42 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :ta
+1313890103042.64 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#register Ozcoin Pooled Mining Pty Ltd 4096R/155C5CBCD0457E9A
+1313890111071.1 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :hehe
+1313890118362.51 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmmmm
+1313890122321.74 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :spaces
+1313890126193.96 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :just do Ozcoin
+1313890137297.6 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :thats not my company name
+1313890143988.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :it's testing
+1313890147485.18 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :kk
+1313890148100.21 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :we're gunna wipe db anyway
+1313890156763.71 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#register Ozcoin 4096R/155C5CBCD0457E9A
+1313890159966.89 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :>.<
+1313890160717.94 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :kk
+1313890179286 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#register Ozcoin 155C5CBCD0457E9A
+1313890181358.12 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :tjhat my pub key
+1313890184372.29 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :there
+1313890185874.38 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::)
+1313890191838.72 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :ahh
+1313890197417.04 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D i see that key loading at my end 
+1313890200892.23 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :soooooo cool
+1313890205723.51 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :awesomee D:
+1313890206959.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :*:D
+1313890210576.79 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot ::)
+1313890211517.84 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :now #eauth Ozcoin
+1313890224676.59 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok got it
+1313890227713.77 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :go
+1313890243299.66 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #eauth Ozcoin
+1313890250240.06 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#eauth Ozcoin
+1313890264231.86 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :decrypt that
+1313890266413.98 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :then
+1313890267653.05 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :oh can i do the wget thing?
+1313890271105.25 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1313890274756.46 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :cool
+1313890275308.49 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#leauth Ozcoin
+1313890279103.71 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #everify <textyoudcryptd>
+1313890280693.8 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :i fail every other way lol
+1313890304403.15 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Graet: ^^ #leauth Ozcoin
+1313890314559.74 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :he can use mine it doesn't matter
+1313890328327.52 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :root@grae-jolicloud:~# wget -qO http://pastebin.com/raw.php?i=cMUC3xBD | gpg --decrypt
+1313890328870.55 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :gpg: no valid OpenPGP data found.
+1313890328897.56 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :gpg: decrypt_message failed: eof
+1313890329865.61 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :true
+1313890337441.04 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmmm
+1313890342500.33 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :i'll try mne
+1313890351552.85 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :that shouldve worked
+1313890366683.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :MrTiggr, you tried wget method?
+1313890370657.94 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :is it the right params
+1313890372339.04 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nope
+1313890375790.24 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mm
+1313890379327.44 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nevr werks on windoze
+1313890385456.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :its ur command
+1313890386172.83 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ino
+1313890390107.06 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol i know wait up
+1313890392871.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tell me the fix
+1313890402345.76 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :heehehehehe
+1313890406328.98 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :same error with my key
+1313890406906.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :stoopid bot
+1313890413976.42 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmmm
+1313890424944.05 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :Graet it should auto select the correct key
+1313890425524.08 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeah... can u do it the hard way Graet ?
+1313890436206.69 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh but YOU typed that command SomeoneWeird 
+1313890443144.09 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i knowwww
+1313890448666.41 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :im tryna get gribbles one
+1313890460506.08 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Graet: type #eauth Ozcoin yourself and do it the hard way
+1313890461422.14 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :i dont remember the hard way lol, i tried 1 time and found the wget
+1313890463602.26 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :pretty sure that was right, because it decryped it, its just there was nothing TO decrypt
+1313890466609.43 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok
+1313890469031.57 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hold on
+1313890469780.61 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#eauth Ozcoin
+1313890472066.74 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we will cheat
+1313890485005.48 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#everify Ozcoin j
+1313890490696.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :0_o
+1313890520463.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Graet: type #everify Ozcoin:634494872697846139
+1313890543218.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmmmm
+1313890548270.1 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :we shouldn't store it in plaintext MrTiggr 
+1313890556065.55 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :sha of the verify string
+1313890561403.85 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :gpg: encrypted with 4096-bit RSA key, ID 0463BD05, created 2011-06-15
+1313890562003.89 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :      "Graeme Tee (Graet) <graet@ozco.in>"
+1313890562047.89 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :Ozcoin:634494872697846139
+1313890566566.15 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we are not storing it the db after this test at ALL remembr!!
+1313890574631.61 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#everify  Ozcoin:634494872697846139
+1313890575055.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ahhh right
+1313890580184.93 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :wtf
+1313890581080.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ok..
+1313890585407.23 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#eauth
+1313890609977.63 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#everify SomeoneWeird:634494873854112273
+1313890614046.87 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#rollcall
+1313890624427.46 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#rollcall
+1313890639550.32 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :MrTiggr logged in users needs to be cleared sometimes
+1313890645281.65 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :when people change nick, part etc.
+1313890650679.96 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh
+1313890668768 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok
+1313890672046.18 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :one sec
+1313891035041.94 :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+1313891035067.95 :hitchcock.freenode.net NOTICE * :*** Checking Ident
+1313891035835.99 :hitchcock.freenode.net NOTICE * :*** Found your hostname
+1313891045153.52 :hitchcock.freenode.net NOTICE * :*** No Ident response
+1313891045154.52 :hitchcock.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313891045155.52 :hitchcock.freenode.net 002 Caltex-Bot :Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.0.3
+1313891045155.52 :hitchcock.freenode.net 003 Caltex-Bot :This server was created Thu Feb 24 2011 at 18:22:29 EET
+1313891045155.52 :hitchcock.freenode.net 004 Caltex-Bot hitchcock.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313891045155.52 :hitchcock.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313891045156.52 :hitchcock.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313891045156.52 :hitchcock.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313891045156.52 :hitchcock.freenode.net 251 Caltex-Bot :There are 300 users and 61336 invisible on 26 servers
+1313891045156.52 :hitchcock.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313891045157.52 :hitchcock.freenode.net 253 Caltex-Bot 2 :unknown connection(s)
+1313891045157.52 :hitchcock.freenode.net 254 Caltex-Bot 43160 :channels formed
+1313891045157.52 :hitchcock.freenode.net 255 Caltex-Bot :I have 2745 clients and 1 servers
+1313891045157.52 :hitchcock.freenode.net 265 Caltex-Bot 2745 3365 :Current local users 2745, max 3365
+1313891045158.52 :hitchcock.freenode.net 266 Caltex-Bot 61636 75049 :Current global users 61636, max 75049
+1313891045158.52 :hitchcock.freenode.net 250 Caltex-Bot :Highest connection count: 3366 (3365 clients) (225226 connections received)
+1313891045158.52 :hitchcock.freenode.net 375 Caltex-Bot :- hitchcock.freenode.net Message of the Day - 
+1313891045158.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045161.52 :hitchcock.freenode.net 372 Caltex-Bot :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+1313891045161.52 :hitchcock.freenode.net 372 Caltex-Bot :- OnlineDirect (http://onlinedirect.bg).
+1313891045161.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045161.52 :hitchcock.freenode.net 372 Caltex-Bot :- HITCHCOCK, ALFRED [1889-1980].  Born in London, UK, Hitchcock went on to pioneer
+1313891045162.52 :hitchcock.freenode.net 372 Caltex-Bot :- many techniques in film-making.
+1313891045162.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045162.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045162.52 :hitchcock.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313891045162.52 :hitchcock.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313891045163.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045163.52 :hitchcock.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313891045163.52 :hitchcock.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313891045164.52 :hitchcock.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313891045165.52 :hitchcock.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313891045165.52 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045165.52 :hitchcock.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313891045165.52 :hitchcock.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313891045165.52 :hitchcock.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313891045605.55 :hitchcock.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313891045605.55 :hitchcock.freenode.net 372 Caltex-Bot :- support.
+1313891045606.55 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891045606.55 :hitchcock.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313891045606.55 :hitchcock.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313891045606.55 :hitchcock.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313891045606.55 :hitchcock.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313891046639.61 :hitchcock.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313891046640.61 :hitchcock.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313891046640.61 :hitchcock.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313891046640.61 :hitchcock.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313891046641.61 :hitchcock.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313891046641.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046642.61 :hitchcock.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313891046647.61 :hitchcock.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313891046648.61 :hitchcock.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313891046648.61 :hitchcock.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313891046649.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046649.61 :hitchcock.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313891046650.61 :hitchcock.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313891046650.61 :hitchcock.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313891046651.61 :hitchcock.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313891046652.61 :hitchcock.freenode.net 372 Caltex-Bot :- the network!
+1313891046652.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046653.61 :hitchcock.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313891046653.61 :hitchcock.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313891046654.61 :hitchcock.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313891046654.61 :hitchcock.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313891046656.61 :hitchcock.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313891046656.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046657.61 :hitchcock.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313891046657.61 :hitchcock.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313891046658.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046658.61 :hitchcock.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313891046659.61 :hitchcock.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313891046659.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046660.61 :hitchcock.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313891046660.61 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1313891046660.61 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891046661.61 :hitchcock.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313891046661.61 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891046662.61 :hitchcock.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313891046728.61 :Caltex-Bot MODE Caltex-Bot :+i
+1313891046754.61 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313891049154.75 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313891049629.78 :hitchcock.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot Graet noagendamarket SomeoneWeird MrTiggr SuprTiggr
+1313891049634.78 :hitchcock.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313891049677.78 :hitchcock.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313891049694.78 :hitchcock.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313891049694.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-191-99.NSW.netspace.net.au hitchcock.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313891049703.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313891049704.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket verne.freenode.net noagendamarket H :0 dave
+1313891049705.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird barjavel.freenode.net SomeoneWeird H :0 no
+1313891049705.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313891049705.78 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313891049705.78 :hitchcock.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313891049775.79 :hitchcock.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313891049813.79 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313891486417.76 :gibson.freenode.net NOTICE * :*** Looking up your hostname...
+1313891486943.79 :gibson.freenode.net NOTICE * :*** Checking Ident
+1313891487775.84 :gibson.freenode.net NOTICE * :*** Found your hostname
+1313891497490.4 :gibson.freenode.net NOTICE * :*** No Ident response
+1313891497861.42 :gibson.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313891497865.42 :gibson.freenode.net 002 Caltex-Bot :Your host is gibson.freenode.net[213.179.58.83/6667], running version ircd-seven-1.0.3
+1313891497866.42 :gibson.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:05:12 CET
+1313891497866.42 :gibson.freenode.net 004 Caltex-Bot gibson.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313891497867.42 :gibson.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313891497867.42 :gibson.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313891497868.42 :gibson.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313891497868.42 :gibson.freenode.net 251 Caltex-Bot :There are 300 users and 61303 invisible on 26 servers
+1313891497868.42 :gibson.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313891497869.42 :gibson.freenode.net 253 Caltex-Bot 6 :unknown connection(s)
+1313891497869.42 :gibson.freenode.net 254 Caltex-Bot 43139 :channels formed
+1313891497870.42 :gibson.freenode.net 255 Caltex-Bot :I have 3708 clients and 2 servers
+1313891497870.42 :gibson.freenode.net 265 Caltex-Bot 3708 6710 :Current local users 3708, max 6710
+1313891497871.42 :gibson.freenode.net 266 Caltex-Bot 61603 75049 :Current global users 61603, max 75049
+1313891497871.42 :gibson.freenode.net 250 Caltex-Bot :Highest connection count: 6711 (6710 clients) (1763391 connections received)
+1313891497871.42 :gibson.freenode.net 375 Caltex-Bot :- gibson.freenode.net Message of the Day - 
+1313891497872.42 :gibson.freenode.net 372 Caltex-Bot :- Welcome to gibson.freenode.net in Norway, EU!  Thanks to
+1313891497874.42 :gibson.freenode.net 372 Caltex-Bot :- SSC Networks (www.ssc.no) for sponsoring this server!
+1313891497875.42 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891497875.42 :gibson.freenode.net 372 Caltex-Bot :- GIBSON, WILLIAM (1948-) He is married with two children. In
+1313891497875.42 :gibson.freenode.net 372 Caltex-Bot :- the early 1980s he wrote Neuromancer, and with this novel he
+1313891497876.42 :gibson.freenode.net 372 Caltex-Bot :- helped establish a new kind of science fiction literature
+1313891497876.42 :gibson.freenode.net 372 Caltex-Bot :- called cyberpunk. William Gibson defined the word cyberspace,
+1313891497876.42 :gibson.freenode.net 372 Caltex-Bot :- and described virtual reality long before we saw the
+1313891497877.42 :gibson.freenode.net 372 Caltex-Bot :- similarities with todays Internet. He has won the Hugo Award,
+1313891497877.42 :gibson.freenode.net 372 Caltex-Bot :- Nebula Award and the Philipp K. Dick Award.
+1313891497877.42 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891497877.42 :gibson.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313891497877.42 :gibson.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313891497878.42 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891497878.42 :gibson.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313891497878.42 :gibson.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313891497878.42 :gibson.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313891497879.42 :gibson.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313891497879.42 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498259.44 :gibson.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313891498260.44 :gibson.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313891498260.44 :gibson.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313891498260.44 :gibson.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313891498261.44 :gibson.freenode.net 372 Caltex-Bot :- support.
+1313891498262.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498262.44 :gibson.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313891498263.44 :gibson.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313891498264.44 :gibson.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313891498264.44 :gibson.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313891498265.44 :gibson.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313891498265.44 :gibson.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313891498266.44 :gibson.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313891498266.44 :gibson.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313891498267.44 :gibson.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313891498267.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498268.44 :gibson.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313891498268.44 :gibson.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313891498269.44 :gibson.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313891498269.44 :gibson.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313891498270.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498270.44 :gibson.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313891498271.44 :gibson.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313891498272.44 :gibson.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313891498272.44 :gibson.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313891498273.44 :gibson.freenode.net 372 Caltex-Bot :- the network!
+1313891498273.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498274.44 :gibson.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313891498274.44 :gibson.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313891498275.44 :gibson.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313891498275.44 :gibson.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313891498276.44 :gibson.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313891498276.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498276.44 :gibson.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313891498277.44 :gibson.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313891498283.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498284.44 :gibson.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313891498284.44 :gibson.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313891498285.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498285.44 :gibson.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313891498285.44 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891498286.44 :gibson.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891498286.44 :gibson.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313891498287.44 :gibson.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891498287.44 :gibson.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313891498351.44 :Caltex-Bot MODE Caltex-Bot :+i
+1313891498378.45 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313891500560.57 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313891501001.6 :gibson.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot Graet noagendamarket SomeoneWeird MrTiggr SuprTiggr
+1313891501010.6 :gibson.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313891501602.63 :gibson.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313891501617.63 :gibson.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313891501618.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-191-99.NSW.netspace.net.au gibson.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313891501625.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313891501625.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket verne.freenode.net noagendamarket H :0 dave
+1313891501626.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird barjavel.freenode.net SomeoneWeird H :0 no
+1313891501626.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313891501626.63 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313891501626.63 :gibson.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313891501627.63 :gibson.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313891501652.63 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313891516895.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify Ozcoin:634494872697846139
+1313891526407.05 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#logout
+1313891532504.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313891572587.69 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634494883325173987
+1313891610623.87 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I wish nanotube had done the email one lol
+1313891617172.24 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeah
+1313891617771.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nam!
+1313891621878.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :uve reggd
+1313891627008.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :do #eauth
+1313891632949.14 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#eauth
+1313891645684.87 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : now #everify that
+1313891646251.9 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#email
+1313891684385.09 :gibson.freenode.net NOTICE * :*** Looking up your hostname...
+1313891684928.12 :gibson.freenode.net NOTICE * :*** Checking Ident
+1313891684956.12 :gibson.freenode.net NOTICE * :*** Found your hostname
+1313891697586.84 :gibson.freenode.net NOTICE * :*** No Ident response
+1313891698026.87 :gibson.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313891698028.87 :gibson.freenode.net 002 Caltex-Bot :Your host is gibson.freenode.net[213.179.58.83/6667], running version ircd-seven-1.0.3
+1313891698029.87 :gibson.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:05:12 CET
+1313891698029.87 :gibson.freenode.net 004 Caltex-Bot gibson.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313891698029.87 :gibson.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313891698030.87 :gibson.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313891698030.87 :gibson.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313891698031.87 :gibson.freenode.net 251 Caltex-Bot :There are 299 users and 61307 invisible on 26 servers
+1313891698032.87 :gibson.freenode.net 252 Caltex-Bot 31 :IRC Operators online
+1313891698032.87 :gibson.freenode.net 253 Caltex-Bot 1 :unknown connection(s)
+1313891698033.87 :gibson.freenode.net 254 Caltex-Bot 43116 :channels formed
+1313891698033.87 :gibson.freenode.net 255 Caltex-Bot :I have 3703 clients and 2 servers
+1313891698033.87 :gibson.freenode.net 265 Caltex-Bot 3703 6710 :Current local users 3703, max 6710
+1313891698034.87 :gibson.freenode.net 266 Caltex-Bot 61606 75049 :Current global users 61606, max 75049
+1313891698034.87 :gibson.freenode.net 250 Caltex-Bot :Highest connection count: 6711 (6710 clients) (1763418 connections received)
+1313891698035.87 :gibson.freenode.net 375 Caltex-Bot :- gibson.freenode.net Message of the Day - 
+1313891698035.87 :gibson.freenode.net 372 Caltex-Bot :- Welcome to gibson.freenode.net in Norway, EU!  Thanks to
+1313891698037.87 :gibson.freenode.net 372 Caltex-Bot :- SSC Networks (www.ssc.no) for sponsoring this server!
+1313891698038.87 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698039.87 :gibson.freenode.net 372 Caltex-Bot :- GIBSON, WILLIAM (1948-) He is married with two children. In
+1313891698039.87 :gibson.freenode.net 372 Caltex-Bot :- the early 1980s he wrote Neuromancer, and with this novel he
+1313891698039.87 :gibson.freenode.net 372 Caltex-Bot :- helped establish a new kind of science fiction literature
+1313891698040.87 :gibson.freenode.net 372 Caltex-Bot :- called cyberpunk. William Gibson defined the word cyberspace,
+1313891698040.87 :gibson.freenode.net 372 Caltex-Bot :- and described virtual reality long before we saw the
+1313891698041.87 :gibson.freenode.net 372 Caltex-Bot :- similarities with todays Internet. He has won the Hugo Award,
+1313891698042.87 :gibson.freenode.net 372 Caltex-Bot :- Nebula Award and the Philipp K. Dick Award.
+1313891698042.87 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698043.87 :gibson.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313891698043.87 :gibson.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313891698043.87 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698044.87 :gibson.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313891698045.87 :gibson.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313891698045.87 :gibson.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313891698046.87 :gibson.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313891698046.87 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698046.87 :gibson.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313891698047.87 :gibson.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313891698047.87 :gibson.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313891698048.87 :gibson.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313891698048.87 :gibson.freenode.net 372 Caltex-Bot :- support.
+1313891698049.87 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698049.87 :gibson.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313891698049.87 :gibson.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313891698050.87 :gibson.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313891698050.87 :gibson.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313891698051.87 :gibson.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313891698052.87 :gibson.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313891698452.89 :gibson.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313891698453.89 :gibson.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313891698453.89 :gibson.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313891698453.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698459.89 :gibson.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313891698460.89 :gibson.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313891698460.89 :gibson.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313891698460.89 :gibson.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313891698461.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698461.89 :gibson.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313891698461.89 :gibson.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313891698461.89 :gibson.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313891698462.89 :gibson.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313891698462.89 :gibson.freenode.net 372 Caltex-Bot :- the network!
+1313891698462.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698462.89 :gibson.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313891698462.89 :gibson.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313891698463.89 :gibson.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313891698463.89 :gibson.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313891698463.89 :gibson.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313891698463.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698463.89 :gibson.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313891698464.89 :gibson.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313891698464.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698464.89 :gibson.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313891698464.89 :gibson.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313891698464.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698465.89 :gibson.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313891698467.89 :gibson.freenode.net 372 Caltex-Bot :-  
+1313891698468.89 :gibson.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891698468.89 :gibson.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313891698468.89 :gibson.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313891698468.89 :gibson.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313891698542.89 :Caltex-Bot MODE Caltex-Bot :+i
+1313891698569.9 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313891700588.01 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313891701029.04 :gibson.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot Graet noagendamarket SomeoneWeird MrTiggr SuprTiggr
+1313891701037.04 :gibson.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313891701629.07 :gibson.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313891701645.07 :gibson.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313891701645.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-191-99.NSW.netspace.net.au gibson.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313891701652.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313891701652.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket verne.freenode.net noagendamarket H :0 dave
+1313891701653.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird barjavel.freenode.net SomeoneWeird H :0 no
+1313891701653.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggr H :0 MrTiggr
+1313891701653.07 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313891701654.07 :gibson.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313891701654.07 :gibson.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313891701689.08 :Caltex-Bot!~MrTiggr@220-253-191-99.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313891705277.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :o eauth
+1313891715295.85 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nam, #eauth
+1313891716227.91 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :wrap the entire bot in a try catch block lawl
+1313891721510.21 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#eauth
+1313891736507.07 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok decrypt it and the #everify that
+1313891801551.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noagendamarket:  it will be noagendamarket:634494885215642116
+1313891808173.17 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1313891816695.65 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :;) i cheat for now
+1313891836560.79 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :lol
+1313891847382.41 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#everify noagendamarket:634494885215642116
+1313891852818.72 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok
+1313891855034.85 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :NOW
+1313891864495.39 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #setemail <youremail>
+1313891889057.79 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#setemail dabitcoind@gmail.com 
+1313891900670.46 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot ::0
+1313891902501.56 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok..
+1313891908706.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #logout
+1313891912706.14 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :then
+1313891915327.29 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#logout
+1313891917013.39 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #email
+1313891923041.74 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#email
+1313891930390.16 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :\o/
+1313891934781.41 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yaaaay!
+1313891937165.54 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :sweet
+1313891947140.11 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so enigmail will nail that
+1313891951637.37 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #everify it
+1313892067394.99 PING :gibson.freenode.net
+1313892089717.27 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :man..that IS a nice feature :D
+1313892094942.57 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh :D
+1313892095541.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#logout
+1313892097471.71 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313892106659.24 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :havent gotten mail yet
+1313892110567.46 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :orly
+1313892111914.54 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#email
+1313892117295.85 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :junk?
+1313892119504.97 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634494888974747124
+1313892124680.27 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :looks
+1313892126181.35 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :AWSM!!!!
+1313892172020.98 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :workd for you yeah SomeoneWeird ?
+1313892175437.17 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1313892256398.8 PING :gibson.freenode.net
+1313892282236.28 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :hmm its in gmail but hasnt come thru to enigmail
+1313892294570.99 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :waitwut
+1313892307255.71 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :your using thunderbird to get your mail ye?
+1313892340051.59 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah i also use evolution 
+1313892352586.3 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :is it coming through to thunderbid?
+1313892353178.34 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :it can use pgp too
+1313892357203.57 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :bird
+1313892382395.01 PING :gibson.freenode.net
+1313892508391.22 PING :gibson.freenode.net
+1313892569084.69 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hrmm i am just sending it via the bitcoinpolice.org gmail account
+1313892624561.86 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yuo got it noagendamarket ?
+1313892634397.42 PING :gibson.freenode.net
+1313892674402.71 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :if you see it in gmail just copy the text ang gpg --decrypt it
+1313892760391.63 PING :gibson.freenode.net
+1313892767326.03 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#rollcall
+1313892907428.04 PING :gibson.freenode.net
+1313892921222.83 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :the answer is >> noagendamarket:634494889119175385
+1313892932604.48 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :http://pastebin.com/HUavTBsg  thats what happens every time
+1313892954272.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :0.o
+1313892978854.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok
+1313892980955.24 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :it just throws an error
+1313892986869.58 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :copy the email text to clipbd
+1313892990887.81 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :drop to cmd
+1313893013090.08 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :type gpg --decrypt
+1313893016221.26 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :paste
+1313893023054.65 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :^z^z
+1313893033372.24 PING :gibson.freenode.net
+1313893033822.27 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :type passphrase
+1313893035110.34 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :dun
+1313893038570.54 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :as soon as i paste it does that
+1313893046808.01 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::S
+1313893063883.99 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :thats stoopid
+1313893065566.08 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and enigmail ?
+1313893159393.45 PING :gibson.freenode.net
+1313893201684.87 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION going in 5
+1313893285369.66 PING :gibson.freenode.net
+1313893310970.12 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :ah its working
+1313893316186.42 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :just had to wait lol
+1313893318977.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::D
+1313893363179.11 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#everify noagendamarket:634494887230567363
+1313893368557.41 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :heh
+1313893369524.47 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :>.<
+1313893390826.69 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :change the string to the string from db just there ^
+1313893396581.02 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#everify noagendamarket:634494889119175385
+1313893401807.32 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :woo
+1313893406854.61 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I had two emails lol
+1313893413336.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh you mustve done the first one
+1313893418715.28 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yea
+1313893421500.44 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :second one changed the code so 1st was invalid
+1313893487739.23 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :bitcoin-otc needs this lol
+1313893494342.61 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :its so much easier
+1313893498212.83 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::D
+1313893501641.03 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :suggest to nano
+1313893518396.98 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :now do twitter messages lol
+1313893526186.43 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :-.-
+1313893529090.6 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :well maybe not
+1313893529832.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i dont think we need that
+1313893530422.67 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1313893534128.88 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :lawl
+1313893537372.07 PING :gibson.freenode.net
+1313893541152.29 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :twitter = 140 character limit
+1313893544242.46 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :so it wouldnt work either
+1313893546466.59 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I was being a wiseguy :)
+1313893550412.82 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :iknow
+1313893551575.88 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1313893569090.88 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :text messages?
+1313893569671.92 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::D
+1313893576919.33 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :same :)-
+1313893577734.38 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :non-aus people fuck off
+1313893579531.48 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1313893627846.24 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :whats you gpg email ?
+1313893637662.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mm?
+1313893641508.03 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :Ill send you a message lol
+1313893652299.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :just my email?
+1313893652884.68 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1313893655197.81 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :or whats you key 
+1313893663361.28 PING :gibson.freenode.net
+1313893671058.72 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :Ill add it to my enigmail
+1313893681170.29 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#bizident
+1313893683651.44 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :-.-
+1313893691424.88 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :heh
+1313893697239.21 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :<Caltex-Bot> SomeoneWeird: you are not logged in.
+1313893697811.25 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :<SomeoneWeird> -.-
+1313893699208.33 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ffuuuu
+1313893704902.65 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :stupid xchat autocopy
+1313893709990.94 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :C6B9F181
+1313893788814.45 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ajbrady@internode.on.net
+1313893789428.49 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I signed it lol
+1313893793909.74 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :may aswell have that aswell
+1313893794998.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1313893797263.93 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :thanks i suppose
+1313893799059.04 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah it shows up
+1313893803526.29 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :right
+1313893805747.42 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION knew that
+1313893810387.69 PING :gibson.freenode.net
+1313893936353.89 PING :gibson.freenode.net
+1313893969655.8 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :MrTiggr, we needa do a #usrinfo or something thats like ;;gpg info 
+1313893985114.68 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah
+1313893988942.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :so people can see what/if theyre signed in 
+1313894009779.09 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :thats like a name card on your jacket lol
+1313894013254.29 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yep
+1313894019693.66 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I sent you an email :)-
+1313894022144.8 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1313894025838.01 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :lol
+1313894062369.1 PING :gibson.freenode.net
+1313894070627.57 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :unfortunately i cant sign stuff
+1313894076686.92 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :pain in the fucking ass
+1313894080296.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :err
+1313894082632.26 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeah.
+1313894083347.3 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :-.-
+1313894108421.73 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1313894109958.82 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :heh
+1313894129244.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident SomeoneWeird 
+1313894131549.05 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeah thunderbird cant find smtp server and if i manually do it it shits at me
+1313894133533.17 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :#bizident MrTiggr
+1313894138996.48 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :\o/
+1313894139592.51 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :ooh
+1313894144390.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :you fixed it
+1313894144982.82 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so
+1313894151239.18 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :except it says MrTiggr:
+1313894152011.23 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sorta gpg info
+1313894154082.34 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :not noagendamarket:
+1313894154753.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ye
+1313894158465.59 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :typo
+1313894162004.8 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :SomeoneWeird yeah i was having that problem
+1313894191120.46 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :I redownloaded thunderbird and it seemed to kick the tyres
+1313894196575.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh i probably should try and get it working, but havn't really had a use for it 
+1313894199936.97 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :(gpg signing)
+1313894205369.28 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh, ill try again in morning
+1313894207726.41 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :im off now
+1313894209937.54 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :night peeps
+1313894221252.19 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :ah its cool when you are using glbse
+1313894234522.94 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hm?
+1313894248203.73 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :or contacting the company so they know its you
+1313894253298.02 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1313894265623.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :but yeh im off
+1313894266348.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :night
+1313894268902.91 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :o/ MrTiggr 
+1313894271758.07 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :nite
+1313894272345.11 PING :gibson.freenode.net
+1313894276652.35 :SomeoneWeird!~no@unaffiliated/someoneweird QUIT :Quit: Leaving
+1313894398349.31 PING :gibson.freenode.net
+1313894434643.39 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#logout
+1313894438958.64 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313894468546.33 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634494912389626379
+1313894476537.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tooooo coool!
+1313894520605.31 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :http://www.ustream.tv/channel/mt-gox-live  cool
+1313894608407.33 PING :gibson.freenode.net
+1313894734352.53 PING :gibson.freenode.net
+1313894860364.74 PING :gibson.freenode.net
+1313894986359.95 PING :gibson.freenode.net
+1313895112334.15 PING :gibson.freenode.net
+1313895238337.36 PING :gibson.freenode.net
+1313895364350.57 PING :gibson.freenode.net
+1313895490327.77 PING :gibson.freenode.net
+1313895616334.98 PING :gibson.freenode.net
+1313895742319.19 PING :gibson.freenode.net
+1313895868337.39 PING :gibson.freenode.net
+1313895905756.53 :MrTiggr!~MrTiggr@ozco.in NICK :MrTiggrAFK
+1313895994308.6 PING :gibson.freenode.net
+1313896120307.81 PING :gibson.freenode.net
+1313896246309.01 PING :gibson.freenode.net
+1313896372377.22 PING :gibson.freenode.net
+1313896457337.08 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au JOIN :#bitcoin-police-bot
+1313896457760.11 :gibson.freenode.net 352 Caltex-Bot #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au pratchett.freenode.net KenArmitt H :0 ...
+1313896458360.14 :gibson.freenode.net 315 Caltex-Bot KenArmitt :End of /WHO list.
+1313896478063.27 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok..i am testing our new "business web of trust" bot
+1313896486152.73 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :?? wanna help
+1313896506926.92 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: ^^
+1313896582397.24 PING :gibson.freenode.net
+1313896620385.41 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yep!
+1313896634572.22 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :kk
+1313896645100.82 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so, first hing is to register your business
+1313896656783.49 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :..for now, we will call it KenArmitt ;)
+1313896661179.74 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ok
+1313896694899.67 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :type #register KenArmitt B6C27F8D       <---- that majic number is your GpG Key id  which i just happen to know ;)
+1313896698301.86 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :you'll have to tell me how mate :)
+1313896703923.19 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :heh
+1313896708302.44 PING :gibson.freenode.net
+1313896712600.68 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ok
+1313896743170.43 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :#register KenArmitt B6C27F8D
+1313896757656.26 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D AWSOME
+1313896767420.82 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :it is grabbing your key into the keyring now
+1313896773071.14 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :.. ok 
+1313896779844.53 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :<noagendamarket> heh -> What you laughing at
+1313896780465.56 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i wanna cheat a bit
+1313896805124.97 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :no probs
+1313896876302.05 PING :gibson.freenode.net
+1313896913032.15 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ok Ken i just added your email to the db ..usually it takes an extra few steps but i wanna test a particular function
+1313896919001.49 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :type #email
+1313896939753.67 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :#email
+1313896998446.03 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :#everify KenArmitt:634494937397586752
+1313897006989.52 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ok done
+1313897009275.65 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fuking awsm
+1313897010602.73 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :!!!!
+1313897014464.95 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :toooo cool
+1313897016101.04 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :says verified etc
+1313897018603.18 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :thanks ken
+1313897021081.33 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yep
+1313897024322.51 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :perfect
+1313897031648.93 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident KenArmitt 
+1313897033096.01 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :No prob
+1313897055691.31 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :? so did enigmail just decrypt that for you ?
+1313897090606.3 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yeah, I just have to type in my password everytime for it to decrypt, thats normal is it?
+1313897093670.48 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noagendamarket: ^^ that is a cool feature!!!
+1313897099486.81 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :GOOD CALL noagendamarket 
+1313897104748.11 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yep
+1313897113073.59 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :<noagendamarket> - you laughing at how useless I am with IRC man?
+1313897113813.63 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: thats the security of gpg
+1313897119526.96 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :cool
+1313897122914.15 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you can set it to remember for XX minutes
+1313897128672.48 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so its not a pain in the ass
+1313897131710.65 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :no worries
+1313897138697.05 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :thanx ken!!!
+1313897141489.21 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :KenArmitt na I just found an awesome thing on te internet
+1313897143789.35 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : that was a good test!
+1313897144925.41 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :http://www.facebook.com/Bitbob
+1313897158107.16 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :its africas first bitocin exchange in kenya
+1313897170271.86 PING :gibson.freenode.net
+1313897250115.43 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :http://phoneco.in/  it would be awesome paired with that
+1313897270493.59 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :you can send btc using any phone with text messages
+1313897296278.07 PING :gibson.freenode.net
+1313897354439.39 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yeah phoneco is excellent
+1313897382664.01 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :I thought you where laughing at my IRC skills, im useless man :) with IRC
+1313897422292.27 PING :gibson.freenode.net
+1313897514181.53 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noagendamarket: we could so do phoneco.in
+1313897523477.06 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :but proper!
+1313897539941 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah
+1313897548277.48 PING :gibson.freenode.net
+1313897551458.66 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :smsco.in  :)
+1313897557014.98 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ooooh
+1313897576216.08 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i still want a bitbill
+1313897584961.58 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :just to put in my album
+1313897585761.62 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah
+1313897624004.81 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :They should do bitcards and you can post them
+1313897633519.36 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :like postcards
+1313897635916.49 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :lol
+1313897644619.99 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :dood
+1313897653138.48 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :im srsyly loving the email auth
+1313897656932.7 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :goood call
+1313897674279.69 PING :gibson.freenode.net
+1313897675669.77 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :the email auth is the best
+1313897680541.05 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :it's almost 2-Phase Auth!
+1313897687519.44 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :lawl!!
+1313897689406.55 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yubikey be fukkt!
+1313897692794.75 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :no yubikey
+1313897709940.73 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i'm trying to figure how to make it full 2 phase
+1313897721477.39 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :send a bitcard of course
+1313897724595.57 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot ::)
+1313897726109.65 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :see - i can use that on my mobile phone now already :D
+1313897732981.05 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i have irc on phone
+1313897743834.67 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and i have gmail + gpg
+1313897750445.04 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yeah I have rooms on iphone
+1313897765670.91 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :but it sucks ass
+1313897772556.31 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :IRC999
+1313897781381.81 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :^^ wot i use on iphone
+1313897787897.19 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :ACTION looks
+1313897800264.89 PING :gibson.freenode.net
+1313897800923.93 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i think thats its name..me looks too
+1313897839610.14 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :doh whadddaya know iphone no battery
+1313897845344.47 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :am sure its irc999
+1313897859076.26 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yea it is
+1313897926275.1 PING :gibson.freenode.net
+1313898052363.31 PING :gibson.freenode.net
+1313898134907.03 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :do you seriouslly want a bitbill Tiggr?
+1313898152230.02 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Ill bring some down when im coming down
+1313898159058.42 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :noice
+1313898178309.52 PING :gibson.freenode.net
+1313898181917.72 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :are you in canberra as well noagenda ?
+1313898257783.06 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: yea i want one
+1313898260154.2 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :just one'
+1313898265482.5 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :for the album
+1313898272851.92 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i'll use it in 10 yrs time
+1313898284297.58 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :will be worth a squillion
+1313898288204.8 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :or nothin
+1313898304270.72 PING :gibson.freenode.net
+1313898319740.61 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :no Im in victoria
+1313898343518.97 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :your in mexico :)
+1313898349948.33 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yes i am
+1313898350871.39 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :same as someoneweird ;)
+1313898353954.56 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1313898359784.9 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :the ass end
+1313898365602.23 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1313898378837.99 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :so when are we all going to catch up?
+1313898388671.55 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noagendamarket: what u doing 10-12 October
+1313898389278.58 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Canberra is the easiest place
+1313898396560 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :(or that week anyway
+1313898405866.53 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :when a bitcoin is $100 lol
+1313898414169.01 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :because cheap flight from melb to canberra and short
+1313898427661.78 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i am doing presentabertions in melb  the week of 12 octo
+1313898430322.93 PING :gibson.freenode.net
+1313898437924.37 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i wanna catch all the vics'
+1313898440490.51 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :s1w
+1313898441919.59 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nam
+1313898448711.98 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :im sure there are othrs
+1313898449901.05 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot ::0
+1313898472226.33 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :i can drive to canberra and jump on a plane
+1313898480414.8 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and i hope KenArmitt is still ok for october too!
+1313898488905.28 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :definatelly
+1313898493224.53 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D
+1313898499790.9 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :do you want a bit bill bought down?
+1313898508755.42 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :pity da2ce7 not here
+1313898510714.53 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :he vic
+1313898515651.81 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: sure!!!
+1313898542269.33 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ok ill get some because doing business with the guy i cant remember his name
+1313898542977.37 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i'll pay ya for it ofc~!
+1313898554439.03 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :its ok lol
+1313898556241.13 PING :gibson.freenode.net
+1313898578322.4 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ive got to get some over here
+1313898582504.63 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :..well guys..i am not long for the ZZZzz's
+1313898587173.9 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :anyway so its no worrys
+1313898600234.65 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :3:49am
+1313898605754.96 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh
+1313898607613.07 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :bring a bitcoinatm too lol
+1313898614664.47 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and twin 1 jsut started :S
+1313898626837.17 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :todbethell
+1313898631248.42 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :ill just have to go rip one out tonight from a bank and quicklly mod it
+1313898632055.47 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hes the ATM guy
+1313898636889.75 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :haha
+1313898641402 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :he IS
+1313898648709.42 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :looks legit too
+1313898666076.42 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :it looks pretty cool if you ask me
+1313898667097.47 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :got scammed 1000BTC in mbc poor bastard
+1313898673945.87 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :yea
+1313898677243.05 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :shit
+1313898677877.09 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :fuck
+1313898678858.15 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tod's ok by my checks
+1313898682337.35 PING :gibson.freenode.net
+1313898690120.79 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i want an ATM too
+1313898713995.16 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i wunder if he wud come forward for the investigation?
+1313898717987.38 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fsck bruce
+1313898724950.78 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fagner
+1313898734036.3 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :ask him
+1313898741043.7 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i think i will
+1313898747474.07 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :got to be someone whos pissed off enough
+1313898755057.5 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :I'll chase up some atm's - I got offered some a year or 2 ago, from old guy used to deal with exlease it gear
+1313898756294.58 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i kno
+1313898760607.82 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :just gotta find em
+1313898775830.69 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :can you mod them ?
+1313898784852.21 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :can I?
+1313898806897.47 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :if I have enough time, I know a couple of atm techs, that can help
+1313898808229.55 PING :gibson.freenode.net
+1313898808721.57 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yes you
+1313898832036.91 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Hardware im fine with
+1313898838792.29 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :just tie them into the exchange
+1313898840240.38 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :IRC - not so good lol
+1313898846716.75 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :lol
+1313898847665.8 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yeah!
+1313898903353.99 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :you could probably ask bitcoinatm how they did it
+1313898917555.8 :noagendamarket!~dave@unaffiliated/noagendamarket PRIVMSG #bitcoin-police-bot :im sure theyd be up for it
+1313898934222.75 PING :gibson.freenode.net
+1313899060236.96 PING :gibson.freenode.net
+1313899186228.17 PING :gibson.freenode.net
+1313899312226.37 PING :gibson.freenode.net
+1313899438201.58 PING :gibson.freenode.net
+1313899564213.79 PING :gibson.freenode.net
+1313899690250.99 PING :gibson.freenode.net
+1313899816205.2 PING :gibson.freenode.net
+1313899942201.41 PING :gibson.freenode.net
+1313900068191.61 PING :gibson.freenode.net
+1313900194211.82 PING :gibson.freenode.net
+1313900320192.03 PING :gibson.freenode.net
+1313900446191.23 PING :gibson.freenode.net
+1313900572179.44 PING :gibson.freenode.net
+1313900698192.65 PING :gibson.freenode.net
+1313900824184.85 PING :gibson.freenode.net
+1313900950175.06 PING :gibson.freenode.net
+1313901076164.26 PING :gibson.freenode.net
+1313901202172.47 PING :gibson.freenode.net
+1313901328189.68 PING :gibson.freenode.net
+1313901454164.88 PING :gibson.freenode.net
+1313901580172.09 PING :gibson.freenode.net
+1313901706170.3 PING :gibson.freenode.net
+1313901832158.5 PING :gibson.freenode.net
+1313901958147.71 PING :gibson.freenode.net
+1313902084167.92 PING :gibson.freenode.net
+1313902210152.12 PING :gibson.freenode.net
+1313902336252.34 PING :gibson.freenode.net
+1313902462131.54 PING :gibson.freenode.net
+1313902588146.74 PING :gibson.freenode.net
+1313902714123.95 PING :gibson.freenode.net
+1313902840128.16 PING :gibson.freenode.net
+1313902966137.36 PING :gibson.freenode.net
+1313903092140.57 PING :gibson.freenode.net
+1313903218154.78 PING :gibson.freenode.net
+1313903344123.98 PING :gibson.freenode.net
+1313903470136.19 PING :gibson.freenode.net
+1313903596116.4 PING :gibson.freenode.net
+1313903722110.6 PING :gibson.freenode.net
+1313903848111.81 PING :gibson.freenode.net
+1313903974095.02 PING :gibson.freenode.net
+1313904100108.22 PING :gibson.freenode.net
+1313904226092.43 PING :gibson.freenode.net
+1313904352098.64 PING :gibson.freenode.net
+1313904478093.84 PING :gibson.freenode.net
+1313904604089.05 PING :gibson.freenode.net
+1313904730087.26 PING :gibson.freenode.net
+1313904856091.46 PING :gibson.freenode.net
+1313904982123.67 PING :gibson.freenode.net
+1313905108097.88 PING :gibson.freenode.net
+1313905234084.08 PING :gibson.freenode.net
+1313905360080.29 PING :gibson.freenode.net
+1313905486066.5 PING :gibson.freenode.net
+1313905612072.7 PING :gibson.freenode.net
+1313905738062.91 PING :gibson.freenode.net
+1313905864152.12 PING :gibson.freenode.net
+1313905990101.33 PING :gibson.freenode.net
+1313906116058.53 PING :gibson.freenode.net
+1313906242068.74 PING :gibson.freenode.net
+1313906368065.94 PING :gibson.freenode.net
+1313906494050.15 PING :gibson.freenode.net
+1313906620063.36 PING :gibson.freenode.net
+1313906746082.56 PING :gibson.freenode.net
+1313906872052.77 PING :gibson.freenode.net
+1313906998046.98 PING :gibson.freenode.net
+1313907124046.18 PING :gibson.freenode.net
+1313907250034.39 PING :gibson.freenode.net
+1313907333886.19 :noagendamarket!~dave@unaffiliated/noagendamarket QUIT :Ping timeout: 258 seconds
+1313907376032.6 PING :gibson.freenode.net
+1313907502015.8 PING :gibson.freenode.net
+1313907628054.01 PING :gibson.freenode.net
+1313907754029.22 PING :gibson.freenode.net
+1313907880008.42 PING :gibson.freenode.net
+1313908006016.63 PING :gibson.freenode.net
+1313908132017.84 PING :gibson.freenode.net
+1313908258009.04 PING :gibson.freenode.net
+1313908384017.25 PING :gibson.freenode.net
+1313908510003.46 PING :gibson.freenode.net
+1313908635994.66 PING :gibson.freenode.net
+1313908761994.87 PING :gibson.freenode.net
+1313908887987.08 PING :gibson.freenode.net
+1313909014049.29 PING :gibson.freenode.net
+1313909139988.49 PING :gibson.freenode.net
+1313909265982.69 PING :gibson.freenode.net
+1313909391998.9 PING :gibson.freenode.net
+1313909517982.11 PING :gibson.freenode.net
+1313909643972.31 PING :gibson.freenode.net
+1313909769970.52 PING :gibson.freenode.net
+1313909895968.73 PING :gibson.freenode.net
+1313910021963.93 PING :gibson.freenode.net
+1313910147990.14 PING :gibson.freenode.net
+1313910273969.35 PING :gibson.freenode.net
+1313910399974.56 PING :gibson.freenode.net
+1313910525954.76 PING :gibson.freenode.net
+1313910651955.97 PING :gibson.freenode.net
+1313910778004.18 PING :gibson.freenode.net
+1313910903942.38 PING :gibson.freenode.net
+1313911030103.6 PING :gibson.freenode.net
+1313911155932.79 PING :gibson.freenode.net
+1313911281949 PING :gibson.freenode.net
+1313911407932.21 PING :gibson.freenode.net
+1313911533945.42 PING :gibson.freenode.net
+1313911659928.62 PING :gibson.freenode.net
+1313911785934.83 PING :gibson.freenode.net
+1313911911931.03 PING :gibson.freenode.net
+1313912037911.24 PING :gibson.freenode.net
+1313912164037.45 PING :gibson.freenode.net
+1313912289929.65 PING :gibson.freenode.net
+1313912415918.86 PING :gibson.freenode.net
+1313912541914.07 PING :gibson.freenode.net
+1313912667912.27 PING :gibson.freenode.net
+1313912793892.48 PING :gibson.freenode.net
+1313912919906.69 PING :gibson.freenode.net
+1313913045908.89 PING :gibson.freenode.net
+1313913171888.1 PING :gibson.freenode.net
+1313913297902.31 PING :gibson.freenode.net
+1313913423903.51 PING :gibson.freenode.net
+1313941405414.88 :leguin.freenode.net NOTICE * :*** Looking up your hostname...
+1313941405988.92 :leguin.freenode.net NOTICE * :*** Checking Ident
+1313941406679.96 :leguin.freenode.net NOTICE * :*** Found your hostname
+1313941415899.48 :leguin.freenode.net NOTICE * :*** No Ident response
+1313941416369.51 :leguin.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313941416369.51 :leguin.freenode.net 002 Caltex-Bot :Your host is leguin.freenode.net[130.239.18.172/6667], running version ircd-seven-1.0.3
+1313941416369.51 :leguin.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:47 CET
+1313941416370.51 :leguin.freenode.net 004 Caltex-Bot leguin.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313941416370.51 :leguin.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313941416370.51 :leguin.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313941416370.51 :leguin.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313941416370.51 :leguin.freenode.net 251 Caltex-Bot :There are 281 users and 57057 invisible on 26 servers
+1313941416371.51 :leguin.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1313941416371.51 :leguin.freenode.net 253 Caltex-Bot 2 :unknown connection(s)
+1313941416371.51 :leguin.freenode.net 254 Caltex-Bot 42819 :channels formed
+1313941417142.55 :leguin.freenode.net 255 Caltex-Bot :I have 5209 clients and 1 servers
+1313941417142.55 :leguin.freenode.net 265 Caltex-Bot 5209 8055 :Current local users 5209, max 8055
+1313941417142.55 :leguin.freenode.net 266 Caltex-Bot 57338 75049 :Current global users 57338, max 75049
+1313941417143.55 :leguin.freenode.net 250 Caltex-Bot :Highest connection count: 8056 (8055 clients) (2945384 connections received)
+1313941417143.55 :leguin.freenode.net 375 Caltex-Bot :- leguin.freenode.net Message of the Day - 
+1313941417143.55 :leguin.freenode.net 372 Caltex-Bot :- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+1313941417161.55 :leguin.freenode.net 372 Caltex-Bot :- the Academic Computer Club at Umeå University for sponsoring
+1313941417161.55 :leguin.freenode.net 372 Caltex-Bot :- this server!
+1313941417161.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417161.55 :leguin.freenode.net 372 Caltex-Bot :- URSULA K. LEGUIN (1929-)  The author of the Earthsea
+1313941417162.55 :leguin.freenode.net 372 Caltex-Bot :- trilogy, City of Illusions and The Dispossessed.
+1313941417162.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417162.55 :leguin.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313941417162.55 :leguin.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313941417163.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417163.55 :leguin.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313941417163.55 :leguin.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313941417163.55 :leguin.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313941417163.55 :leguin.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313941417164.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417164.55 :leguin.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313941417164.55 :leguin.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313941417164.55 :leguin.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313941417164.55 :leguin.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313941417165.55 :leguin.freenode.net 372 Caltex-Bot :- support.
+1313941417165.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417165.55 :leguin.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313941417165.55 :leguin.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313941417166.55 :leguin.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313941417166.55 :leguin.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313941417166.55 :leguin.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313941417167.55 :leguin.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313941417167.55 :leguin.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313941417167.55 :leguin.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313941417167.55 :leguin.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313941417167.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417168.55 :leguin.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313941417168.55 :leguin.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313941417168.55 :leguin.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313941417168.55 :leguin.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313941417169.55 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417539.58 :leguin.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313941417539.58 :leguin.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313941417539.58 :leguin.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313941417540.58 :leguin.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313941417540.58 :leguin.freenode.net 372 Caltex-Bot :- the network!
+1313941417540.58 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417541.58 :leguin.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313941417541.58 :leguin.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313941417541.58 :leguin.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313941417542.58 :leguin.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313941417542.58 :leguin.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313941417542.58 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417542.58 :leguin.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313941417543.58 :leguin.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313941417543.58 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417543.58 :leguin.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313941417543.58 :leguin.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313941417543.58 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417544.58 :leguin.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313941417544.58 :leguin.freenode.net 372 Caltex-Bot :-  
+1313941417544.58 :leguin.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313941417544.58 :leguin.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313941417545.58 :leguin.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313941417545.58 :leguin.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313941417570.58 :Caltex-Bot MODE Caltex-Bot :+i
+1313941417596.58 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313941420141.72 :Caltex-Bot!~MrTiggr@220-253-190-136.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313941420543.75 :leguin.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot noagendamarket Graet MrTiggrAFK SuprTiggr
+1313941420543.75 :leguin.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313941421133.78 :leguin.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313941421133.78 :leguin.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313941421134.78 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-190-136.NSW.netspace.net.au leguin.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313941421134.78 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket wolfe.freenode.net noagendamarket H :0 dave
+1313941421134.78 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313941421134.78 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313941421135.78 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313941421135.78 :leguin.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313941421135.78 :leguin.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313941421162.78 :Caltex-Bot!~MrTiggr@220-253-190-136.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313941503570.5 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1313941562887.89 PING :leguin.freenode.net
+1313941702923.9 PING :leguin.freenode.net
+1313941842904.91 PING :leguin.freenode.net
+1313941878027.91 :MrTiggr!~MrTiggr@ozco.in NICK :MrTiggrAFK
+1313941982880.91 PING :leguin.freenode.net
+1313942122890.92 PING :leguin.freenode.net
+1313942262891.93 PING :leguin.freenode.net
+1313942402871.93 PING :leguin.freenode.net
+1313942542902.94 PING :leguin.freenode.net
+1313942580180.08 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1313942587410.49 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313943423687.32 :barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+1313943424188.35 :barjavel.freenode.net NOTICE * :*** Checking Ident
+1313943424725.38 :barjavel.freenode.net NOTICE * :*** Found your hostname
+1313943437931.14 :barjavel.freenode.net NOTICE * :*** No Ident response
+1313943438414.16 :barjavel.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313943438418.16 :barjavel.freenode.net 002 Caltex-Bot :Your host is barjavel.freenode.net[78.40.125.4/6667], running version ircd-seven-1.0.3
+1313943438419.16 :barjavel.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:29 CET
+1313943438420.16 :barjavel.freenode.net 004 Caltex-Bot barjavel.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313943438422.16 :barjavel.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313943438423.16 :barjavel.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313943438424.16 :barjavel.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313943438424.16 :barjavel.freenode.net 251 Caltex-Bot :There are 280 users and 57046 invisible on 27 servers
+1313943438425.16 :barjavel.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1313943438425.16 :barjavel.freenode.net 253 Caltex-Bot 8 :unknown connection(s)
+1313943439171.21 :barjavel.freenode.net 254 Caltex-Bot 42841 :channels formed
+1313943439172.21 :barjavel.freenode.net 255 Caltex-Bot :I have 6201 clients and 1 servers
+1313943439172.21 :barjavel.freenode.net 265 Caltex-Bot 6201 10333 :Current local users 6201, max 10333
+1313943439172.21 :barjavel.freenode.net 266 Caltex-Bot 57326 75048 :Current global users 57326, max 75048
+1313943439173.21 :barjavel.freenode.net 250 Caltex-Bot :Highest connection count: 10334 (10333 clients) (6365074 connections received)
+1313943439173.21 :barjavel.freenode.net 375 Caltex-Bot :- barjavel.freenode.net Message of the Day - 
+1313943439174.21 :barjavel.freenode.net 372 Caltex-Bot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+1313943439176.21 :barjavel.freenode.net 372 Caltex-Bot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+1313943439177.21 :barjavel.freenode.net 372 Caltex-Bot :- this server!
+1313943439177.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439178.21 :barjavel.freenode.net 372 Caltex-Bot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+1313943439178.21 :barjavel.freenode.net 372 Caltex-Bot :- science-fiction author, a journalist and a critic. He is
+1313943439179.21 :barjavel.freenode.net 372 Caltex-Bot :- credited with having written the first novel to introduce 
+1313943439179.21 :barjavel.freenode.net 372 Caltex-Bot :- the Grandfather Paradox in time travel, in his 1943 work 
+1313943439179.21 :barjavel.freenode.net 372 Caltex-Bot :- 'Le Voyageur imprudent'.
+1313943439180.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439180.21 :barjavel.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313943439181.21 :barjavel.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313943439181.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439182.21 :barjavel.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313943439182.21 :barjavel.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313943439182.21 :barjavel.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313943439183.21 :barjavel.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313943439183.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439184.21 :barjavel.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313943439184.21 :barjavel.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313943439185.21 :barjavel.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313943439185.21 :barjavel.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313943439186.21 :barjavel.freenode.net 372 Caltex-Bot :- support.
+1313943439186.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439186.21 :barjavel.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313943439187.21 :barjavel.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313943439187.21 :barjavel.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313943439188.21 :barjavel.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313943439189.21 :barjavel.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313943439189.21 :barjavel.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313943439190.21 :barjavel.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313943439190.21 :barjavel.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313943439191.21 :barjavel.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313943439191.21 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439676.24 :barjavel.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313943439677.24 :barjavel.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313943439677.24 :barjavel.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313943439678.24 :barjavel.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313943439678.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439679.24 :barjavel.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313943439679.24 :barjavel.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313943439743.24 :barjavel.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313943439743.24 :barjavel.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313943439744.24 :barjavel.freenode.net 372 Caltex-Bot :- the network!
+1313943439744.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439744.24 :barjavel.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313943439744.24 :barjavel.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313943439744.24 :barjavel.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313943439745.24 :barjavel.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313943439745.24 :barjavel.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313943439745.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439745.24 :barjavel.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313943439745.24 :barjavel.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313943439746.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439746.24 :barjavel.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313943439746.24 :barjavel.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313943439746.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439746.24 :barjavel.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313943439747.24 :barjavel.freenode.net 372 Caltex-Bot :-  
+1313943439747.24 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313943439747.24 :barjavel.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313943439748.24 :barjavel.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313943439748.24 :barjavel.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313943439807.24 :Caltex-Bot MODE Caltex-Bot :+i
+1313943439833.24 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313943442173.38 :Caltex-Bot!~MrTiggr@220-253-190-136.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313943442568.4 :barjavel.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot noagendamarket Graet MrTiggrAFK SuprTiggr
+1313943442579.4 :barjavel.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313943443141.43 :barjavel.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313943443152.43 :barjavel.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313943443154.43 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-190-136.NSW.netspace.net.au barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313943443165.44 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket wolfe.freenode.net noagendamarket H :0 dave
+1313943443165.44 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313943443166.44 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313943443166.44 :barjavel.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313943443167.44 :barjavel.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313943443168.44 :barjavel.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313943443199.44 :Caltex-Bot!~MrTiggr@220-253-190-136.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313943456382.19 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313943461943.51 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943462940.57 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943463527.6 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943464092.63 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943468389.88 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313943468822.9 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469466.94 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469492.94 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469518.94 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469544.94 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469576.95 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943469601.95 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943470031.97 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943470068.97 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943470933.02 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943471512.06 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943472078.09 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943472102.09 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943472953.14 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943473521.17 :barjavel.freenode.net NOTICE Caltex-Bot :*** Message to #bitcoin-police-bot throttled due to flooding
+1313943546896.37 :barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+1313943547438.4 :barjavel.freenode.net NOTICE * :*** Checking Ident
+1313943547463.4 :barjavel.freenode.net NOTICE * :*** Found your hostname
+1313943557941 :barjavel.freenode.net NOTICE * :*** No Ident response
+1313943558484.03 :barjavel.freenode.net 433 * Caltex-Bot :Nickname is already in use.
+1313943558863.05 :barjavel.freenode.net 001 Calte2102372722 :Welcome to the freenode Internet Relay Chat Network Calte2102372722
+1313943559358.08 :barjavel.freenode.net 002 Calte2102372722 :Your host is barjavel.freenode.net[78.40.125.4/6667], running version ircd-seven-1.0.3
+1313943559358.08 :barjavel.freenode.net 003 Calte2102372722 :This server was created Wed Feb 24 2010 at 00:01:29 CET
+1313943559359.08 :barjavel.freenode.net 004 Calte2102372722 barjavel.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313943559359.08 :barjavel.freenode.net 005 Calte2102372722 CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313943559360.08 :barjavel.freenode.net 005 Calte2102372722 SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313943559360.08 :barjavel.freenode.net 005 Calte2102372722 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313943559361.08 :barjavel.freenode.net 251 Calte2102372722 :There are 279 users and 57050 invisible on 27 servers
+1313943559361.08 :barjavel.freenode.net 252 Calte2102372722 30 :IRC Operators online
+1313943559362.08 :barjavel.freenode.net 253 Calte2102372722 9 :unknown connection(s)
+1313943559362.08 :barjavel.freenode.net 254 Calte2102372722 42845 :channels formed
+1313943560135.13 :barjavel.freenode.net 255 Calte2102372722 :I have 6199 clients and 1 servers
+1313943560135.13 :barjavel.freenode.net 265 Calte2102372722 6199 10333 :Current local users 6199, max 10333
+1313943560136.13 :barjavel.freenode.net 266 Calte2102372722 57329 75048 :Current global users 57329, max 75048
+1313943560136.13 :barjavel.freenode.net 250 Calte2102372722 :Highest connection count: 10334 (10333 clients) (6365140 connections received)
+1313943560137.13 :barjavel.freenode.net 375 Calte2102372722 :- barjavel.freenode.net Message of the Day - 
+1313943560137.13 :barjavel.freenode.net 372 Calte2102372722 :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+1313943560141.13 :barjavel.freenode.net 372 Calte2102372722 :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+1313943560141.13 :barjavel.freenode.net 372 Calte2102372722 :- this server!
+1313943560142.13 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560142.13 :barjavel.freenode.net 372 Calte2102372722 :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+1313943560142.13 :barjavel.freenode.net 372 Calte2102372722 :- science-fiction author, a journalist and a critic. He is
+1313943560143.13 :barjavel.freenode.net 372 Calte2102372722 :- credited with having written the first novel to introduce 
+1313943560143.13 :barjavel.freenode.net 372 Calte2102372722 :- the Grandfather Paradox in time travel, in his 1943 work 
+1313943560144.13 :barjavel.freenode.net 372 Calte2102372722 :- 'Le Voyageur imprudent'.
+1313943560144.13 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560145.13 :barjavel.freenode.net 372 Calte2102372722 :- You're using freenode, a service of Peer-Directed Projects
+1313943560145.13 :barjavel.freenode.net 372 Calte2102372722 :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313943560145.13 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560146.13 :barjavel.freenode.net 372 Calte2102372722 :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313943560146.13 :barjavel.freenode.net 372 Calte2102372722 :- like to invite all users of freenode to get involved in the fun
+1313943560146.13 :barjavel.freenode.net 372 Calte2102372722 :- of our Valentine-themed fundraiser launch - see 
+1313943560146.13 :barjavel.freenode.net 372 Calte2102372722 :- http://freenode.net/pdpc_valentine.shtml for more!
+1313943560147.13 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560147.13 :barjavel.freenode.net 372 Calte2102372722 :- On the subject of fundraisers, we'd like to thank our donors, 
+1313943560147.13 :barjavel.freenode.net 372 Calte2102372722 :- hardware and bandwith sponsors and especially  The Gallery 
+1313943560148.13 :barjavel.freenode.net 372 Calte2102372722 :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313943560148.13 :barjavel.freenode.net 372 Calte2102372722 :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313943560148.13 :barjavel.freenode.net 372 Calte2102372722 :- support.
+1313943560149.13 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560149.13 :barjavel.freenode.net 372 Calte2102372722 :- By connecting to freenode you indicate that you have read
+1313943560150.13 :barjavel.freenode.net 372 Calte2102372722 :- and agree to adhere to our policies and procedures as per
+1313943560150.13 :barjavel.freenode.net 372 Calte2102372722 :- the website (http://freenode.net). We would like to remind
+1313943560150.13 :barjavel.freenode.net 372 Calte2102372722 :- you that unauthorized public logging of channels on the
+1313943560151.13 :barjavel.freenode.net 372 Calte2102372722 :- network is prohibited. Public channel logging should only
+1313943560151.13 :barjavel.freenode.net 372 Calte2102372722 :- take place where the channel owner(s) has requested this
+1313943560152.13 :barjavel.freenode.net 372 Calte2102372722 :- and users of the channel are all made aware (if you are
+1313943560152.13 :barjavel.freenode.net 372 Calte2102372722 :- publically logging your channel, you may wish to keep a
+1313943560152.13 :barjavel.freenode.net 372 Calte2102372722 :- notice in topic and perhaps as a on-join message).
+1313943560703.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560704.16 :barjavel.freenode.net 372 Calte2102372722 :- By registering your nickname with Nickserv you agree that you
+1313943560704.16 :barjavel.freenode.net 372 Calte2102372722 :- are 13 years of age, or older. For more information about the
+1313943560704.16 :barjavel.freenode.net 372 Calte2102372722 :- Children's Online Privacy Protection Act please see their
+1313943560705.16 :barjavel.freenode.net 372 Calte2102372722 :- website at (http://www.coppa.org).
+1313943560705.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560706.16 :barjavel.freenode.net 372 Calte2102372722 :- freenode runs an open proxy scanner. Your use of the network
+1313943560706.16 :barjavel.freenode.net 372 Calte2102372722 :- indicates your acceptance of this policy. For details on
+1313943560707.16 :barjavel.freenode.net 372 Calte2102372722 :- freenode network policy, please take a look at our policy
+1313943560707.16 :barjavel.freenode.net 372 Calte2102372722 :- page (http://freenode.net/policy.shtml). Thank you for using
+1313943560708.16 :barjavel.freenode.net 372 Calte2102372722 :- the network!
+1313943560708.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560709.16 :barjavel.freenode.net 372 Calte2102372722 :- Don't forget to check out these other Peer-Directed Projects:
+1313943560710.16 :barjavel.freenode.net 372 Calte2102372722 :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313943560710.16 :barjavel.freenode.net 372 Calte2102372722 :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313943560710.16 :barjavel.freenode.net 372 Calte2102372722 :- success with Picnics for Geeks across the globe, more info at 
+1313943560711.16 :barjavel.freenode.net 372 Calte2102372722 :- [http://geeknic.org]
+1313943560711.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560712.16 :barjavel.freenode.net 372 Calte2102372722 :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313943560713.16 :barjavel.freenode.net 372 Calte2102372722 :- a not for profit organisation registered in England and Wales.
+1313943560713.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560714.16 :barjavel.freenode.net 372 Calte2102372722 :- If you support the work we do and wish to donate to the PDPC, 
+1313943560714.16 :barjavel.freenode.net 372 Calte2102372722 :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313943560715.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560715.16 :barjavel.freenode.net 372 Calte2102372722 :- Thank you for using freenode!
+1313943560716.16 :barjavel.freenode.net 372 Calte2102372722 :-  
+1313943560716.16 :barjavel.freenode.net 372 Calte2102372722 :- ***************************************************************
+1313943560717.16 :barjavel.freenode.net 372 Calte2102372722 :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313943560717.16 :barjavel.freenode.net 372 Calte2102372722 :- ***************************************************************
+1313943560717.16 :barjavel.freenode.net 376 Calte2102372722 :End of /MOTD command.
+1313943560798.16 :Calte2102372722 MODE Calte2102372722 :+i
+1313943560826.17 :NickServ!NickServ@services. NOTICE Calte2102372722 :Calte2102372722 is not a registered nickname.
+1313943563164.3 :Calte2102372722!~MrTiggr@220-253-190-136.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313943563560.32 :barjavel.freenode.net 353 Calte2102372722 @ #bitcoin-police-bot :Calte2102372722 Caltex-Bot noagendamarket Graet MrTiggrAFK SuprTiggr
+1313943563569.32 :barjavel.freenode.net 366 Calte2102372722 #bitcoin-police-bot :End of /NAMES list.
+1313943564116.35 :barjavel.freenode.net 324 Calte2102372722 #bitcoin-police-bot +ns
+1313943564125.35 :barjavel.freenode.net 329 Calte2102372722 #bitcoin-police-bot 1312895859
+1313943564126.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~MrTiggr 220-253-190-136.NSW.netspace.net.au barjavel.freenode.net Calte2102372722 H :0 Caltex-Bot
+1313943564132.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~MrTiggr 220-253-190-136.NSW.netspace.net.au barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313943564133.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~dave unaffiliated/noagendamarket wolfe.freenode.net noagendamarket H :0 dave
+1313943564133.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313943564134.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313943564135.35 :barjavel.freenode.net 352 Calte2102372722 #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313943564135.35 :barjavel.freenode.net 315 Calte2102372722 #bitcoin-police-bot :End of /WHO list.
+1313943564136.35 :barjavel.freenode.net 368 Calte2102372722 #bitcoin-police-bot :End of Channel Ban List
+1313943564165.36 :Calte2102372722!~MrTiggr@220-253-190-136.NSW.netspace.net.au NOTICE Calte2102372722 :There are 0 upcoming events.
+1313943569858.68 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313943578369.17 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1313943582467.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313943623095.73 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634495403824714031
+1313943632423.26 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sweeeeet
+1313943731962.95 :Caltex-Bot!~MrTiggr@220-253-190-136.NSW.netspace.net.au QUIT :Ping timeout: 240 seconds
+1313943755918.32 PING :barjavel.freenode.net
+1313943900084.57 PING :barjavel.freenode.net
+1313944043956.8 PING :barjavel.freenode.net
+1313944063053.89 :MrTiggr!~MrTiggr@ozco.in NICK :MrTiggrAFK
+1313944194040.38 PING :barjavel.freenode.net
+1313945004191.72 :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1313945004218.72 :verne.freenode.net NOTICE * :*** Checking Ident
+1313945004890.76 :verne.freenode.net NOTICE * :*** Found your hostname
+1313945019548.6 :verne.freenode.net NOTICE * :*** No Ident response
+1313945019548.6 :verne.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313945019551.6 :verne.freenode.net 002 Caltex-Bot :Your host is verne.freenode.net[216.155.130.130/6667], running version ircd-seven-1.0.3
+1313945019551.6 :verne.freenode.net 003 Caltex-Bot :This server was created Tue Feb 23 2010 at 18:01:42 EST
+1313945019551.6 :verne.freenode.net 004 Caltex-Bot verne.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313945019552.6 :verne.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313945019552.6 :verne.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313945019552.6 :verne.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313945019552.6 :verne.freenode.net 251 Caltex-Bot :There are 286 users and 57050 invisible on 27 servers
+1313945019553.6 :verne.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1313945019553.6 :verne.freenode.net 253 Caltex-Bot 5 :unknown connection(s)
+1313945019553.6 :verne.freenode.net 254 Caltex-Bot 42821 :channels formed
+1313945019553.6 :verne.freenode.net 255 Caltex-Bot :I have 3993 clients and 1 servers
+1313945019553.6 :verne.freenode.net 265 Caltex-Bot 3993 4832 :Current local users 3993, max 4832
+1313945019554.6 :verne.freenode.net 266 Caltex-Bot 57336 75047 :Current global users 57336, max 75047
+1313945019554.6 :verne.freenode.net 250 Caltex-Bot :Highest connection count: 4833 (4832 clients) (546767 connections received)
+1313945019554.6 :verne.freenode.net 375 Caltex-Bot :- verne.freenode.net Message of the Day - 
+1313945019554.6 :verne.freenode.net 372 Caltex-Bot :- Welcome to verne.freenode.net in Newark, NJ, US.
+1313945019555.6 :verne.freenode.net 372 Caltex-Bot :- Thanks to Choopa 'www.choopa.com' for providing this server!
+1313945019556.6 :verne.freenode.net 372 Caltex-Bot :-  
+1313945019556.6 :verne.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313945019556.6 :verne.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313945019556.6 :verne.freenode.net 372 Caltex-Bot :-  
+1313945019557.6 :verne.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313945019557.6 :verne.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313945019557.6 :verne.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313945019557.6 :verne.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313945019557.6 :verne.freenode.net 372 Caltex-Bot :-  
+1313945019558.6 :verne.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313945019558.6 :verne.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313945019558.6 :verne.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313945019558.6 :verne.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313945019559.6 :verne.freenode.net 372 Caltex-Bot :- support.
+1313945019559.6 :verne.freenode.net 372 Caltex-Bot :-  
+1313945019559.6 :verne.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313945019560.6 :verne.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313945019560.6 :verne.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313945020030.63 :verne.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313945020030.63 :verne.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313945020031.63 :verne.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313945020032.63 :verne.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313945020032.63 :verne.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313945020033.63 :verne.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313945020034.63 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021020.68 :verne.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313945021020.68 :verne.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313945021023.68 :verne.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313945021023.68 :verne.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313945021024.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021024.68 :verne.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313945021024.68 :verne.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313945021024.68 :verne.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313945021024.68 :verne.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313945021025.68 :verne.freenode.net 372 Caltex-Bot :- the network!
+1313945021025.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021025.68 :verne.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313945021026.68 :verne.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313945021026.68 :verne.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313945021026.68 :verne.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313945021026.68 :verne.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313945021027.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021027.68 :verne.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313945021027.68 :verne.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313945021028.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021028.68 :verne.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313945021029.68 :verne.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313945021029.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021029.68 :verne.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313945021029.68 :verne.freenode.net 372 Caltex-Bot :-  
+1313945021029.68 :verne.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313945021030.68 :verne.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313945021030.68 :verne.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313945021030.68 :verne.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313945021105.69 :Caltex-Bot MODE Caltex-Bot :+i
+1313945021155.69 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313945024052.86 :Caltex-Bot!~MrTiggr@220-253-183-33.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313945024380.88 :verne.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot noagendamarket Graet MrTiggrAFK SuprTiggr
+1313945024384.88 :verne.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313945024899.91 :verne.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313945024916.91 :verne.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313945024917.91 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-183-33.NSW.netspace.net.au verne.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313945024925.91 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket wolfe.freenode.net noagendamarket H :0 dave
+1313945024925.91 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313945024925.91 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313945024926.91 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313945024926.91 :verne.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313945024926.91 :verne.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313945024954.91 :Caltex-Bot!~MrTiggr@220-253-183-33.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313945044886.05 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313945055213.64 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1313945058772.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313945099052.15 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634495418587778430
+1313945235302.94 PING :verne.freenode.net
+1313945373288.83 PING :verne.freenode.net
+1313945511277.72 PING :verne.freenode.net
+1313945649261.62 PING :verne.freenode.net
+1313945678077.26 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au JOIN :#bitcoin-police-bot
+1313945678554.29 :verne.freenode.net 352 Caltex-Bot #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au card.freenode.net KenArmitt H :0 ...
+1313945678564.29 :verne.freenode.net 315 Caltex-Bot KenArmitt :End of /WHO list.
+1313945810243.82 PING :verne.freenode.net
+1313945912162.65 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#logout
+1313945914764.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1313945945836.58 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634495427147688029
+1313945952831.98 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#rollcall
+1313945967379.81 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1313970948949.68 :card.freenode.net NOTICE * :*** Looking up your hostname...
+1313970949369.7 :card.freenode.net NOTICE * :*** Checking Ident
+1313970949394.7 :card.freenode.net NOTICE * :*** Found your hostname
+1313970963747.52 :card.freenode.net NOTICE * :*** No Ident response
+1313970963987.54 :card.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313970963989.54 :card.freenode.net 002 Caltex-Bot :Your host is card.freenode.net[38.229.70.20/6667], running version ircd-seven-1.0.3
+1313970963989.54 :card.freenode.net 003 Caltex-Bot :This server was created Sun Sep 26 2010 at 01:24:51 UTC
+1313970963990.54 :card.freenode.net 004 Caltex-Bot card.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313970963990.54 :card.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313970963991.54 :card.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313970963991.54 :card.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313970963992.54 :card.freenode.net 251 Caltex-Bot :There are 296 users and 60916 invisible on 27 servers
+1313970963992.54 :card.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1313970963993.54 :card.freenode.net 253 Caltex-Bot 10 :unknown connection(s)
+1313970963993.54 :card.freenode.net 254 Caltex-Bot 43193 :channels formed
+1313970963994.54 :card.freenode.net 255 Caltex-Bot :I have 4635 clients and 1 servers
+1313970963994.54 :card.freenode.net 265 Caltex-Bot 4635 6196 :Current local users 4635, max 6196
+1313970963995.54 :card.freenode.net 266 Caltex-Bot 61212 75047 :Current global users 61212, max 75047
+1313970963995.54 :card.freenode.net 250 Caltex-Bot :Highest connection count: 6198 (6196 clients) (1510839 connections received)
+1313970963995.54 :card.freenode.net 375 Caltex-Bot :- card.freenode.net Message of the Day - 
+1313970963996.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970963999.54 :card.freenode.net 372 Caltex-Bot :- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+1313970964000.54 :card.freenode.net 372 Caltex-Bot :- Team Cymru (http://www.team-cymru.org).
+1313970964000.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970964001.54 :card.freenode.net 372 Caltex-Bot :- CARD, ORSON SCOTT [1951-].  Born in Richland, Washington, Card grew up in
+1313970964001.54 :card.freenode.net 372 Caltex-Bot :- California, Arizona, and Utah.  He lived in Brazil for two years as an
+1313970964002.54 :card.freenode.net 372 Caltex-Bot :- unpaid missionary for the Mormon Church.  Author of the Ender and Alvin
+1313970964002.54 :card.freenode.net 372 Caltex-Bot :- Maker books, Card's science fiction and fantasy work is strongly influenced
+1313970964003.54 :card.freenode.net 372 Caltex-Bot :- by his Mormon cultural background.  The first author to win the Hugo and
+1313970964003.54 :card.freenode.net 372 Caltex-Bot :- Nebula novel awards two years in a row, Card currently lives in Greensboro,
+1313970964004.54 :card.freenode.net 372 Caltex-Bot :- North Carolina, US.
+1313970964004.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970964005.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970964005.54 :card.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313970964005.54 :card.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313970964005.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970964005.54 :card.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313970964006.54 :card.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313970964006.54 :card.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313970964006.54 :card.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313970964006.54 :card.freenode.net 372 Caltex-Bot :-  
+1313970964491.57 :card.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313970964491.57 :card.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313970964491.57 :card.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313970964492.57 :card.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313970964492.57 :card.freenode.net 372 Caltex-Bot :- support.
+1313970964492.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964492.57 :card.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313970964493.57 :card.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313970964493.57 :card.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313970964493.57 :card.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313970964493.57 :card.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313970964493.57 :card.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313970964494.57 :card.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313970964494.57 :card.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313970964494.57 :card.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313970964494.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964494.57 :card.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313970964495.57 :card.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313970964495.57 :card.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313970964495.57 :card.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313970964495.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964495.57 :card.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313970964496.57 :card.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313970964496.57 :card.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313970964496.57 :card.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313970964496.57 :card.freenode.net 372 Caltex-Bot :- the network!
+1313970964496.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964497.57 :card.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313970964497.57 :card.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313970964497.57 :card.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313970964497.57 :card.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313970964497.57 :card.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313970964498.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964498.57 :card.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313970964498.57 :card.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313970964498.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970964498.57 :card.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313970964499.57 :card.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313970964499.57 :card.freenode.net 372 Caltex-Bot :-  
+1313970965059.6 :card.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313970965060.6 :card.freenode.net 372 Caltex-Bot :-  
+1313970965060.6 :card.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313970965060.6 :card.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313970965061.6 :card.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313970965062.6 :card.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313970965134.6 :Caltex-Bot MODE Caltex-Bot :+i
+1313970965159.6 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313970968100.77 :Caltex-Bot!~MrTiggr@220-253-181-118.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313970968418.79 :card.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeirdAFK Graet MrTiggrAFK SuprTiggr
+1313970968427.79 :card.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313970968878.82 :card.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313970968893.82 :card.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313970968893.82 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-181-118.NSW.netspace.net.au card.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313970968901.82 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird calvino.freenode.net SomeoneWeirdAFK G :0 no
+1313970968901.82 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313970968902.82 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313970968902.82 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313970968902.82 :card.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313970968903.82 :card.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313970968940.82 :Caltex-Bot!~MrTiggr@220-253-181-118.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313971042821.05 :card.freenode.net NOTICE * :*** Looking up your hostname...
+1313971043240.07 :card.freenode.net NOTICE * :*** Checking Ident
+1313971043269.07 :card.freenode.net NOTICE * :*** Found your hostname
+1313971053771.67 :card.freenode.net NOTICE * :*** No Ident response
+1313971054001.68 :card.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1313971054030.69 :card.freenode.net 002 Caltex-Bot :Your host is card.freenode.net[38.229.70.20/6667], running version ircd-seven-1.0.3
+1313971054031.69 :card.freenode.net 003 Caltex-Bot :This server was created Sun Sep 26 2010 at 01:24:51 UTC
+1313971054031.69 :card.freenode.net 004 Caltex-Bot card.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1313971054031.69 :card.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1313971054032.69 :card.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1313971054033.69 :card.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1313971054034.69 :card.freenode.net 251 Caltex-Bot :There are 296 users and 60930 invisible on 27 servers
+1313971054034.69 :card.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1313971054035.69 :card.freenode.net 253 Caltex-Bot 7 :unknown connection(s)
+1313971054036.69 :card.freenode.net 254 Caltex-Bot 43197 :channels formed
+1313971054037.69 :card.freenode.net 255 Caltex-Bot :I have 4628 clients and 1 servers
+1313971054037.69 :card.freenode.net 265 Caltex-Bot 4628 6196 :Current local users 4628, max 6196
+1313971054038.69 :card.freenode.net 266 Caltex-Bot 61226 75047 :Current global users 61226, max 75047
+1313971054038.69 :card.freenode.net 250 Caltex-Bot :Highest connection count: 6198 (6196 clients) (1510852 connections received)
+1313971054039.69 :card.freenode.net 375 Caltex-Bot :- card.freenode.net Message of the Day - 
+1313971054040.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054045.69 :card.freenode.net 372 Caltex-Bot :- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+1313971054045.69 :card.freenode.net 372 Caltex-Bot :- Team Cymru (http://www.team-cymru.org).
+1313971054046.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054046.69 :card.freenode.net 372 Caltex-Bot :- CARD, ORSON SCOTT [1951-].  Born in Richland, Washington, Card grew up in
+1313971054047.69 :card.freenode.net 372 Caltex-Bot :- California, Arizona, and Utah.  He lived in Brazil for two years as an
+1313971054047.69 :card.freenode.net 372 Caltex-Bot :- unpaid missionary for the Mormon Church.  Author of the Ender and Alvin
+1313971054048.69 :card.freenode.net 372 Caltex-Bot :- Maker books, Card's science fiction and fantasy work is strongly influenced
+1313971054048.69 :card.freenode.net 372 Caltex-Bot :- by his Mormon cultural background.  The first author to win the Hugo and
+1313971054049.69 :card.freenode.net 372 Caltex-Bot :- Nebula novel awards two years in a row, Card currently lives in Greensboro,
+1313971054049.69 :card.freenode.net 372 Caltex-Bot :- North Carolina, US.
+1313971054050.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054050.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054051.69 :card.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1313971054051.69 :card.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1313971054052.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054053.69 :card.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1313971054053.69 :card.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1313971054054.69 :card.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1313971054054.69 :card.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1313971054055.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054056.69 :card.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1313971054056.69 :card.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1313971054057.69 :card.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1313971054058.69 :card.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1313971054059.69 :card.freenode.net 372 Caltex-Bot :- support.
+1313971054064.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054064.69 :card.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1313971054065.69 :card.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1313971054065.69 :card.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1313971054065.69 :card.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1313971054065.69 :card.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1313971054066.69 :card.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1313971054066.69 :card.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1313971054066.69 :card.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1313971054067.69 :card.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1313971054067.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054067.69 :card.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1313971054068.69 :card.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1313971054068.69 :card.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1313971054068.69 :card.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1313971054068.69 :card.freenode.net 372 Caltex-Bot :-  
+1313971054068.69 :card.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1313971054069.69 :card.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1313971054501.71 :card.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1313971054501.71 :card.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1313971054502.71 :card.freenode.net 372 Caltex-Bot :- the network!
+1313971054502.71 :card.freenode.net 372 Caltex-Bot :-  
+1313971054502.71 :card.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1313971054502.71 :card.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1313971054502.71 :card.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1313971054503.71 :card.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1313971054503.71 :card.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1313971054503.71 :card.freenode.net 372 Caltex-Bot :-  
+1313971054503.71 :card.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1313971054503.71 :card.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1313971054504.71 :card.freenode.net 372 Caltex-Bot :-  
+1313971054504.71 :card.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1313971054504.71 :card.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1313971054504.71 :card.freenode.net 372 Caltex-Bot :-  
+1313971055084.75 :card.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1313971055084.75 :card.freenode.net 372 Caltex-Bot :-  
+1313971055085.75 :card.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313971055086.75 :card.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1313971055086.75 :card.freenode.net 372 Caltex-Bot :- ***************************************************************
+1313971055086.75 :card.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1313971055160.75 :Caltex-Bot MODE Caltex-Bot :+i
+1313971055187.75 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1313971058132.92 :Caltex-Bot!~MrTiggr@220-253-181-118.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1313971058432.94 :card.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SomeoneWeirdAFK Graet MrTiggrAFK SuprTiggr
+1313971058441.94 :card.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1313971058897.96 :card.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1313971058913.97 :card.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1313971058914.97 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr 220-253-181-118.NSW.netspace.net.au card.freenode.net Caltex-Bot H :0 Caltex-Bot
+1313971058922.97 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~no unaffiliated/someoneweird calvino.freenode.net SomeoneWeirdAFK H :0 no
+1313971058923.97 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet hitchcock.freenode.net Graet H :0 ?
+1313971058923.97 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in kornbluth.freenode.net MrTiggrAFK H :0 MrTiggr
+1313971058924.97 :card.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com hubbard.freenode.net SuprTiggr H :0 SuprTiggr
+1313971058924.97 :card.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1313971058924.97 :card.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1313971058952.97 :Caltex-Bot!~MrTiggr@220-253-181-118.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1313971060200.04 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1313971092318.88 :SomeoneWeirdAFK!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i kept forgetting to link the commands aswell lol
+1313971101694.41 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :grrrr
+1313971106112.67 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :damn flood protect :S

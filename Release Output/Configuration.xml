@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Murphy>
+    <Config ControlSeq="#">
+    	<admin>SomeoneWeird</admin>
+	<admin>MrTiggr</admin>
+    </Config>
+    
+    <Network Name="Murphy" Port="6667" Nickname="Murphy" Realname="Alexander James Murphy (RoboCOP)" Username="MrTiggr" Password="l33th@x0r" SendDelay="500">
+        <Server Address="irc.freenode.net" />
+        <Server Address="roddenberry.freenode.net" />
+        <Channel Name="#bitcoin-police-bot" />
+    </Network>
+    
+    
+    <Plugins>
+        <AutoOp>
+            <Op>.*?!~MrTiggr@.*\.at</Op>
+        </AutoOp>
+	<GoogleSearch Key="5y08QKNQFHJQs/JiLiGfCWbvnv3vBT8B" />
+	
+	<GPGAuth binaryPath="C:\Program Files (x86)\GNU\GnuPG\pub\">
+		
+	</GPGAuth>
+    </Plugins>
+
+</Murphy>

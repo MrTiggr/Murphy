@@ -1,0 +1,816 @@
+1314065174532.74 :kornbluth.freenode.net NOTICE * :*** Looking up your hostname...
+1314065174657.26 :kornbluth.freenode.net NOTICE * :*** Checking Ident
+1314065175226.33 :kornbluth.freenode.net NOTICE * :*** Found your hostname
+1314065187272.86 :kornbluth.freenode.net NOTICE * :*** No Ident response
+1314065187761.42 :kornbluth.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314065187762.92 :kornbluth.freenode.net 002 Caltex-Bot :Your host is kornbluth.freenode.net[82.96.64.4/6667], running version ircd-seven-1.0.3
+1314065187763.92 :kornbluth.freenode.net 003 Caltex-Bot :This server was created Wed Aug 17 2011 at 13:53:02 CEST
+1314065187764.42 :kornbluth.freenode.net 004 Caltex-Bot kornbluth.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314065187764.92 :kornbluth.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314065187765.92 :kornbluth.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314065187766.42 :kornbluth.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314065187766.92 :kornbluth.freenode.net 251 Caltex-Bot :There are 310 users and 69539 invisible on 27 servers
+1314065187767.42 :kornbluth.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314065187767.92 :kornbluth.freenode.net 253 Caltex-Bot 4 :unknown connection(s)
+1314065187768.42 :kornbluth.freenode.net 254 Caltex-Bot 44009 :channels formed
+1314065187768.92 :kornbluth.freenode.net 255 Caltex-Bot :I have 3060 clients and 1 servers
+1314065187769.92 :kornbluth.freenode.net 265 Caltex-Bot 3060 3082 :Current local users 3060, max 3082
+1314065187770.42 :kornbluth.freenode.net 266 Caltex-Bot 69849 75049 :Current global users 69849, max 75049
+1314065187770.92 :kornbluth.freenode.net 250 Caltex-Bot :Highest connection count: 3083 (3082 clients) (67015 connections received)
+1314065187771.42 :kornbluth.freenode.net 375 Caltex-Bot :- kornbluth.freenode.net Message of the Day - 
+1314065187771.92 :kornbluth.freenode.net 372 Caltex-Bot :- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU. 
+1314065187774.92 :kornbluth.freenode.net 372 Caltex-Bot :- Thanks to Probe Networks (www.probe-networks.de) for
+1314065187775.92 :kornbluth.freenode.net 372 Caltex-Bot :- sponsoring this server!
+1314065187776.42 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065187776.92 :kornbluth.freenode.net 372 Caltex-Bot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+1314065187777.42 :kornbluth.freenode.net 372 Caltex-Bot :- an active member of the Futurians, Cyril Kornbluth sold his
+1314065187777.92 :kornbluth.freenode.net 372 Caltex-Bot :- first story professionally at age 15.  By the 1940's his
+1314065187778.42 :kornbluth.freenode.net 372 Caltex-Bot :- stories appeared widely under several pennames, including
+1314065187778.92 :kornbluth.freenode.net 372 Caltex-Bot :- S.D. Gottesman and Cecil Corman.  He left his university
+1314065188239.48 :kornbluth.freenode.net 372 Caltex-Bot :- studies in Chicago to serve in the Army in Europe during
+1314065188240.48 :kornbluth.freenode.net 372 Caltex-Bot :- WWII, then returned to school and work in Chicago until he
+1314065188240.98 :kornbluth.freenode.net 372 Caltex-Bot :- began writing full-time in 1951.  The author of The Marching
+1314065188240.98 :kornbluth.freenode.net 372 Caltex-Bot :- Morons and the novels The Space Merchants (with Frederik
+1314065188241.48 :kornbluth.freenode.net 372 Caltex-Bot :- Pohl) and The Syndic, he's best known for his biting social
+1314065188241.98 :kornbluth.freenode.net 372 Caltex-Bot :- satire and his collaborations with Pohl and with Judith
+1314065188242.98 :kornbluth.freenode.net 372 Caltex-Bot :- Merril.
+1314065188243.48 :kornbluth.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314065188243.98 :kornbluth.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314065188244.48 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188244.98 :kornbluth.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314065188245.98 :kornbluth.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314065188246.48 :kornbluth.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314065188246.98 :kornbluth.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314065188247.48 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188247.98 :kornbluth.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314065188248.48 :kornbluth.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314065188248.98 :kornbluth.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314065188249.48 :kornbluth.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314065188249.98 :kornbluth.freenode.net 372 Caltex-Bot :- support.
+1314065188250.48 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188250.98 :kornbluth.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314065188251.48 :kornbluth.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314065188251.98 :kornbluth.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314065188252.48 :kornbluth.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314065188253.48 :kornbluth.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314065188253.98 :kornbluth.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314065188254.48 :kornbluth.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314065188254.98 :kornbluth.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314065188255.48 :kornbluth.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314065188255.98 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188256.48 :kornbluth.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314065188256.98 :kornbluth.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314065188257.48 :kornbluth.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314065188257.98 :kornbluth.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314065188258.98 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188259.48 :kornbluth.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314065188259.98 :kornbluth.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314065188740.54 :kornbluth.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314065188741.54 :kornbluth.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314065188741.54 :kornbluth.freenode.net 372 Caltex-Bot :- the network!
+1314065188742.04 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188742.54 :kornbluth.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314065188743.04 :kornbluth.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314065188743.54 :kornbluth.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314065188814.05 :kornbluth.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314065188815.05 :kornbluth.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314065188816.05 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188817.05 :kornbluth.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314065188817.55 :kornbluth.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314065188877.06 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188878.06 :kornbluth.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314065188879.06 :kornbluth.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314065188879.56 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188880.06 :kornbluth.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314065188880.56 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065188881.06 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065188881.56 :kornbluth.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314065188882.06 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065188882.56 :kornbluth.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314065189041.08 :Caltex-Bot MODE Caltex-Bot :+i
+1314065189067.09 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314065191277.87 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314065191840.94 :kornbluth.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SuprTiggr noagendamarket Graet MrTiggrAFK
+1314065191844.44 :kornbluth.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314065192196.98 :kornbluth.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314065192692.05 :kornbluth.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314065193194.61 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au kornbluth.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314065193203.61 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314065193204.61 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket holmes.freenode.net noagendamarket H :0 dave
+1314065193205.61 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314065193206.11 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggrAFK H :0 MrTiggr
+1314065193206.61 :kornbluth.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314065193697.67 :kornbluth.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314065194320.25 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314065210174.26 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1314065223608.47 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314065264810.94 :kornbluth.freenode.net NOTICE * :*** Looking up your hostname...
+1314065265370.01 :kornbluth.freenode.net NOTICE * :*** Checking Ident
+1314065265394.01 :kornbluth.freenode.net NOTICE * :*** Found your hostname
+1314065277262.52 :kornbluth.freenode.net NOTICE * :*** No Ident response
+1314065277732.58 :kornbluth.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314065277734.58 :kornbluth.freenode.net 002 Caltex-Bot :Your host is kornbluth.freenode.net[82.96.64.4/6667], running version ircd-seven-1.0.3
+1314065277735.08 :kornbluth.freenode.net 003 Caltex-Bot :This server was created Wed Aug 17 2011 at 13:53:02 CEST
+1314065277736.08 :kornbluth.freenode.net 004 Caltex-Bot kornbluth.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314065277736.58 :kornbluth.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314065277737.08 :kornbluth.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314065277737.58 :kornbluth.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314065277738.08 :kornbluth.freenode.net 251 Caltex-Bot :There are 310 users and 69550 invisible on 27 servers
+1314065277738.58 :kornbluth.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314065277739.08 :kornbluth.freenode.net 253 Caltex-Bot 4 :unknown connection(s)
+1314065277739.58 :kornbluth.freenode.net 254 Caltex-Bot 44007 :channels formed
+1314065277740.08 :kornbluth.freenode.net 255 Caltex-Bot :I have 3054 clients and 1 servers
+1314065277740.58 :kornbluth.freenode.net 265 Caltex-Bot 3054 3082 :Current local users 3054, max 3082
+1314065277741.08 :kornbluth.freenode.net 266 Caltex-Bot 69860 75049 :Current global users 69860, max 75049
+1314065277741.58 :kornbluth.freenode.net 250 Caltex-Bot :Highest connection count: 3083 (3082 clients) (67036 connections received)
+1314065277742.08 :kornbluth.freenode.net 375 Caltex-Bot :- kornbluth.freenode.net Message of the Day - 
+1314065277742.58 :kornbluth.freenode.net 372 Caltex-Bot :- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU. 
+1314065277745.08 :kornbluth.freenode.net 372 Caltex-Bot :- Thanks to Probe Networks (www.probe-networks.de) for
+1314065277746.08 :kornbluth.freenode.net 372 Caltex-Bot :- sponsoring this server!
+1314065277746.58 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065277747.08 :kornbluth.freenode.net 372 Caltex-Bot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+1314065277747.58 :kornbluth.freenode.net 372 Caltex-Bot :- an active member of the Futurians, Cyril Kornbluth sold his
+1314065277748.08 :kornbluth.freenode.net 372 Caltex-Bot :- first story professionally at age 15.  By the 1940's his
+1314065277748.58 :kornbluth.freenode.net 372 Caltex-Bot :- stories appeared widely under several pennames, including
+1314065277749.08 :kornbluth.freenode.net 372 Caltex-Bot :- S.D. Gottesman and Cecil Corman.  He left his university
+1314065278239.64 :kornbluth.freenode.net 372 Caltex-Bot :- studies in Chicago to serve in the Army in Europe during
+1314065278240.64 :kornbluth.freenode.net 372 Caltex-Bot :- WWII, then returned to school and work in Chicago until he
+1314065278241.14 :kornbluth.freenode.net 372 Caltex-Bot :- began writing full-time in 1951.  The author of The Marching
+1314065278241.64 :kornbluth.freenode.net 372 Caltex-Bot :- Morons and the novels The Space Merchants (with Frederik
+1314065278242.14 :kornbluth.freenode.net 372 Caltex-Bot :- Pohl) and The Syndic, he's best known for his biting social
+1314065278242.64 :kornbluth.freenode.net 372 Caltex-Bot :- satire and his collaborations with Pohl and with Judith
+1314065278243.14 :kornbluth.freenode.net 372 Caltex-Bot :- Merril.
+1314065278243.64 :kornbluth.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314065278244.14 :kornbluth.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314065278244.64 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278245.14 :kornbluth.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314065278246.14 :kornbluth.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314065278265.15 :kornbluth.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314065278266.65 :kornbluth.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314065278267.15 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278267.65 :kornbluth.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314065278268.15 :kornbluth.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314065278268.65 :kornbluth.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314065278269.15 :kornbluth.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314065278269.65 :kornbluth.freenode.net 372 Caltex-Bot :- support.
+1314065278270.15 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278270.65 :kornbluth.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314065278271.15 :kornbluth.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314065278271.65 :kornbluth.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314065278272.15 :kornbluth.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314065278272.15 :kornbluth.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314065278272.65 :kornbluth.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314065278273.15 :kornbluth.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314065278273.65 :kornbluth.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314065278274.15 :kornbluth.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314065278274.65 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278275.15 :kornbluth.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314065278275.65 :kornbluth.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314065278276.15 :kornbluth.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314065278276.65 :kornbluth.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314065278277.15 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278277.65 :kornbluth.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314065278278.15 :kornbluth.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314065278618.69 :kornbluth.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314065278619.69 :kornbluth.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314065278619.69 :kornbluth.freenode.net 372 Caltex-Bot :- the network!
+1314065278620.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278621.19 :kornbluth.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314065278621.69 :kornbluth.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314065278622.19 :kornbluth.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314065278622.69 :kornbluth.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314065278623.19 :kornbluth.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314065278623.69 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278624.19 :kornbluth.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314065278624.69 :kornbluth.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314065278625.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278625.69 :kornbluth.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314065278626.69 :kornbluth.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314065278627.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278627.69 :kornbluth.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314065278628.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065278628.69 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065278629.19 :kornbluth.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314065278629.69 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065278630.19 :kornbluth.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314065278701.7 :Caltex-Bot MODE Caltex-Bot :+i
+1314065278723.71 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314065281271.53 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314065281748.59 :kornbluth.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SuprTiggr noagendamarket Graet MrTiggrAFK
+1314065281757.09 :kornbluth.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314065282248.65 :kornbluth.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314065282263.66 :kornbluth.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314065282753.72 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au kornbluth.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314065282762.22 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314065282763.22 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket holmes.freenode.net noagendamarket H :0 dave
+1314065282764.22 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314065282764.72 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggrAFK H :0 MrTiggr
+1314065282765.22 :kornbluth.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314065283245.28 :kornbluth.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314065283856.86 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314065287277.29 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314065323723.42 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set BIZNUM
+1314065333140.12 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set BIZNUM asd
+1314065351419.94 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set
+1314065359095.34 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::(
+1314065412405.97 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG Caltex-Bot :#set IN
+1314065496674.61 :kornbluth.freenode.net NOTICE * :*** Looking up your hostname...
+1314065497202.16 :kornbluth.freenode.net NOTICE * :*** Checking Ident
+1314065497226.16 :kornbluth.freenode.net NOTICE * :*** Found your hostname
+1314065509605.05 :kornbluth.freenode.net NOTICE * :*** No Ident response
+1314065510055.1 :kornbluth.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314065510057.61 :kornbluth.freenode.net 002 Caltex-Bot :Your host is kornbluth.freenode.net[82.96.64.4/6667], running version ircd-seven-1.0.3
+1314065510058.11 :kornbluth.freenode.net 003 Caltex-Bot :This server was created Wed Aug 17 2011 at 13:53:02 CEST
+1314065510058.61 :kornbluth.freenode.net 004 Caltex-Bot kornbluth.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314065510059.11 :kornbluth.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314065510059.61 :kornbluth.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314065510060.11 :kornbluth.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314065510060.61 :kornbluth.freenode.net 251 Caltex-Bot :There are 309 users and 69581 invisible on 27 servers
+1314065510061.11 :kornbluth.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314065510061.61 :kornbluth.freenode.net 253 Caltex-Bot 8 :unknown connection(s)
+1314065510062.11 :kornbluth.freenode.net 254 Caltex-Bot 44002 :channels formed
+1314065510062.61 :kornbluth.freenode.net 255 Caltex-Bot :I have 3047 clients and 1 servers
+1314065510063.11 :kornbluth.freenode.net 265 Caltex-Bot 3047 3082 :Current local users 3047, max 3082
+1314065510063.61 :kornbluth.freenode.net 266 Caltex-Bot 69890 75049 :Current global users 69890, max 75049
+1314065510064.11 :kornbluth.freenode.net 250 Caltex-Bot :Highest connection count: 3083 (3082 clients) (67079 connections received)
+1314065510064.61 :kornbluth.freenode.net 375 Caltex-Bot :- kornbluth.freenode.net Message of the Day - 
+1314065510065.11 :kornbluth.freenode.net 372 Caltex-Bot :- Welcome to kornbluth.freenode.net in Frankfurt, DE, EU. 
+1314065510070.11 :kornbluth.freenode.net 372 Caltex-Bot :- Thanks to Probe Networks (www.probe-networks.de) for
+1314065510071.11 :kornbluth.freenode.net 372 Caltex-Bot :- sponsoring this server!
+1314065510071.61 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510072.11 :kornbluth.freenode.net 372 Caltex-Bot :- KORNBLUTH, CYRIL M. [1923-1958].  Born in New York City and
+1314065510072.61 :kornbluth.freenode.net 372 Caltex-Bot :- an active member of the Futurians, Cyril Kornbluth sold his
+1314065510073.11 :kornbluth.freenode.net 372 Caltex-Bot :- first story professionally at age 15.  By the 1940's his
+1314065510073.61 :kornbluth.freenode.net 372 Caltex-Bot :- stories appeared widely under several pennames, including
+1314065510074.11 :kornbluth.freenode.net 372 Caltex-Bot :- S.D. Gottesman and Cecil Corman.  He left his university
+1314065510754.19 :kornbluth.freenode.net 372 Caltex-Bot :- studies in Chicago to serve in the Army in Europe during
+1314065510755.19 :kornbluth.freenode.net 372 Caltex-Bot :- WWII, then returned to school and work in Chicago until he
+1314065510755.69 :kornbluth.freenode.net 372 Caltex-Bot :- began writing full-time in 1951.  The author of The Marching
+1314065510756.19 :kornbluth.freenode.net 372 Caltex-Bot :- Morons and the novels The Space Merchants (with Frederik
+1314065510756.69 :kornbluth.freenode.net 372 Caltex-Bot :- Pohl) and The Syndic, he's best known for his biting social
+1314065510757.19 :kornbluth.freenode.net 372 Caltex-Bot :- satire and his collaborations with Pohl and with Judith
+1314065510757.69 :kornbluth.freenode.net 372 Caltex-Bot :- Merril.
+1314065510758.19 :kornbluth.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314065510758.69 :kornbluth.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314065510759.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510759.69 :kornbluth.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314065510760.19 :kornbluth.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314065510760.69 :kornbluth.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314065510761.69 :kornbluth.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314065510762.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510763.19 :kornbluth.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314065510763.69 :kornbluth.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314065510764.19 :kornbluth.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314065510764.69 :kornbluth.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314065510765.19 :kornbluth.freenode.net 372 Caltex-Bot :- support.
+1314065510766.19 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510766.69 :kornbluth.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314065510767.19 :kornbluth.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314065510767.19 :kornbluth.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314065510768.2 :kornbluth.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314065510768.7 :kornbluth.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314065510769.2 :kornbluth.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314065510769.7 :kornbluth.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314065510770.2 :kornbluth.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314065510770.7 :kornbluth.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314065510771.2 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510771.7 :kornbluth.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314065510772.2 :kornbluth.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314065510772.7 :kornbluth.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314065510773.2 :kornbluth.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314065510773.7 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065510774.2 :kornbluth.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314065510775.2 :kornbluth.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314065511258.26 :kornbluth.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314065511259.26 :kornbluth.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314065511259.26 :kornbluth.freenode.net 372 Caltex-Bot :- the network!
+1314065511259.76 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065511260.26 :kornbluth.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314065511260.76 :kornbluth.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314065511261.26 :kornbluth.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314065511331.77 :kornbluth.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314065511332.77 :kornbluth.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314065511333.27 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065511333.77 :kornbluth.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314065511334.27 :kornbluth.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314065511334.77 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065511334.77 :kornbluth.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314065511335.27 :kornbluth.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314065511336.27 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065511336.77 :kornbluth.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314065511336.77 :kornbluth.freenode.net 372 Caltex-Bot :-  
+1314065511337.27 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065511337.77 :kornbluth.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314065511338.27 :kornbluth.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314065511338.77 :kornbluth.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314065511411.28 :Caltex-Bot MODE Caltex-Bot :+i
+1314065511435.28 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314065514073.11 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314065514595.68 :kornbluth.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot SuprTiggr noagendamarket Graet MrTiggrAFK
+1314065514604.18 :kornbluth.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314065515116.25 :kornbluth.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314065515122.75 :kornbluth.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314065515612.81 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au kornbluth.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314065515621.31 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314065515622.31 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket holmes.freenode.net noagendamarket H :0 dave
+1314065515622.81 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314065515623.31 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggrAFK H :0 MrTiggr
+1314065515623.81 :kornbluth.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314065516114.37 :kornbluth.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314065516737.95 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314065521204.52 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set
+1314065527994.24 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1314065539567.71 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1314065542350.57 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1314065597034.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634496623423970710
+1314065602623.72 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set
+1314065605574.09 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D
+1314065608581.97 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314065669058.15 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#rollcall
+1314065679184.94 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1314065731460.58 :TiggrBot!~TiggrBot@ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com JOIN :#bitcoin-police-bot
+1314065732203.67 :kornbluth.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com roddenberry.freenode.net TiggrBot H :0 PPF V0.6
+1314065732704.23 :kornbluth.freenode.net 315 Caltex-Bot TiggrBot :End of /WHO list.
+1314065739676.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :heeey buddy
+1314065740719.25 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D
+1314065753801.91 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :!listlearned
+1314065754473.5 :TiggrBot!~TiggrBot@ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com PRIVMSG #bitcoin-police-bot :Known words: fwiw, "Duck, NSA, MITM, FUBAR, MineShaft, IxCoin, DSO, DEA, tineye, LMGTFY, SNAFU, FS, MH, FOBP, IANAL, IANAM, bbiab, MO, bbiaf, TAFE, BCIS, HC, RCMP, somethingawful, bbiaw, SA, NaCL, CoC, PS
+1314065781857.34 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :@internet whois
+1314065796874.24 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#internet whois
+1314065806292.94 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :!internet whois
+1314065825684.9 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :SuprTiggr: internet whois bitcoinduit.com
+1314065880055.17 PING :kornbluth.freenode.net
+1314066028060.46 PING :kornbluth.freenode.net
+1314066134692.5 :noagendamarket!~dave@unaffiliated/noagendamarket QUIT :Ping timeout: 240 seconds
+1314066176051.75 PING :kornbluth.freenode.net
+1314066324054.54 PING :kornbluth.freenode.net
+1314068834891.81 :leguin.freenode.net NOTICE * :*** Looking up your hostname...
+1314068835434.38 :leguin.freenode.net NOTICE * :*** Checking Ident
+1314068836024.96 :leguin.freenode.net NOTICE * :*** Found your hostname
+1314068849355.15 :leguin.freenode.net NOTICE * :*** No Ident response
+1314068849843.71 :leguin.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314068849847.71 :leguin.freenode.net 002 Caltex-Bot :Your host is leguin.freenode.net[130.239.18.172/6667], running version ircd-seven-1.0.3
+1314068849848.71 :leguin.freenode.net 003 Caltex-Bot :This server was created Wed Feb 24 2010 at 00:01:47 CET
+1314068849849.21 :leguin.freenode.net 004 Caltex-Bot leguin.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314068849849.71 :leguin.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314068849850.21 :leguin.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314068849850.71 :leguin.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314068849850.71 :leguin.freenode.net 251 Caltex-Bot :There are 307 users and 69832 invisible on 27 servers
+1314068849851.21 :leguin.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314068849851.71 :leguin.freenode.net 253 Caltex-Bot 5 :unknown connection(s)
+1314068849852.21 :leguin.freenode.net 254 Caltex-Bot 43977 :channels formed
+1314068850582.8 :leguin.freenode.net 255 Caltex-Bot :I have 6052 clients and 1 servers
+1314068850583.8 :leguin.freenode.net 265 Caltex-Bot 6052 8055 :Current local users 6052, max 8055
+1314068850583.8 :leguin.freenode.net 266 Caltex-Bot 70139 75049 :Current global users 70139, max 75049
+1314068850584.3 :leguin.freenode.net 250 Caltex-Bot :Highest connection count: 8056 (8055 clients) (2978136 connections received)
+1314068850585.3 :leguin.freenode.net 375 Caltex-Bot :- leguin.freenode.net Message of the Day - 
+1314068850585.8 :leguin.freenode.net 372 Caltex-Bot :- Welcome to leguin.freenode.net in Umeå, Sweden, EU! Thanks to
+1314068850590.31 :leguin.freenode.net 372 Caltex-Bot :- the Academic Computer Club at Umeå University for sponsoring
+1314068850591.31 :leguin.freenode.net 372 Caltex-Bot :- this server!
+1314068850591.81 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850592.31 :leguin.freenode.net 372 Caltex-Bot :- URSULA K. LEGUIN (1929-)  The author of the Earthsea
+1314068850592.81 :leguin.freenode.net 372 Caltex-Bot :- trilogy, City of Illusions and The Dispossessed.
+1314068850593.31 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850593.81 :leguin.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314068850594.31 :leguin.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314068850594.81 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850594.81 :leguin.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314068850595.81 :leguin.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314068850596.81 :leguin.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314068850596.81 :leguin.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314068850597.31 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850597.81 :leguin.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314068850598.31 :leguin.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314068850598.81 :leguin.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314068850599.81 :leguin.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314068850600.31 :leguin.freenode.net 372 Caltex-Bot :- support.
+1314068850600.31 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850600.81 :leguin.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314068850601.31 :leguin.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314068850601.81 :leguin.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314068850602.31 :leguin.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314068850602.81 :leguin.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314068850603.31 :leguin.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314068850603.81 :leguin.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314068850604.31 :leguin.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314068850604.81 :leguin.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314068850605.31 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068850605.81 :leguin.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314068850606.31 :leguin.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314068850606.31 :leguin.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314068850606.31 :leguin.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314068850606.81 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851087.37 :leguin.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314068851087.87 :leguin.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314068851088.37 :leguin.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314068851088.87 :leguin.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314068851118.87 :leguin.freenode.net 372 Caltex-Bot :- the network!
+1314068851119.87 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851120.37 :leguin.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314068851120.87 :leguin.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314068851121.37 :leguin.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314068851121.87 :leguin.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314068851122.37 :leguin.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314068851122.37 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851122.87 :leguin.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314068851123.37 :leguin.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314068851124.37 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851124.87 :leguin.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314068851124.87 :leguin.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314068851125.37 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851126.37 :leguin.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314068851126.87 :leguin.freenode.net 372 Caltex-Bot :-  
+1314068851127.37 :leguin.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314068851127.87 :leguin.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314068851127.87 :leguin.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314068851128.37 :leguin.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314068851194.38 :Caltex-Bot MODE Caltex-Bot :+i
+1314068851219.89 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314068853620.69 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314068854176.26 :leguin.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot TiggrBot SuprTiggr Graet MrTiggr
+1314068854188.26 :leguin.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314068854770.34 :leguin.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314068854786.84 :leguin.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314068855317.41 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au leguin.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314068855328.41 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314068855328.91 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314068855329.41 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314068855330.41 :leguin.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggr H :0 MrTiggr
+1314068855330.91 :leguin.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314068855823.47 :leguin.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314068856460.05 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314068860814.1 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314068881509.73 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set OWNERNAME Wayne
+1314068886910.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1314068927178.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634496656869259193
+1314068941455.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set OWNERNAME Wayne Lee-Archer
+1314068972565.23 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set EMAIL Mr.Tiggr@gmail.com
+1314069720181.32 :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1314069720204.32 :verne.freenode.net NOTICE * :*** Checking Ident
+1314069720517.86 :verne.freenode.net NOTICE * :*** Found your hostname
+1314070202616.74 :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+1314070202642.24 :hitchcock.freenode.net NOTICE * :*** Checking Ident
+1314070203335.33 :hitchcock.freenode.net NOTICE * :*** Found your hostname
+1314070218135.71 :hitchcock.freenode.net NOTICE * :*** No Ident response
+1314070218136.21 :hitchcock.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314070218137.21 :hitchcock.freenode.net 002 Caltex-Bot :Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.0.3
+1314070218137.71 :hitchcock.freenode.net 003 Caltex-Bot :This server was created Thu Feb 24 2011 at 18:22:29 EET
+1314070218137.71 :hitchcock.freenode.net 004 Caltex-Bot hitchcock.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314070218138.21 :hitchcock.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314070218138.21 :hitchcock.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314070218138.71 :hitchcock.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314070218138.71 :hitchcock.freenode.net 251 Caltex-Bot :There are 308 users and 70308 invisible on 27 servers
+1314070218139.21 :hitchcock.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314070218139.71 :hitchcock.freenode.net 253 Caltex-Bot 10 :unknown connection(s)
+1314070218139.71 :hitchcock.freenode.net 254 Caltex-Bot 44005 :channels formed
+1314070218140.21 :hitchcock.freenode.net 255 Caltex-Bot :I have 3146 clients and 1 servers
+1314070218140.21 :hitchcock.freenode.net 265 Caltex-Bot 3146 3365 :Current local users 3146, max 3365
+1314070218140.71 :hitchcock.freenode.net 266 Caltex-Bot 70616 75049 :Current global users 70616, max 75049
+1314070218140.71 :hitchcock.freenode.net 250 Caltex-Bot :Highest connection count: 3366 (3365 clients) (244050 connections received)
+1314070218141.21 :hitchcock.freenode.net 375 Caltex-Bot :- hitchcock.freenode.net Message of the Day - 
+1314070218141.21 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218143.71 :hitchcock.freenode.net 372 Caltex-Bot :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+1314070218144.21 :hitchcock.freenode.net 372 Caltex-Bot :- OnlineDirect (http://onlinedirect.bg).
+1314070218144.21 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218144.71 :hitchcock.freenode.net 372 Caltex-Bot :- HITCHCOCK, ALFRED [1889-1980].  Born in London, UK, Hitchcock went on to pioneer
+1314070218144.71 :hitchcock.freenode.net 372 Caltex-Bot :- many techniques in film-making.
+1314070218144.71 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218145.21 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218145.21 :hitchcock.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314070218145.71 :hitchcock.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314070218145.71 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218146.21 :hitchcock.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314070218146.71 :hitchcock.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314070218146.71 :hitchcock.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314070218147.21 :hitchcock.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314070218147.21 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218147.71 :hitchcock.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314070218148.21 :hitchcock.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314070218148.21 :hitchcock.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314070218608.27 :hitchcock.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314070218608.77 :hitchcock.freenode.net 372 Caltex-Bot :- support.
+1314070218609.27 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070218609.77 :hitchcock.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314070218610.27 :hitchcock.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314070218610.77 :hitchcock.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314070218611.27 :hitchcock.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314070219605.89 :hitchcock.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314070219611.39 :hitchcock.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314070219611.89 :hitchcock.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314070219612.39 :hitchcock.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314070219612.89 :hitchcock.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314070219613.39 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219613.89 :hitchcock.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314070219614.39 :hitchcock.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314070219614.89 :hitchcock.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314070219615.39 :hitchcock.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314070219615.39 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219616.39 :hitchcock.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314070219616.89 :hitchcock.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314070219617.39 :hitchcock.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314070219617.89 :hitchcock.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314070219618.39 :hitchcock.freenode.net 372 Caltex-Bot :- the network!
+1314070219618.89 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219619.39 :hitchcock.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314070219619.89 :hitchcock.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314070219619.89 :hitchcock.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314070219620.39 :hitchcock.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314070219620.89 :hitchcock.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314070219621.39 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219621.89 :hitchcock.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314070219622.39 :hitchcock.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314070219622.89 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219623.39 :hitchcock.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314070219623.89 :hitchcock.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314070219624.39 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219624.89 :hitchcock.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314070219625.39 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070219625.9 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314070219625.9 :hitchcock.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314070219626.4 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314070219626.4 :hitchcock.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314070219685.4 :Caltex-Bot MODE Caltex-Bot :+i
+1314070219707.41 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314070222307.24 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314070222882.31 :hitchcock.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot TiggrBot SuprTiggr Graet MrTiggr
+1314070222891.31 :hitchcock.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314070223152.84 :hitchcock.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314070223175.85 :hitchcock.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314070223656.91 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au hitchcock.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314070223664.91 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314070223665.91 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314070223666.41 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314070223666.91 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggr H :0 MrTiggr
+1314070223667.41 :hitchcock.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314070224157.97 :hitchcock.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314070224698.04 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314070228221.49 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #help
+1314070236090.49 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1314070300903.22 :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+1314070300925.72 :hitchcock.freenode.net NOTICE * :*** Checking Ident
+1314070300945.72 :hitchcock.freenode.net NOTICE * :*** Found your hostname
+1314070313147.77 :hitchcock.freenode.net NOTICE * :*** No Ident response
+1314070313148.27 :hitchcock.freenode.net 001 Caltex-Bot :Welcome to the freenode Internet Relay Chat Network Caltex-Bot
+1314070313149.27 :hitchcock.freenode.net 002 Caltex-Bot :Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.0.3
+1314070313149.77 :hitchcock.freenode.net 003 Caltex-Bot :This server was created Thu Feb 24 2011 at 18:22:29 EET
+1314070313149.77 :hitchcock.freenode.net 004 Caltex-Bot hitchcock.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314070313149.77 :hitchcock.freenode.net 005 Caltex-Bot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314070313150.27 :hitchcock.freenode.net 005 Caltex-Bot SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314070313150.27 :hitchcock.freenode.net 005 Caltex-Bot FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314070313150.77 :hitchcock.freenode.net 251 Caltex-Bot :There are 308 users and 70332 invisible on 27 servers
+1314070313150.77 :hitchcock.freenode.net 252 Caltex-Bot 30 :IRC Operators online
+1314070313151.27 :hitchcock.freenode.net 253 Caltex-Bot 4 :unknown connection(s)
+1314070313151.77 :hitchcock.freenode.net 254 Caltex-Bot 44006 :channels formed
+1314070313151.77 :hitchcock.freenode.net 255 Caltex-Bot :I have 3151 clients and 1 servers
+1314070313151.77 :hitchcock.freenode.net 265 Caltex-Bot 3151 3365 :Current local users 3151, max 3365
+1314070313152.27 :hitchcock.freenode.net 266 Caltex-Bot 70640 75049 :Current global users 70640, max 75049
+1314070313152.27 :hitchcock.freenode.net 250 Caltex-Bot :Highest connection count: 3366 (3365 clients) (244065 connections received)
+1314070313152.77 :hitchcock.freenode.net 375 Caltex-Bot :- hitchcock.freenode.net Message of the Day - 
+1314070313152.77 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313154.77 :hitchcock.freenode.net 372 Caltex-Bot :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+1314070313155.27 :hitchcock.freenode.net 372 Caltex-Bot :- OnlineDirect (http://onlinedirect.bg).
+1314070313155.77 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313155.77 :hitchcock.freenode.net 372 Caltex-Bot :- HITCHCOCK, ALFRED [1889-1980].  Born in London, UK, Hitchcock went on to pioneer
+1314070313156.27 :hitchcock.freenode.net 372 Caltex-Bot :- many techniques in film-making.
+1314070313156.27 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313156.77 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313156.77 :hitchcock.freenode.net 372 Caltex-Bot :- You're using freenode, a service of Peer-Directed Projects
+1314070313157.27 :hitchcock.freenode.net 372 Caltex-Bot :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314070313157.27 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313157.27 :hitchcock.freenode.net 372 Caltex-Bot :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314070313158.27 :hitchcock.freenode.net 372 Caltex-Bot :- like to invite all users of freenode to get involved in the fun
+1314070313158.27 :hitchcock.freenode.net 372 Caltex-Bot :- of our Valentine-themed fundraiser launch - see 
+1314070313159.27 :hitchcock.freenode.net 372 Caltex-Bot :- http://freenode.net/pdpc_valentine.shtml for more!
+1314070313159.27 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313159.77 :hitchcock.freenode.net 372 Caltex-Bot :- On the subject of fundraisers, we'd like to thank our donors, 
+1314070313159.77 :hitchcock.freenode.net 372 Caltex-Bot :- hardware and bandwith sponsors and especially  The Gallery 
+1314070313160.27 :hitchcock.freenode.net 372 Caltex-Bot :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314070313611.33 :hitchcock.freenode.net 372 Caltex-Bot :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314070313612.33 :hitchcock.freenode.net 372 Caltex-Bot :- support.
+1314070313612.33 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070313612.83 :hitchcock.freenode.net 372 Caltex-Bot :- By connecting to freenode you indicate that you have read
+1314070313614.33 :hitchcock.freenode.net 372 Caltex-Bot :- and agree to adhere to our policies and procedures as per
+1314070313614.83 :hitchcock.freenode.net 372 Caltex-Bot :- the website (http://freenode.net). We would like to remind
+1314070313615.33 :hitchcock.freenode.net 372 Caltex-Bot :- you that unauthorized public logging of channels on the
+1314070314807.98 :hitchcock.freenode.net 372 Caltex-Bot :- network is prohibited. Public channel logging should only
+1314070314808.48 :hitchcock.freenode.net 372 Caltex-Bot :- take place where the channel owner(s) has requested this
+1314070314808.98 :hitchcock.freenode.net 372 Caltex-Bot :- and users of the channel are all made aware (if you are
+1314070314809.48 :hitchcock.freenode.net 372 Caltex-Bot :- publically logging your channel, you may wish to keep a
+1314070314809.98 :hitchcock.freenode.net 372 Caltex-Bot :- notice in topic and perhaps as a on-join message).
+1314070314810.48 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314810.98 :hitchcock.freenode.net 372 Caltex-Bot :- By registering your nickname with Nickserv you agree that you
+1314070314811.48 :hitchcock.freenode.net 372 Caltex-Bot :- are 13 years of age, or older. For more information about the
+1314070314811.98 :hitchcock.freenode.net 372 Caltex-Bot :- Children's Online Privacy Protection Act please see their
+1314070314811.98 :hitchcock.freenode.net 372 Caltex-Bot :- website at (http://www.coppa.org).
+1314070314816.98 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314817.48 :hitchcock.freenode.net 372 Caltex-Bot :- freenode runs an open proxy scanner. Your use of the network
+1314070314817.98 :hitchcock.freenode.net 372 Caltex-Bot :- indicates your acceptance of this policy. For details on
+1314070314818.48 :hitchcock.freenode.net 372 Caltex-Bot :- freenode network policy, please take a look at our policy
+1314070314818.98 :hitchcock.freenode.net 372 Caltex-Bot :- page (http://freenode.net/policy.shtml). Thank you for using
+1314070314819.48 :hitchcock.freenode.net 372 Caltex-Bot :- the network!
+1314070314819.98 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314820.48 :hitchcock.freenode.net 372 Caltex-Bot :- Don't forget to check out these other Peer-Directed Projects:
+1314070314820.48 :hitchcock.freenode.net 372 Caltex-Bot :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314070314820.98 :hitchcock.freenode.net 372 Caltex-Bot :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314070314821.48 :hitchcock.freenode.net 372 Caltex-Bot :- success with Picnics for Geeks across the globe, more info at 
+1314070314821.98 :hitchcock.freenode.net 372 Caltex-Bot :- [http://geeknic.org]
+1314070314822.48 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314822.98 :hitchcock.freenode.net 372 Caltex-Bot :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314070314823.48 :hitchcock.freenode.net 372 Caltex-Bot :- a not for profit organisation registered in England and Wales.
+1314070314823.98 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314823.98 :hitchcock.freenode.net 372 Caltex-Bot :- If you support the work we do and wish to donate to the PDPC, 
+1314070314824.48 :hitchcock.freenode.net 372 Caltex-Bot :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314070314824.98 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314825.48 :hitchcock.freenode.net 372 Caltex-Bot :- Thank you for using freenode!
+1314070314825.98 :hitchcock.freenode.net 372 Caltex-Bot :-  
+1314070314826.48 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314070314826.98 :hitchcock.freenode.net 372 Caltex-Bot :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314070314827.48 :hitchcock.freenode.net 372 Caltex-Bot :- ***************************************************************
+1314070314827.48 :hitchcock.freenode.net 376 Caltex-Bot :End of /MOTD command.
+1314070314894.49 :Caltex-Bot MODE Caltex-Bot :+i
+1314070314918.5 :NickServ!NickServ@services. NOTICE Caltex-Bot :Caltex-Bot is not a registered nickname.
+1314070317343.8 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314070317791.36 :hitchcock.freenode.net 353 Caltex-Bot @ #bitcoin-police-bot :Caltex-Bot TiggrBot SuprTiggr Graet MrTiggr
+1314070317802.36 :hitchcock.freenode.net 366 Caltex-Bot #bitcoin-police-bot :End of /NAMES list.
+1314070318294.42 :hitchcock.freenode.net 324 Caltex-Bot #bitcoin-police-bot +ns
+1314070318317.43 :hitchcock.freenode.net 329 Caltex-Bot #bitcoin-police-bot 1312895859
+1314070318797.99 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr dsl-220-253-79-200.NSW.netspace.net.au hitchcock.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314070318803.99 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314070318804.49 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314070318804.99 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314070318804.99 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggr H :0 MrTiggr
+1314070318805.49 :hitchcock.freenode.net 315 Caltex-Bot #bitcoin-police-bot :End of /WHO list.
+1314070319295.55 :hitchcock.freenode.net 368 Caltex-Bot #bitcoin-police-bot :End of Channel Ban List
+1314070319329.56 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1314070319841.12 :Caltex-Bot!~MrTiggr@dsl-220-253-79-200.NSW.netspace.net.au NOTICE Caltex-Bot :There are 0 upcoming events.
+1314070335348.59 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#login
+1314070359134.11 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1314070399250.2 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634496671591771158
+1314070410071.58 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set PHONE hahahah
+1314070419288.25 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314070570462.73 PING :hitchcock.freenode.net
+1314070602610.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG Caltex-Bot :#set PHONE 0408 232 584
+1314070726449.54 PING :hitchcock.freenode.net
+1314070856447.98 PING :hitchcock.freenode.net
+1314070986457.99 PING :hitchcock.freenode.net
+1314071116459.99 PING :hitchcock.freenode.net
+1314071246451.5 PING :hitchcock.freenode.net
+1314071376454.01 PING :hitchcock.freenode.net
+1314071506461.52 PING :hitchcock.freenode.net
+1314071636459.03 PING :hitchcock.freenode.net
+1314071766482.54 PING :hitchcock.freenode.net
+1314071896474.04 PING :hitchcock.freenode.net
+1314072026466.55 PING :hitchcock.freenode.net
+1314072156486.56 PING :hitchcock.freenode.net
+1314072286480.07 PING :hitchcock.freenode.net
+1314072416487.08 PING :hitchcock.freenode.net
+1314072546476.08 PING :hitchcock.freenode.net
+1314072676476.59 PING :hitchcock.freenode.net
+1314072806480.6 PING :hitchcock.freenode.net
+1314072936487.61 PING :hitchcock.freenode.net
+1314073066498.62 PING :hitchcock.freenode.net
+1314073196485.12 PING :hitchcock.freenode.net
+1314073326492.63 PING :hitchcock.freenode.net
+1314073456487.64 PING :hitchcock.freenode.net
+1314073586505.15 PING :hitchcock.freenode.net
+1314073716493.66 PING :hitchcock.freenode.net
+1314073846499.67 PING :hitchcock.freenode.net
+1314073976532.68 PING :hitchcock.freenode.net
+1314074106500.68 PING :hitchcock.freenode.net
+1314074236555.7 PING :hitchcock.freenode.net
+1314074366519.7 PING :hitchcock.freenode.net
+1314074496519.21 PING :hitchcock.freenode.net
+1314074626518.72 PING :hitchcock.freenode.net
+1314074756515.22 PING :hitchcock.freenode.net
+1314074886522.73 PING :hitchcock.freenode.net
+1314075016535.24 PING :hitchcock.freenode.net
+1314075146533.75 PING :hitchcock.freenode.net
+1314075276559.26 PING :hitchcock.freenode.net
+1314075406569.27 PING :hitchcock.freenode.net
+1314075536571.78 PING :hitchcock.freenode.net
+1314075666585.79 PING :hitchcock.freenode.net
+1314075796589.3 PING :hitchcock.freenode.net
+1314075926580.3 PING :hitchcock.freenode.net
+1314076056586.31 PING :hitchcock.freenode.net
+1314076186590.32 PING :hitchcock.freenode.net
+1314076316585.33 PING :hitchcock.freenode.net
+1314076446595.84 PING :hitchcock.freenode.net
+1314076576622.85 PING :hitchcock.freenode.net
+1314076706608.85 PING :hitchcock.freenode.net
+1314076836594.36 PING :hitchcock.freenode.net
+1314076966645.87 PING :hitchcock.freenode.net
+1314077096603.38 PING :hitchcock.freenode.net
+1314077226625.39 PING :hitchcock.freenode.net
+1314077356599.39 PING :hitchcock.freenode.net
+1314077486618.4 PING :hitchcock.freenode.net
+1314077616630.91 PING :hitchcock.freenode.net
+1314077746639.42 PING :hitchcock.freenode.net
+1314077876624.43 PING :hitchcock.freenode.net
+1314078006636.44 PING :hitchcock.freenode.net
+1314078136626.94 PING :hitchcock.freenode.net
+1314078266681.46 PING :hitchcock.freenode.net
+1314078396637.96 PING :hitchcock.freenode.net
+1314078526645.97 PING :hitchcock.freenode.net
+1314078656646.48 PING :hitchcock.freenode.net
+1314078786656.49 PING :hitchcock.freenode.net
+1314078916646.49 PING :hitchcock.freenode.net
+1314079046652 PING :hitchcock.freenode.net
+1314079176645.01 PING :hitchcock.freenode.net
+1314079306648.52 PING :hitchcock.freenode.net
+1314079436649.52 PING :hitchcock.freenode.net
+1314079566662.03 PING :hitchcock.freenode.net
+1314079696656.54 PING :hitchcock.freenode.net
+1314079826651.55 PING :hitchcock.freenode.net
+1314079956664.06 PING :hitchcock.freenode.net
+1314080086691.07 PING :hitchcock.freenode.net
+1314080216672.08 PING :hitchcock.freenode.net
+1314080346789.6 PING :hitchcock.freenode.net
+1314080476673.59 PING :hitchcock.freenode.net
+1314080606707.1 PING :hitchcock.freenode.net
+1314080736679.61 PING :hitchcock.freenode.net
+1314080866785.13 PING :hitchcock.freenode.net
+1314080996684.12 PING :hitchcock.freenode.net
+1314081126689.13 PING :hitchcock.freenode.net
+1314081256680.64 PING :hitchcock.freenode.net
+1314081386698.65 PING :hitchcock.freenode.net
+1314081516701.16 PING :hitchcock.freenode.net
+1314081646702.17 PING :hitchcock.freenode.net
+1314081776695.17 PING :hitchcock.freenode.net
+1314081906700.68 PING :hitchcock.freenode.net
+1314082036702.69 PING :hitchcock.freenode.net
+1314082166705.7 PING :hitchcock.freenode.net
+1314082296775.71 PING :hitchcock.freenode.net
+1314082426711.21 PING :hitchcock.freenode.net
+1314082556708.72 PING :hitchcock.freenode.net
+1314082686675.73 PING :hitchcock.freenode.net
+1314082816673.23 PING :hitchcock.freenode.net
+1314082946673.24 PING :hitchcock.freenode.net
+1314083076690.75 PING :hitchcock.freenode.net
+1314083206695.26 PING :hitchcock.freenode.net
+1314083336682.77 PING :hitchcock.freenode.net
+1314083466685.77 PING :hitchcock.freenode.net
+1314083596679.28 PING :hitchcock.freenode.net
+1314083726692.29 PING :hitchcock.freenode.net
+1314083856681.3 PING :hitchcock.freenode.net
+1314083986709.31 PING :hitchcock.freenode.net
+1314084116695.31 PING :hitchcock.freenode.net
+1314084246693.82 PING :hitchcock.freenode.net
+1314084376701.83 PING :hitchcock.freenode.net
+1314084506723.84 PING :hitchcock.freenode.net
+1314084636707.35 PING :hitchcock.freenode.net
+1314084766709.36 PING :hitchcock.freenode.net
+1314084896702.36 PING :hitchcock.freenode.net
+1314085026717.37 PING :hitchcock.freenode.net
+1314085156721.38 PING :hitchcock.freenode.net
+1314085286719.39 PING :hitchcock.freenode.net
+1314085416718.4 PING :hitchcock.freenode.net
+1314085546781.91 PING :hitchcock.freenode.net
+1314085676727.41 PING :hitchcock.freenode.net
+1314085806730.42 PING :hitchcock.freenode.net
+1314085936727.93 PING :hitchcock.freenode.net
+1314086066735.44 PING :hitchcock.freenode.net
+1314086196734.95 PING :hitchcock.freenode.net
+1314086326740.46 PING :hitchcock.freenode.net
+1314086456733.96 PING :hitchcock.freenode.net
+1314086586750.47 PING :hitchcock.freenode.net
+1314086716741.98 PING :hitchcock.freenode.net
+1314086846746.49 PING :hitchcock.freenode.net
+1314086976747.5 PING :hitchcock.freenode.net
+1314087106750.5 PING :hitchcock.freenode.net
+1314087236768.01 PING :hitchcock.freenode.net
+1314087366763.52 PING :hitchcock.freenode.net
+1314087496760.53 PING :hitchcock.freenode.net
+1314087626779.54 PING :hitchcock.freenode.net
+1314087756764.05 PING :hitchcock.freenode.net
+1314087886771.05 PING :hitchcock.freenode.net
+1314088016818.57 PING :hitchcock.freenode.net
+1314088146832.08 PING :hitchcock.freenode.net
+1314088276836.09 PING :hitchcock.freenode.net
+1314088406818.59 PING :hitchcock.freenode.net
+1314088536839.6 PING :hitchcock.freenode.net
+1314088666857.61 PING :hitchcock.freenode.net
+1314088796835.62 PING :hitchcock.freenode.net
+1314088915899.24 :noagendamarket!~dave@unaffiliated/noagendamarket JOIN :#bitcoin-police-bot
+1314088916361.3 :hitchcock.freenode.net 352 Caltex-Bot #bitcoin-police-bot ~dave unaffiliated/noagendamarket leguin.freenode.net noagendamarket H :0 dave
+1314088916862.86 :hitchcock.freenode.net 315 Caltex-Bot noagendamarket :End of /WHO list.
+1314089056835.63 PING :hitchcock.freenode.net
+1314089186845.64 PING :hitchcock.freenode.net
+1314089316843.15 PING :hitchcock.freenode.net
+1314089446882.16 PING :hitchcock.freenode.net
+1314089576845.17 PING :hitchcock.freenode.net
+1314089706853.68 PING :hitchcock.freenode.net
+1314089836874.69 PING :hitchcock.freenode.net
+1314089966849.19 PING :hitchcock.freenode.net
+1314090096864.7 PING :hitchcock.freenode.net
+1314090226864.21 PING :hitchcock.freenode.net
+1314090356811.21 PING :hitchcock.freenode.net
+1314090486821.72 PING :hitchcock.freenode.net
+1314090616819.23 PING :hitchcock.freenode.net
+1314090746840.74 PING :hitchcock.freenode.net
+1314090876827.24 PING :hitchcock.freenode.net
+1314091006831.25 PING :hitchcock.freenode.net
+1314091136845.76 PING :hitchcock.freenode.net
+1314091266845.27 PING :hitchcock.freenode.net
+1314091396843.28 PING :hitchcock.freenode.net
+1314091526840.28 PING :hitchcock.freenode.net
+1314091656839.29 PING :hitchcock.freenode.net

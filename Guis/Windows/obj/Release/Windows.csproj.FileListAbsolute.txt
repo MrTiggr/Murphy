@@ -1,0 +1,26 @@
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Windows.exe
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Windows.pdb
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Abbot.frmMain.resources
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\ResGen.read.1.tlog
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\ResGen.write.1.tlog
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Windows.exe
+C:\Users\wleearcher\Downloads\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Windows.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Windows.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Windows.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Windows.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Windows.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Release Output\Windows.exe.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\GenerateResource.read.1.tlog
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\GenerateResource.write.1.tlog
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Abbot-1.1.2-src\Abbot-1.1.2-src\Guis\Windows\obj\Release\Murphy.frmMain.resources
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Windows.exe.config
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\Windows.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\Windows.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Windows.exe
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Windows.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\Murphy.frmMain.resources
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\GenerateResource.read.1.tlog
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Guis\Windows\obj\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Abbot>
+    
+    <Network Name="IrcNet" Port="6667" Nickname="Abbot_" Realname="Abbot IRC Bot [http://abbot.berlios.de]" Username="Abbot" Password="" SendDelay="200">
+        <Server Address="linz.irc.at" />
+        <Server Address="vienna.irc.at" />
+        <Channel Name="#abbot-test" />
+    </Network>
+    
+    
+    <Plugins>
+        <AutoOp>
+            <Op>.*?!~saxx@.*\.at</Op>
+        </AutoOp>
+	<GoogleSearch Key="5y08QKNQFHJQs/JiLiGfCWbvnv3vBT8B" />
+    </Plugins>
+
+</Abbot>
