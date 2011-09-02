@@ -814,3 +814,639 @@
 1314091396843.28 PING :hitchcock.freenode.net
 1314091526840.28 PING :hitchcock.freenode.net
 1314091656839.29 PING :hitchcock.freenode.net
+1314135583830.48 :hubbard.freenode.net NOTICE * :*** Looking up your hostname...
+1314135583856.48 :hubbard.freenode.net NOTICE * :*** Checking Ident
+1314135584329.51 :hubbard.freenode.net NOTICE * :*** Found your hostname
+1314135596508.2 :hubbard.freenode.net NOTICE * :*** No Ident response
+1314135596810.22 :hubbard.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314135596815.22 :hubbard.freenode.net 002 Murphy :Your host is hubbard.freenode.net[128.237.157.136/6667], running version ircd-seven-1.0.3
+1314135596816.22 :hubbard.freenode.net 003 Murphy :This server was created Tue Feb 23 2010 at 18:01:37 EST
+1314135596816.22 :hubbard.freenode.net 004 Murphy hubbard.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314135596817.22 :hubbard.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314135596817.22 :hubbard.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314135596818.22 :hubbard.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314135596818.22 :hubbard.freenode.net 251 Murphy :There are 312 users and 65917 invisible on 27 servers
+1314135596819.22 :hubbard.freenode.net 252 Murphy 29 :IRC Operators online
+1314135596819.22 :hubbard.freenode.net 253 Murphy 6 :unknown connection(s)
+1314135596820.22 :hubbard.freenode.net 254 Murphy 43768 :channels formed
+1314135596820.22 :hubbard.freenode.net 255 Murphy :I have 3858 clients and 1 servers
+1314135596821.22 :hubbard.freenode.net 265 Murphy 3858 4000 :Current local users 3858, max 4000
+1314135596821.22 :hubbard.freenode.net 266 Murphy 66229 75047 :Current global users 66229, max 75047
+1314135596822.22 :hubbard.freenode.net 250 Murphy :Highest connection count: 4001 (4000 clients) (383579 connections received)
+1314135596822.22 :hubbard.freenode.net 375 Murphy :- hubbard.freenode.net Message of the Day - 
+1314135596822.22 :hubbard.freenode.net 372 Murphy :- Massive thanks to Carnegie Mellon University (http://www.cmu.edu) and 
+1314135596825.22 :hubbard.freenode.net 372 Murphy :- the CMU Computer Club for sponsoring this server!
+1314135596826.22 :hubbard.freenode.net 372 Murphy :-  
+1314135596826.22 :hubbard.freenode.net 372 Murphy :- Hubbard, Lafayette Ronald [1911 - 1986]. Was an american Sci-Fi writer, 
+1314135596826.22 :hubbard.freenode.net 372 Murphy :- perhaps more famed for devising Dianetics and Scientology.
+1314135596827.22 :hubbard.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314135596827.22 :hubbard.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314135596828.22 :hubbard.freenode.net 372 Murphy :-  
+1314135596829.22 :hubbard.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314135596829.22 :hubbard.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314135596829.22 :hubbard.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314135596830.22 :hubbard.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314135596830.22 :hubbard.freenode.net 372 Murphy :-  
+1314135596830.22 :hubbard.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314135596830.22 :hubbard.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314135596831.22 :hubbard.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314135596831.22 :hubbard.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314135596831.22 :hubbard.freenode.net 372 Murphy :- support.
+1314135596831.22 :hubbard.freenode.net 372 Murphy :-  
+1314135596831.22 :hubbard.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314135596832.22 :hubbard.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314135596832.22 :hubbard.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314135596832.22 :hubbard.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314135596832.22 :hubbard.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314135596832.22 :hubbard.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314135596833.22 :hubbard.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314135596833.22 :hubbard.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314135596833.22 :hubbard.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314135596833.22 :hubbard.freenode.net 372 Murphy :-  
+1314135596834.22 :hubbard.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314135596834.22 :hubbard.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314135596834.22 :hubbard.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314135597254.24 :hubbard.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314135597254.24 :hubbard.freenode.net 372 Murphy :-  
+1314135597255.25 :hubbard.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314135597255.25 :hubbard.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314135597256.25 :hubbard.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314135597256.25 :hubbard.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314135597257.25 :hubbard.freenode.net 372 Murphy :- the network!
+1314135597257.25 :hubbard.freenode.net 372 Murphy :-  
+1314135597258.25 :hubbard.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314135597258.25 :hubbard.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314135597258.25 :hubbard.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314135597799.28 :hubbard.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314135597799.28 :hubbard.freenode.net 372 Murphy :- [http://geeknic.org]
+1314135597800.28 :hubbard.freenode.net 372 Murphy :-  
+1314135597800.28 :hubbard.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314135597801.28 :hubbard.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314135597801.28 :hubbard.freenode.net 372 Murphy :-  
+1314135597840.28 :hubbard.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314135597841.28 :hubbard.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314135597841.28 :hubbard.freenode.net 372 Murphy :-  
+1314135597842.28 :hubbard.freenode.net 372 Murphy :- Thank you for using freenode!
+1314135597842.28 :hubbard.freenode.net 372 Murphy :-  
+1314135597843.28 :hubbard.freenode.net 372 Murphy :- ***************************************************************
+1314135597843.28 :hubbard.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314135597843.28 :hubbard.freenode.net 372 Murphy :- ***************************************************************
+1314135597844.28 :hubbard.freenode.net 376 Murphy :End of /MOTD command.
+1314135597918.28 :Murphy MODE Murphy :+i
+1314135597944.28 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314135597969.29 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314135600834.45 :Murphy!~MrTiggr@220-253-183-165.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314135601278.48 :hubbard.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy KenArmitt TiggrBot SuprTiggr Graet MrTiggrAFK
+1314135601286.48 :hubbard.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314135601748.5 :hubbard.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314135601779.5 :hubbard.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314135602313.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr 220-253-183-165.NSW.netspace.net.au hubbard.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314135602320.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314135602321.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314135602321.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314135602322.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314135602322.53 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggrAFK H :0 MrTiggr
+1314135602323.53 :hubbard.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314135602833.56 :hubbard.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314135603356.59 :Murphy!~MrTiggr@220-253-183-165.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314135627636.98 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehehe i'm too funny
+1314135726480.64 PING :hubbard.freenode.net
+1314135857870.15 :MrTiggrAFK!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ACTION EVERYONE ...SAY HELLO TO MURPHY :D :D :D
+1314135858478.19 PING :hubbard.freenode.net
+1314135863589.48 :MrTiggrAFK!~MrTiggr@ozco.in NICK :MrTiggr
+1314135864552.53 :SomeoneWeird!~no@unaffiliated/someoneweird JOIN :#bitcoin-police-bot
+1314135865042.56 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~no unaffiliated/someoneweird asimov.freenode.net SomeoneWeird H :0 no
+1314135865863.61 :hubbard.freenode.net 315 Murphy SomeoneWeird :End of /WHO list.
+1314135885851.75 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#login
+1314135896158.34 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1314135913286.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#email
+1314135967911.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#everify MrTiggr:634497327146714001
+1314135978506.05 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#set
+1314135994578.97 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::D
+1314135995296.01 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#help
+1314135996651.09 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :erm
+1314135998859.22 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :should be
+1314136007114.69 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot : /msg Murphy to the beginning
+1314136023021.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh spottd that
+1314136028959.94 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :build i'll fix it
+1314136041616.66 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#infotypes
+1314136065643.04 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#login
+1314136090035.43 :MrTiggr!~MrTiggr@ozco.in PRIVMSG Murphy :#set WEBSITE http://www.worldzeitgeist.org
+1314136114790.85 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :we should really need to verify accounts
+1314136115649.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :manually
+1314136134444.97 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :do #listtypes
+1314136138312.19 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sorry
+1314136138766.22 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :like everyone in -pvt can do it, it's just people will register themselves as businsses
+1314136141149.35 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#listtypes
+1314136142812.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #infotypes
+1314136146196.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314136148060.75 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#infotypes
+1314136194260.39 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :coolies
+1314136197462.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#email
+1314136203983.95 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fter uve logged in you can #set WEBSITE http://someoneweird.net  etc
+1314136229619.41 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :is it possible to tie more than 1 person to a business yet
+1314136237460.86 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :<decodectext> <-- fixing 
+1314136240887.06 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :not yet
+1314136242700.16 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :soon
+1314136252212.71 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :gotta change the dbschema for that
+1314136261735.25 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :just getting all this running first
+1314136297870.32 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :aight cool
+1314136302174.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#eauth SomeoneWeird:634497329974665751
+1314136306575.82 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :>.<
+1314136308382.92 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :what is it?
+1314136313049.19 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : #everify
+1314136322420.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#everify SomeoneWeird:634497329974665751
+1314136323981.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :err derp
+1314136330758.2 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :YAAAAY
+1314136341104.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizid SomeoneWeird
+1314136342618.88 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#bizident
+1314136351011.36 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident SomeoneWeird
+1314136352128.42 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#bizid
+1314136355920.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :-.-
+1314136358303.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :space
+1314136360525.9 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1314136364241.11 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :: SomeoneWeird
+1314136375702.77 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#rollcall
+1314136381849.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#rollcall
+1314136403173.34 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :noice
+1314136405914.5 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#infotypes
+1314136408787.66 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :OK so go set some info so i can get writing on the ranking bit
+1314136438510.36 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#set email ajbrady@internode.on.net
+1314136445934.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ohshittup
+1314136447898.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :shuttup*
+1314136453541.22 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehehe
+1314136469829.15 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG Murphy :#set email ajbrady@internode.on.net
+1314136481898.84 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :" A moderator will validate this information shortly" ?
+1314136489577.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yep
+1314136506234.24 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG Murphy :#set website http://someoneweird.net
+1314136512215.58 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :"as one becomes available" mebbe
+1314136520710.06 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmm yeah
+1314136528906.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :but we should verify what people add as details
+1314136537572.03 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmm
+1314136541193.24 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1314136555009.03 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :basically you get "double the points" for pieces of info that check out
+1314136565770.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yp
+1314136574208.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG Murphy :#infotypes
+1314136590074.03 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :you cant type #infotypes in private
+1314136610302.19 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :good point - i'll fix that
+1314136613079.35 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :eeeasy
+1314136617777.62 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1314136618909.68 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :next build
+1314136621065.8 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :#infotypes 
+1314136631387.39 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :oops
+1314136635293.62 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :i see sorry
+1314136647793.33 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nope - it does that in notices so we dont see it ;)
+1314136648396.37 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314136651659.55 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#infotypes
+1314136663667.24 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :graet do #login
+1314136668468.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :or #help
+1314136672854.77 :SomeoneWeird!~no@unaffiliated/someoneweird PART #bitcoin-police-bot :"Leaving"
+1314136678722.1 :SomeoneWeird!~no@unaffiliated/someoneweird JOIN :#bitcoin-police-bot
+1314136679210.13 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~no unaffiliated/someoneweird asimov.freenode.net SomeoneWeird H :0 no
+1314136679680.16 :hubbard.freenode.net 315 Murphy SomeoneWeird :End of /WHO list.
+1314136683831.39 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :0.o
+1314136687397.6 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :anyway...
+1314136689861.74 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#help
+1314136719054.41 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :kk
+1314136729188.99 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :just reading
+1314136731042.09 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :only SET and listtypes working fer now
+1314136743641.81 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i'working on the profile and rank stuff as we speak
+1314136751212.25 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :can do most of that but dont has a lawer apart from the one that charged me a grand and hour
+1314136754173.42 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :all the login stuff werks
+1314136761236.82 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :cool, looking good guys
+1314136770163.33 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :chasing kids round b4 bed bbs
+1314136788361.37 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :MrTiggr, you should delete the Murphy under your account
+1314136788892.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :thx Graet np - i totally understand ;)
+1314136795244.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :and create a "Bitcoin Police" organisation
+1314136801394.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :on github
+1314136805682.36 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :no man
+1314136810818.66 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314136812556.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ok
+1314136814993.9 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :his name is Murphy
+1314136824232.42 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you not gotten the joke yet
+1314136826560.56 PING :hubbard.freenode.net
+1314136828303.66 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i havnt
+1314136835693.08 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot : /whois Murphy
+1314136847359.75 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you yungsters
+1314136848794.83 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :shees
+1314136858100.36 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314136868926.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION gets it now
+1314136878385.52 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :it stays Murphy
+1314136881272.69 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :;)
+1314136917312.75 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :noooo thats not what i was sayin
+1314136925747.23 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :Organisations are like usernames on github
+1314136943116.22 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :so you have repo's under the organisation
+1314136947879.5 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :aaah so you want it under bitcoinpoilice
+1314136950468.64 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i get yah
+1314136952113.74 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :meh 
+1314136958560.11 PING :hubbard.freenode.net
+1314136958890.13 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1314136959892.18 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ihappy with it there for now
+1314136960517.22 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314136967150.6 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh just a suggestion 
+1314136968491.68 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::)
+1314136975131.05 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :can fork it - its open
+1314136982238.46 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ino
+1314136992684.06 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :u grabbed the code ?
+1314137050734.38 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i forked it ye
+1314137059445.88 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sweet likee ?
+1314137071729.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :havnt looked yet
+1314137072369.62 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314137090491.65 PING :hubbard.freenode.net
+1314137093139.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i think the best way forward is to write our own plugin assemblies and put them as seperate hubs up in git :D
+1314137123747.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1314137124225.58 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so that basically stays as Murphy trunk ..and we write additional plugins for him
+1314137137608.35 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :thats why i think we should have organisation
+1314137143779.7 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :because we can both fork that
+1314137151441.14 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :then do pull requests to the main one
+1314137153385.25 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :?
+1314137153845.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :that makes it easy to work on the same or different things without treading on each others toes ;)
+1314137173100.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you can push/pull MrTiggr ..no diff
+1314137191131.41 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :meh
+1314137192595.49 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ok
+1314137195719.67 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::P
+1314137222475.2 PING :hubbard.freenode.net
+1314137284593.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :if(Bot.isAdmin(e.Data.Nick)){
+1314137285119.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                    switch (mes)
+1314137285144.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                    {
+1314137285169.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                        case "rollcall":
+1314137285583.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                            rollcall(n, e);
+1314137287166.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                            isadmin = true;
+1314137289079.01 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                            break;
+1314137291067.13 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                    }
+1314137293101.24 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :                }
+1314137295167.36 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :shouldn't isadmin = ture; be outside the switch
+1314137305419.95 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nope
+1314137312084.33 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :wait, why you even setting it?
+1314137316171.56 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Hi Guys
+1314137316624.59 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :isadmin in this instance means that an acommand was executed
+1314137321179.85 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :how you doing?
+1314137322185.91 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :HI KEN!
+1314137327229.19 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tooo bad :D
+1314137329575.33 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ok i should probs look over the whole code first lol
+1314137335273.65 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yep
+1314137341231.99 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314137344746.2 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :it prevents other command running after an admin command
+1314137354533.76 PING :hubbard.freenode.net
+1314137375344.95 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmm alrighty
+1314137376382.01 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :moved all your admin/pastie/sqlite code to the bot level so it is accessible in all the plugins :D
+1314137382729.37 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :sweet
+1314137393480.98 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Tiggr, I was thinking last night, if as many of us catch up in melbourne when your there for work
+1314137396863.18 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :also look at the way it reads its config
+1314137418115.39 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: would work well :D i'd love to catch all you guys
+1314137425913.84 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :\o/
+1314137427769.94 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Our Canberra trip is happening still, jus thinking so can meet noagenda, someoneweird etc etc
+1314137430257.09 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :KenArmitt, where are you?
+1314137444776.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :NSW
+1314137446371.01 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Orange NSW, 45 mins from Bathurst
+1314137454823.49 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ohk, no idea where that is ;P
+1314137463218.97 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i know WHAT bathurst is though
+1314137463797.01 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314137470487.39 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :you know Bathurst 1000 V8 super car races?
+1314137485338.24 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :..i'm in melb Oct 12-14 (and a few days around it) for the OZRI confrence
+1314137486535.31 PING :hubbard.freenode.net
+1314137495472.82 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yeah a little bit larger town 45 mins west of Bathurst
+1314137510504.68 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :cool
+1314137512760.81 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :with a kick ass Zoo nearby ;)
+1314137525355.53 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :I was thinking ill drive canberra and fly to Melb
+1314137541127.43 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :wait up, thats like 2 months away
+1314137544237.61 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :?
+1314137545245.66 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :the only prob so far is that we gotta get SomeoneWeird mum to sign a permission slip to let him come have coffe with us ;)
+1314137545725.69 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :To long of a drive for me yet
+1314137550669.97 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314137558028.39 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1314137561212.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :she can't know! haha
+1314137564386.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i'd be fucked
+1314137580281.67 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :what to have a coffee :)
+1314137582299.78 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Dood - if you are going to work in IT ..it would be legit for you to go to the OZRI confrence
+1314137588150.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and a tax dtoo  :)
+1314137591575.31 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmmmmmmm
+1314137618633.86 PING :hubbard.freenode.net
+1314137621418.02 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :still gotta explain why im meeting strange people i've met on the internet
+1314137622325.07 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314137628121.4 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Conference sounds good
+1314137631554.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :KenArmitt: he would have to get into a car with 3strage hairy old men
+1314137635385.82 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :that he met online
+1314137642390.22 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :good excuse to get away for few days.
+1314137651710.75 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314137654708.92 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1314137659099.18 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :we dont have candy
+1314137667368.65 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :If you guys are interested in going i can prolly arrange tix or sumthing
+1314137677940.25 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :and we aren't peodo's
+1314137692903.11 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :SomeoneWeird's mum dunt know that
+1314137701185.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :thats the problem ^'
+1314137702097.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314137703107.69 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yeah definatelly send me a link if you can wayne
+1314137703645.72 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :have you SEEN Graet's pic!!!
+1314137717365.51 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :will do ken!
+1314137723814.88 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Greats 70 something?
+1314137731659.33 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Graet*
+1314137740516.83 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :just joking Graet  :)
+1314137750463.4 PING :hubbard.freenode.net
+1314137756782.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ll
+1314137758239.85 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314137766201.3 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Well im 29, no agenda's 39 isnt he, your 33
+1314137771745.62 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :brb 2
+1314137805323.54 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :I dont have grey hair or bald yet :) even with chemo
+1314137821519.47 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :just lucky
+1314137832652.1 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :0.0  really! ..thats quite amazing really ken!
+1314137838018.41 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Well theres guys all over the place
+1314137847819.97 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ACTION is slowly getting taller than his hair
+1314137850691.13 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :shaders, is in Brissy so are a couple others
+1314137860425.69 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Then the WA team with Graet
+1314137865139.96 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1314137870447.26 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :da2ce7 is vic too
+1314137876916.63 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :cool
+1314137882624.96 PING :hubbard.freenode.net
+1314137894414.64 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Ycros/Wayno are WA too i think
+1314137912237.65 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :We can have a Australian Bitcoin Conference LOL
+1314137912793.69 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :bk
+1314137929243.63 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :^^ ken not a bad idea!
+1314137938040.13 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we'd do a better job that brucefagner
+1314137938662.17 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :would be cool
+1314137942350.38 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh lol
+1314137946022.59 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :yes we would
+1314137953192 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :at least a fucking live feed
+1314137957906.27 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314137964146.62 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we could get adrienne over to cover it ...just for shaded ;)
+1314137967941.84 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :haha
+1314137971528.05 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1314137979216.49 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :Shaded likes does he :)
+1314137984532.79 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nam and her tagteam out in the carpark :0
+1314137998703.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :with shaded
+1314138000802.72 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :fuuuuuu i broke my ubuntu vm ;(
+1314138001544.76 :KenArmitt!KenArmitt@66.17.233.220.static.exetel.com.au PRIVMSG #bitcoin-police-bot :lol
+1314138001990.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314138002543.82 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :they all be in heven
+1314138005419.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hah
+1314138014476.5 PING :hubbard.freenode.net
+1314138084792.52 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :5 minutes later Murphy compiles 
+1314138085702.58 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314138146613.06 PING :hubbard.freenode.net
+1314138199361.08 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :you didn't upload the sqlite dll's with the git MrTiggr 
+1314138199847.11 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314138208994.63 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :lol he is living on my machine at home for now
+1314138215857.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :not a good internet connexion
+1314138220132.26 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol ok
+1314138221691.35 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and i downloading stuff :D
+1314138223840.48 :Caltex-Bot!~Caltex-Bo@ppp118-209-165-153.lns20.mel6.internode.on.net JOIN :#bitcoin-police-bot
+1314138224521.52 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~Caltex-Bo ppp118-209-165-153.lns20.mel6.internode.on.net barjavel.freenode.net Caltex-Bot H :0 Caltex-Bot
+1314138225011.54 :hubbard.freenode.net 315 Murphy Caltex-Bot :End of /WHO list.
+1314138226285.62 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :GET T3H MICE
+1314138228736.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hi Caltex
+1314138233594.03 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :FUCKIN MICE
+1314138238577.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehe
+1314138239205.36 :Caltex-Bot!~Caltex-Bo@ppp118-209-165-153.lns20.mel6.internode.on.net PRIVMSG #bitcoin-police-bot :herro
+1314138247696.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :is that a murphy clone or a bpbot ?
+1314138251531.06 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :clone
+1314138255379.28 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noice
+1314138258054.43 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :you like?
+1314138258973.49 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :FUCKIN MICE
+1314138264688.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :^ thats not a privmsg?
+1314138265936.88 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :0.o
+1314138278418.6 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :it is a PRto the channel
+1314138282646.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :*PRIVMSG
+1314138288158.16 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol ok..
+1314138291944.37 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :learn how IRC works!!
+1314138294582.52 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :NO
+1314138295045.55 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yungster
+1314138302272.96 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :oldster
+1314138316411.77 :Caltex-Bot!~Caltex-Bo@ppp118-209-165-153.lns20.mel6.internode.on.net QUIT :Remote host closed the connection
+1314138347538.55 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :notice - there is a windows client, a console one (for running over ssh) and a windows service too :D
+1314138361472.35 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yep
+1314138362805.43 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::D
+1314138364543.52 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so you can technically run him as a service on da2ce7's box
+1314138366561.64 PING :hubbard.freenode.net
+1314138372526.98 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :i technically can
+1314138373787.05 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net JOIN :#bitcoin-police-bot
+1314138374518.1 :hubbard.freenode.net 352 Murphy #bitcoin-police-bot ~yamum ppp118-209-165-153.lns20.mel6.internode.on.net gibson.freenode.net yamum H :0 Caltex-Bot
+1314138374988.12 :hubbard.freenode.net 315 Murphy yamum :End of /WHO list.
+1314138382868.57 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hi yamum
+1314138387586.84 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :MY mum? ^^
+1314138393008.15 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net PRIVMSG #bitcoin-police-bot :yes
+1314138397832.43 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net PRIVMSG #bitcoin-police-bot :get off the computer
+1314138398306.46 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :OMG
+1314138401601.64 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hi mum
+1314138404870.83 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehe
+1314138409011.07 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net PRIVMSG #bitcoin-police-bot :hi Tiggrrrr!
+1314138414108.36 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net PRIVMSG #bitcoin-police-bot :lawl
+1314138426799.09 :yamum!~yamum@ppp118-209-165-153.lns20.mel6.internode.on.net QUIT :Remote host closed the connection
+1314138444934.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hehehehe :D
+1314138466849.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so you have all the dependencies installed up there then ?
+1314138479316.09 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :on?
+1314138489770.69 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :da2'?
+1314138491812.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :dace's box :P
+1314138498572.19 PING :hubbard.freenode.net
+1314138499896.27 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmm
+1314138501227.34 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :should be
+1314138509231.8 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :it's running asp so it has .net installed
+1314138510881.89 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :thats about it
+1314138511383.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :noice
+1314138517940.3 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sqlite libs
+1314138519753.4 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :gpg
+1314138525922.76 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :theyre dll's
+1314138528379.9 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :standalone
+1314138530121 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :gpg wrapper
+1314138532367.12 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :aretheynot?
+1314138540161.57 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh jus chekkin
+1314138543642.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mmm, gpg4win probably isn't installed
+1314138548092.02 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh
+1314138560030.71 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :want me to?
+1314138572206.4 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :wayno wa ycros syd
+1314138574443.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :sure..i dun think dasiy will mind
+1314138581724.95 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :AAAAH ofc
+1314138583165.03 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :<KenArmitt> We can have a Australian Bitcoin Conference LOL  <, we need no lol :P
+1314138596985.82 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :haha yeh
+1314138602209.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :agree totally Graet ..there is enuf of us!
+1314138609896.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :+ everyone else in -aus
+1314138616544.94 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yeh
+1314138618383.04 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :we should wait for da to come back tho
+1314138630560.74 PING :hubbard.freenode.net
+1314138632519.85 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :da2 will be ages
+1314138639382.24 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we cud organize it thru bitcoin australia (ausbit.org)
+1314138639890.27 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :he said 3 month
+1314138640404.3 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :he'll be back for 2nd con
+1314138644815.56 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hh
+1314138645739.61 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314138649008.8 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :;P
+1314138650447.88 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yah OZCOIN2
+1314138666411.79 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :eww
+1314138667225.84 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :;)
+1314138683505.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ozcon.ausbit.org
+1314138683985.8 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :OZCOINF
+1314138684517.83 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :!
+1314138688122.03 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314138692628.29 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :dunno how i'll afford it but if theres and ausbtcconf i'n there
+1314138712575.43 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :mebbe we do it in like adelaide
+1314138719144.81 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmm
+1314138720618.89 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :even if i have to ride my bike to melb :P
+1314138722231.98 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :i dun think there are a lot ofus thre
+1314138725179.15 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :rent out internode hq
+1314138726017.2 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314138727273.27 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :all meet in "the middle"
+1314138735672.75 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :which would be awse coz i could do great ocean road again :P
+1314138743724.21 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :oooh
+1314138746696.38 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :good call!
+1314138748136.47 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :ALICCE SPRINS!!!
+1314138754330.82 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :we could do it down like ..lorne
+1314138758983.09 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :eeew
+1314138760332.16 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :ooohh
+1314138762552.29 PING :hubbard.freenode.net
+1314138762862.31 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :lol
+1314138762889.31 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lawl
+1314138763402.34 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :tiggrs do NOT like heat
+1314138766364.51 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :D:
+1314138769108.66 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::(
+1314138781723.39 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :well conf in melb but i can do great ocean road on way there and back :P
+1314138785813.62 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :ACTION just did 1trips to darwin in the last year ..TIGGRS DO NO LIKE HOT
+1314138794829.14 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :*10
+1314138797085.26 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yes graet!
+1314138797900.31 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :and prolly find some free accom :P
+1314138801381.51 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot ::p
+1314138803633.64 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :ACTION hides
+1314138825801.91 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :KenArmitt i'm still looking for the bitcoiner that admits to being older than me ;)
+1314138827383 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :nah - melb makes sense
+1314138883400.2 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :Graet is eldercoin here
+1314138894468.84 PING :hubbard.freenode.net
+1314138904812.43 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314138906356.51 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :it is something else i would like to help with but dontn think i would ahve time to take the lead
+1314138955395.32 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :hey..i'll put my hand up to head a team to organize a conf. if you guys will help.
+1314138964616.85 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :for sure
+1314138972400.29 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :kk
+1314138986338.09 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :one of my stated goals is help spread btc in au :D
+1314138986842.12 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :so we're thinking when(ish)
+1314138990828.35 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :yes
+1314139005444.18 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :mrs is going east in oct, i cant clash, lemme check :P
+1314139014087.68 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :mebbe an "end of year round up"
+1314139026541.39 PING :hubbard.freenode.net
+1314139031273.66 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :hmm, 25th dec!
+1314139032745.74 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :lol
+1314139055395.04 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :conf starts 31/12/2011 23:59:59
+1314139071178.94 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fukkit ..lets all justgo to falls festival in lornefor newyears and get fukked up for a few days
+1314139143501.08 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :haha
+1314139152606.6 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :LOL
+1314139158480.94 PING :hubbard.freenode.net
+1314139162313.15 :Graet!~Graet@unaffiliated/graet PRIVMSG #bitcoin-police-bot :i cant really do school hols
+1314139182565.31 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :;(
+1314139186420.53 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :"what do you think we did after we got tom...we got fukked up for a week of course!"
+1314139186915.56 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :^^ print THAT biyatch
+1314139818785.7 :calvino.freenode.net NOTICE * :*** Looking up your hostname...
+1314139819455.74 :calvino.freenode.net NOTICE * :*** Checking Ident
+1314139820247.79 :calvino.freenode.net NOTICE * :*** Found your hostname
+1314139834759.62 :calvino.freenode.net NOTICE * :*** No Ident response
+1314139835099.64 :calvino.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314139835099.64 :calvino.freenode.net 002 Murphy :Your host is calvino.freenode.net[213.92.8.4/6667], running version ircd-seven-1.0.3
+1314139835100.64 :calvino.freenode.net 003 Murphy :This server was created Wed Feb 24 2010 at 00:02:02 CET
+1314139835100.64 :calvino.freenode.net 004 Murphy calvino.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314139835101.64 :calvino.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314139835101.64 :calvino.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314139835102.64 :calvino.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314139835102.64 :calvino.freenode.net 251 Murphy :There are 313 users and 67425 invisible on 27 servers
+1314139835103.64 :calvino.freenode.net 252 Murphy 29 :IRC Operators online
+1314139835103.64 :calvino.freenode.net 253 Murphy 8 :unknown connection(s)
+1314139835104.64 :calvino.freenode.net 254 Murphy 43921 :channels formed
+1314139835104.64 :calvino.freenode.net 255 Murphy :I have 6090 clients and 1 servers
+1314139835105.64 :calvino.freenode.net 265 Murphy 6090 6540 :Current local users 6090, max 6540
+1314139835106.64 :calvino.freenode.net 266 Murphy 67738 75049 :Current global users 67738, max 75049
+1314139835106.64 :calvino.freenode.net 250 Murphy :Highest connection count: 6541 (6540 clients) (664773 connections received)
+1314139835107.64 :calvino.freenode.net 375 Murphy :- calvino.freenode.net Message of the Day - 
+1314139835107.64 :calvino.freenode.net 372 Murphy :- Welcome to calvino.freenode.net in Milan, Italy! Thanks to
+1314139835109.64 :calvino.freenode.net 372 Murphy :- I.Net S.p.A. (www.inet.it) for sponsoring this server!
+1314139835109.64 :calvino.freenode.net 372 Murphy :-  
+1314139835109.64 :calvino.freenode.net 372 Murphy :- CALVINO, ITALO [1923-1985].  Born in Cuba, Italo Calvino grew
+1314139835110.64 :calvino.freenode.net 372 Murphy :- up in San Remo, Italy.  During World War II, he joined the
+1314139835110.64 :calvino.freenode.net 372 Murphy :- partisans during the German occupation and, after writing a
+1314139835111.64 :calvino.freenode.net 372 Murphy :- series of stories which drew on his experiences, he became a
+1314139835111.64 :calvino.freenode.net 372 Murphy :- journalist. His work included Mr. Palomar, Under the
+1314139835112.64 :calvino.freenode.net 372 Murphy :- Jaguar Sun, Cosmicomics and t zero.  Calvino made
+1314139835113.64 :calvino.freenode.net 372 Murphy :- important contributions to Italian literature in the middle
+1314139835113.64 :calvino.freenode.net 372 Murphy :- of the last century.
+1314139835114.64 :calvino.freenode.net 372 Murphy :-  
+1314139835114.64 :calvino.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314139835115.64 :calvino.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314139835116.64 :calvino.freenode.net 372 Murphy :-  
+1314139835116.64 :calvino.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314139835116.64 :calvino.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314139835117.64 :calvino.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314139835117.64 :calvino.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314139835118.64 :calvino.freenode.net 372 Murphy :-  
+1314139835119.64 :calvino.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314139835119.64 :calvino.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314139835120.64 :calvino.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314139835120.64 :calvino.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314139835121.64 :calvino.freenode.net 372 Murphy :- support.
+1314139835121.64 :calvino.freenode.net 372 Murphy :-  
+1314139835121.64 :calvino.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314139835122.64 :calvino.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314139835123.64 :calvino.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314139835123.64 :calvino.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314139835124.64 :calvino.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314139835124.64 :calvino.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314139835125.64 :calvino.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314139835495.66 :calvino.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314139835495.66 :calvino.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314139835496.66 :calvino.freenode.net 372 Murphy :-  
+1314139835496.66 :calvino.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314139835496.66 :calvino.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314139835497.66 :calvino.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314139835497.66 :calvino.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314139835498.66 :calvino.freenode.net 372 Murphy :-  
+1314139835499.66 :calvino.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314139835499.66 :calvino.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314139835500.66 :calvino.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314139835500.66 :calvino.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314139835501.66 :calvino.freenode.net 372 Murphy :- the network!
+1314139835501.66 :calvino.freenode.net 372 Murphy :-  
+1314139835502.66 :calvino.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314139835503.66 :calvino.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314139835503.66 :calvino.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314139835504.66 :calvino.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314139835504.66 :calvino.freenode.net 372 Murphy :- [http://geeknic.org]
+1314139835505.66 :calvino.freenode.net 372 Murphy :-  
+1314139835505.66 :calvino.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314139835506.66 :calvino.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314139835506.66 :calvino.freenode.net 372 Murphy :-  
+1314139835507.66 :calvino.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314139835507.66 :calvino.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314139835508.66 :calvino.freenode.net 372 Murphy :-  
+1314139835508.66 :calvino.freenode.net 372 Murphy :- Thank you for using freenode!
+1314139835509.66 :calvino.freenode.net 372 Murphy :-  
+1314139835509.66 :calvino.freenode.net 372 Murphy :- ***************************************************************
+1314139835510.66 :calvino.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314139835510.66 :calvino.freenode.net 372 Murphy :- ***************************************************************
+1314139835511.66 :calvino.freenode.net 376 Murphy :End of /MOTD command.
+1314139835545.66 :Murphy MODE Murphy :+i
+1314139835569.66 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314139835591.66 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314139838092.81 :Murphy!~MrTiggr@220-253-190-134.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314139838644.84 :calvino.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy SomeoneWeird KenArmitt TiggrBot SuprTiggr Graet MrTiggr
+1314139838644.84 :calvino.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314139839314.88 :calvino.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314139839314.88 :calvino.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314139839994.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr 220-253-190-134.NSW.netspace.net.au calvino.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314139839995.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~no unaffiliated/someoneweird asimov.freenode.net SomeoneWeird H :0 no
+1314139839995.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314139839995.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314139839996.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314139839996.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314139839997.92 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggr H :0 MrTiggr
+1314139839998.92 :calvino.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314139839998.92 :calvino.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314139840729.96 :Murphy!~MrTiggr@220-253-190-134.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314139869405.6 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :mm lol
+1314139930570.1 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :fscking mice
+1314139936759.45 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :#bizident
+1314139944906.92 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot ::D still ogged in tho ;D
+1314140061529.59 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :heh
+1314140064706.77 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :#bizident
+1314140073107.25 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :you should do timeouts for logged in people
+1314140116516.73 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :yep
+1314140122780.09 :MrTiggr!~MrTiggr@ozco.in PRIVMSG #bitcoin-police-bot :and timeouts on the everify step too
+1314140151533.73 :SomeoneWeird!~no@unaffiliated/someoneweird PRIVMSG #bitcoin-police-bot :yeh
+1314140198622.43 PING :calvino.freenode.net
+1314140342604.66 PING :calvino.freenode.net
+1314140486574.9 PING :calvino.freenode.net
+1314140630564.13 PING :calvino.freenode.net
+1314140775136.4 PING :calvino.freenode.net
+1314140918552.61 PING :calvino.freenode.net
+1314141062559.84 PING :calvino.freenode.net

@@ -254,6 +254,7 @@
     <Compile Include="Network.cs" />
     <Compile Include="Plugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RijndaelEnhanced.cs" />
     <Compile Include="SqlLiteHelper.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>

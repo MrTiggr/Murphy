@@ -1,0 +1,718 @@
+1314145449077.74 :calvino.freenode.net NOTICE * :*** Looking up your hostname...
+1314145449525.76 :calvino.freenode.net NOTICE * :*** Checking Ident
+1314145450227.8 :calvino.freenode.net NOTICE * :*** Found your hostname
+1314145460477.39 :calvino.freenode.net NOTICE * :*** No Ident response
+1314145460988.42 :calvino.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314145460989.42 :calvino.freenode.net 002 Murphy :Your host is calvino.freenode.net[213.92.8.4/6667], running version ircd-seven-1.0.3
+1314145460990.42 :calvino.freenode.net 003 Murphy :This server was created Wed Feb 24 2010 at 00:02:02 CET
+1314145460990.42 :calvino.freenode.net 004 Murphy calvino.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314145460991.42 :calvino.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314145460992.42 :calvino.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314145460993.42 :calvino.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314145460993.42 :calvino.freenode.net 251 Murphy :There are 316 users and 69949 invisible on 27 servers
+1314145460993.42 :calvino.freenode.net 252 Murphy 29 :IRC Operators online
+1314145460994.42 :calvino.freenode.net 253 Murphy 10 :unknown connection(s)
+1314145460994.42 :calvino.freenode.net 254 Murphy 44148 :channels formed
+1314145460995.42 :calvino.freenode.net 255 Murphy :I have 6218 clients and 1 servers
+1314145460995.42 :calvino.freenode.net 265 Murphy 6218 6540 :Current local users 6218, max 6540
+1314145460995.42 :calvino.freenode.net 266 Murphy 70265 75049 :Current global users 70265, max 75049
+1314145460996.42 :calvino.freenode.net 250 Murphy :Highest connection count: 6541 (6540 clients) (665807 connections received)
+1314145460996.42 :calvino.freenode.net 375 Murphy :- calvino.freenode.net Message of the Day - 
+1314145460997.42 :calvino.freenode.net 372 Murphy :- Welcome to calvino.freenode.net in Milan, Italy! Thanks to
+1314145460999.42 :calvino.freenode.net 372 Murphy :- I.Net S.p.A. (www.inet.it) for sponsoring this server!
+1314145461000.42 :calvino.freenode.net 372 Murphy :-  
+1314145461000.42 :calvino.freenode.net 372 Murphy :- CALVINO, ITALO [1923-1985].  Born in Cuba, Italo Calvino grew
+1314145461001.42 :calvino.freenode.net 372 Murphy :- up in San Remo, Italy.  During World War II, he joined the
+1314145461001.42 :calvino.freenode.net 372 Murphy :- partisans during the German occupation and, after writing a
+1314145461001.42 :calvino.freenode.net 372 Murphy :- series of stories which drew on his experiences, he became a
+1314145461002.42 :calvino.freenode.net 372 Murphy :- journalist. His work included Mr. Palomar, Under the
+1314145461002.42 :calvino.freenode.net 372 Murphy :- Jaguar Sun, Cosmicomics and t zero.  Calvino made
+1314145461003.42 :calvino.freenode.net 372 Murphy :- important contributions to Italian literature in the middle
+1314145461003.42 :calvino.freenode.net 372 Murphy :- of the last century.
+1314145461730.46 :calvino.freenode.net 372 Murphy :-  
+1314145461731.46 :calvino.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314145461731.46 :calvino.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314145461732.46 :calvino.freenode.net 372 Murphy :-  
+1314145461732.46 :calvino.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314145461733.46 :calvino.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314145461733.46 :calvino.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314145461733.46 :calvino.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314145461733.46 :calvino.freenode.net 372 Murphy :-  
+1314145461734.46 :calvino.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314145461734.46 :calvino.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314145461734.46 :calvino.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314145461735.46 :calvino.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314145461735.46 :calvino.freenode.net 372 Murphy :- support.
+1314145461735.46 :calvino.freenode.net 372 Murphy :-  
+1314145461735.46 :calvino.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314145461736.46 :calvino.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314145461736.46 :calvino.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314145461736.46 :calvino.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314145461736.46 :calvino.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314145461737.46 :calvino.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314145461737.46 :calvino.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314145461737.46 :calvino.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314145461737.46 :calvino.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314145461738.46 :calvino.freenode.net 372 Murphy :-  
+1314145461738.46 :calvino.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314145461738.46 :calvino.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314145461738.46 :calvino.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314145461739.46 :calvino.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314145461739.46 :calvino.freenode.net 372 Murphy :-  
+1314145461739.46 :calvino.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314145461739.46 :calvino.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314145461740.46 :calvino.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314145461740.46 :calvino.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314145461740.46 :calvino.freenode.net 372 Murphy :- the network!
+1314145461741.46 :calvino.freenode.net 372 Murphy :-  
+1314145461741.46 :calvino.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314145461741.46 :calvino.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314145461741.46 :calvino.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314145461742.46 :calvino.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314145461742.46 :calvino.freenode.net 372 Murphy :- [http://geeknic.org]
+1314145461742.46 :calvino.freenode.net 372 Murphy :-  
+1314145461742.46 :calvino.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314145462137.48 :calvino.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314145462137.48 :calvino.freenode.net 372 Murphy :-  
+1314145462138.48 :calvino.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314145462140.48 :calvino.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314145462141.48 :calvino.freenode.net 372 Murphy :-  
+1314145462142.48 :calvino.freenode.net 372 Murphy :- Thank you for using freenode!
+1314145462143.48 :calvino.freenode.net 372 Murphy :-  
+1314145462150.48 :calvino.freenode.net 372 Murphy :- ***************************************************************
+1314145462150.48 :calvino.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314145462151.48 :calvino.freenode.net 372 Murphy :- ***************************************************************
+1314145462151.48 :calvino.freenode.net 376 Murphy :End of /MOTD command.
+1314145462234.49 :Murphy MODE Murphy :+i
+1314145462240.49 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314145462241.49 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314145464732.63 :Murphy!~MrTiggr@220-253-190-134.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314145465319.67 :calvino.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy SomeoneWeird KenArmitt TiggrBot SuprTiggr Graet MrTiggr
+1314145465331.67 :calvino.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314145465913.7 :calvino.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314145465948.7 :calvino.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314145466410.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr 220-253-190-134.NSW.netspace.net.au calvino.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314145466416.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~no unaffiliated/someoneweird asimov.freenode.net SomeoneWeird H :0 no
+1314145466416.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314145466416.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314145466416.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314145466417.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314145466417.73 :calvino.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggr H :0 MrTiggr
+1314145466417.73 :calvino.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314145466908.76 :calvino.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314145467499.79 :Murphy!~MrTiggr@220-253-190-134.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314145598484.28 PING :calvino.freenode.net
+1314145742494.52 PING :calvino.freenode.net
+1314145886493.76 PING :calvino.freenode.net
+1314146030484.99 PING :calvino.freenode.net
+1314146174496.23 PING :calvino.freenode.net
+1314146318489.46 PING :calvino.freenode.net
+1314146462489.7 PING :calvino.freenode.net
+1314146606506.94 PING :calvino.freenode.net
+1314146750509.17 PING :calvino.freenode.net
+1314146894484.41 PING :calvino.freenode.net
+1314147038489.65 PING :calvino.freenode.net
+1314147182489.88 PING :calvino.freenode.net
+1314147326504.12 PING :calvino.freenode.net
+1314147470492.36 PING :calvino.freenode.net
+1314147614496.59 PING :calvino.freenode.net
+1314147758483.83 PING :calvino.freenode.net
+1314147902494.06 PING :calvino.freenode.net
+1314148046490.3 PING :calvino.freenode.net
+1314148190495.54 PING :calvino.freenode.net
+1314148334504.77 PING :calvino.freenode.net
+1314148478488.01 PING :calvino.freenode.net
+1314148622482.25 PING :calvino.freenode.net
+1314148766483.48 PING :calvino.freenode.net
+1314148910478.72 PING :calvino.freenode.net
+1314149054495.96 PING :calvino.freenode.net
+1314149198481.19 PING :calvino.freenode.net
+1314149342489.43 PING :calvino.freenode.net
+1314149486484.66 PING :calvino.freenode.net
+1314149630498.9 PING :calvino.freenode.net
+1314149774485.14 PING :calvino.freenode.net
+1314149918492.37 PING :calvino.freenode.net
+1314150062491.61 PING :calvino.freenode.net
+1314150206483.85 PING :calvino.freenode.net
+1314150350484.08 PING :calvino.freenode.net
+1314150494489.32 PING :calvino.freenode.net
+1314150638510.56 PING :calvino.freenode.net
+1314150782483.79 PING :calvino.freenode.net
+1314150926518.03 PING :calvino.freenode.net
+1314151048059.98 :MrTiggr!~MrTiggr@ozco.in NICK :MrTiggrAFK
+1314151070495.26 PING :calvino.freenode.net
+1314151214476.5 PING :calvino.freenode.net
+1314151846167.63 :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1314151846168.63 :verne.freenode.net NOTICE * :*** Checking Ident
+1314151847102.68 :verne.freenode.net NOTICE * :*** Found your hostname
+1314151860172.43 :verne.freenode.net NOTICE * :*** No Ident response
+1314151860172.43 :verne.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314151860173.43 :verne.freenode.net 002 Murphy :Your host is verne.freenode.net[216.155.130.130/6667], running version ircd-seven-1.0.3
+1314151860173.43 :verne.freenode.net 003 Murphy :This server was created Tue Feb 23 2010 at 18:01:42 EST
+1314151860173.43 :verne.freenode.net 004 Murphy verne.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314151860174.43 :verne.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314151860174.43 :verne.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314151860175.43 :verne.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314151860175.43 :verne.freenode.net 251 Murphy :There are 311 users and 70591 invisible on 27 servers
+1314151860176.43 :verne.freenode.net 252 Murphy 29 :IRC Operators online
+1314151860176.43 :verne.freenode.net 253 Murphy 12 :unknown connection(s)
+1314151860176.43 :verne.freenode.net 254 Murphy 44160 :channels formed
+1314151860177.43 :verne.freenode.net 255 Murphy :I have 4906 clients and 1 servers
+1314151860177.43 :verne.freenode.net 265 Murphy 4906 4948 :Current local users 4906, max 4948
+1314151860178.43 :verne.freenode.net 266 Murphy 70902 75047 :Current global users 70902, max 75047
+1314151860179.43 :verne.freenode.net 250 Murphy :Highest connection count: 4949 (4948 clients) (572539 connections received)
+1314151860179.43 :verne.freenode.net 375 Murphy :- verne.freenode.net Message of the Day - 
+1314151860180.43 :verne.freenode.net 372 Murphy :- Welcome to verne.freenode.net in Newark, NJ, US.
+1314151860181.43 :verne.freenode.net 372 Murphy :- Thanks to Choopa 'www.choopa.com' for providing this server!
+1314151860181.43 :verne.freenode.net 372 Murphy :-  
+1314151860181.43 :verne.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314151860182.43 :verne.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314151860182.43 :verne.freenode.net 372 Murphy :-  
+1314151860183.43 :verne.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314151860183.43 :verne.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314151860183.43 :verne.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314151860184.43 :verne.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314151860184.43 :verne.freenode.net 372 Murphy :-  
+1314151860185.43 :verne.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314151860185.43 :verne.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314151860186.43 :verne.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314151860186.43 :verne.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314151860187.43 :verne.freenode.net 372 Murphy :- support.
+1314151860187.43 :verne.freenode.net 372 Murphy :-  
+1314151860188.43 :verne.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314151860188.43 :verne.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314151860189.43 :verne.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314151860190.43 :verne.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314151860190.43 :verne.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314151860461.45 :verne.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314151860461.45 :verne.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314151860462.45 :verne.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314151860462.45 :verne.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314151860462.45 :verne.freenode.net 372 Murphy :-  
+1314151860462.45 :verne.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314151860462.45 :verne.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314151860462.45 :verne.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314151860463.45 :verne.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314151860463.45 :verne.freenode.net 372 Murphy :-  
+1314151860463.45 :verne.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314151860463.45 :verne.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314151860964.48 :verne.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314151860964.48 :verne.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314151860965.48 :verne.freenode.net 372 Murphy :- the network!
+1314151860965.48 :verne.freenode.net 372 Murphy :-  
+1314151860965.48 :verne.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314151860966.48 :verne.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314151860966.48 :verne.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314151860967.48 :verne.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314151860967.48 :verne.freenode.net 372 Murphy :- [http://geeknic.org]
+1314151860968.48 :verne.freenode.net 372 Murphy :-  
+1314151860968.48 :verne.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314151860969.48 :verne.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314151861829.53 :verne.freenode.net 372 Murphy :-  
+1314151861829.53 :verne.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314151861830.53 :verne.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314151861830.53 :verne.freenode.net 372 Murphy :-  
+1314151861830.53 :verne.freenode.net 372 Murphy :- Thank you for using freenode!
+1314151861831.53 :verne.freenode.net 372 Murphy :-  
+1314151861831.53 :verne.freenode.net 372 Murphy :- ***************************************************************
+1314151861832.53 :verne.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314151861832.53 :verne.freenode.net 372 Murphy :- ***************************************************************
+1314151861832.53 :verne.freenode.net 376 Murphy :End of /MOTD command.
+1314151861833.53 :Murphy MODE Murphy :+i
+1314151861834.53 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314151861835.53 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314151864995.71 :Murphy!~MrTiggr@dsl-220-253-68-251.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314151865602.74 :verne.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy SomeoneWeird KenArmitt TiggrBot SuprTiggr Graet MrTiggrAFK
+1314151865602.74 :verne.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314151865603.74 :verne.freenode.net NOTICE #bitcoin-police-bot :[freenode-info] help freenode weed out clonebots -- please register your IRC nick and auto-identify: http://freenode.net/faq.shtml#nicksetup
+1314151866114.77 :verne.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314151866114.77 :verne.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314151866635.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr dsl-220-253-68-251.NSW.netspace.net.au verne.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314151866635.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~no unaffiliated/someoneweird asimov.freenode.net SomeoneWeird H :0 no
+1314151866636.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314151866637.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314151866638.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314151866639.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314151866639.8 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in wolfe.freenode.net MrTiggrAFK H :0 MrTiggr
+1314151866639.8 :verne.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314151867240.84 :verne.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314151867857.87 :Murphy!~MrTiggr@dsl-220-253-68-251.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314151990031.86 PING :verne.freenode.net
+1314152127965.75 PING :verne.freenode.net
+1314152266009.64 PING :verne.freenode.net
+1314152403943.53 PING :verne.freenode.net
+1314152541977.43 PING :verne.freenode.net
+1314152679908.32 PING :verne.freenode.net
+1314152817942.21 PING :verne.freenode.net
+1314152955876.1 PING :verne.freenode.net
+1314153093920 PING :verne.freenode.net
+1314153231854.89 PING :verne.freenode.net
+1314153369884.78 PING :verne.freenode.net
+1314153507927.68 PING :verne.freenode.net
+1314153645860.57 PING :verne.freenode.net
+1314153783896.46 PING :verne.freenode.net
+1314153799890.38 :MrTiggrAFK!~MrTiggr@ozco.in QUIT :Ping timeout: 240 seconds
+1314153846521.04 :MrTiggr!~MrTiggr@ozco.in JOIN :#bitcoin-police-bot
+1314153846978.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in verne.freenode.net MrTiggr H :0 MrTiggr
+1314153847394.09 :verne.freenode.net 315 Murphy MrTiggr :End of /WHO list.
+1314153967793.98 PING :verne.freenode.net
+1314154105834.88 PING :verne.freenode.net
+1314154243770.76 PING :verne.freenode.net
+1314154381737.66 PING :verne.freenode.net
+1314154519745.55 PING :verne.freenode.net
+1314154657782.44 PING :verne.freenode.net
+1314154795703.33 PING :verne.freenode.net
+1314154933764.23 PING :verne.freenode.net
+1314155071792.12 PING :verne.freenode.net
+1314155209722.01 PING :verne.freenode.net
+1314155347757.91 PING :verne.freenode.net
+1314155485695.8 PING :verne.freenode.net
+1314155623737.69 PING :verne.freenode.net
+1314155761676.58 PING :verne.freenode.net
+1314155899609.47 PING :verne.freenode.net
+1314156037636.37 PING :verne.freenode.net
+1314156175578.26 PING :verne.freenode.net
+1314156313570.15 PING :verne.freenode.net
+1314156408127.56 :MrTiggr!~MrTiggr@ozco.in NICK :MrTiggrAFK
+1314156451556.04 PING :verne.freenode.net
+1314156589545.94 PING :verne.freenode.net
+1314156727533.83 PING :verne.freenode.net
+1314156865520.72 PING :verne.freenode.net
+1314157003509.61 PING :verne.freenode.net
+1314157141498.51 PING :verne.freenode.net
+1314157279485.4 PING :verne.freenode.net
+1314157348419.34 :SomeoneWeird!~no@unaffiliated/someoneweird QUIT :Quit: Leaving
+1314157417479.29 PING :verne.freenode.net
+1314157555470.18 PING :verne.freenode.net
+1314157693455.08 PING :verne.freenode.net
+1314157831481.97 PING :verne.freenode.net
+1314157969527.87 PING :verne.freenode.net
+1314158107421.75 PING :verne.freenode.net
+1314158245404.65 PING :verne.freenode.net
+1314158383417.54 PING :verne.freenode.net
+1314158521398.43 PING :verne.freenode.net
+1314158659398.32 PING :verne.freenode.net
+1314158797384.22 PING :verne.freenode.net
+1314158935352.11 PING :verne.freenode.net
+1314159073342 PING :verne.freenode.net
+1314159211326.89 PING :verne.freenode.net
+1314159349321.79 PING :verne.freenode.net
+1314159487304.68 PING :verne.freenode.net
+1314159625293.57 PING :verne.freenode.net
+1314159763349.47 PING :verne.freenode.net
+1314159901274.36 PING :verne.freenode.net
+1314160039257.25 PING :verne.freenode.net
+1314160177246.14 PING :verne.freenode.net
+1314160315237.03 PING :verne.freenode.net
+1314160453830.96 PING :verne.freenode.net
+1314160591220.82 PING :verne.freenode.net
+1314160729205.71 PING :verne.freenode.net
+1314160867189.6 PING :verne.freenode.net
+1314161005178.5 PING :verne.freenode.net
+1314161143164.39 PING :verne.freenode.net
+1314161281155.28 PING :verne.freenode.net
+1314161419147.17 PING :verne.freenode.net
+1314161557132.06 PING :verne.freenode.net
+1314161695125.96 PING :verne.freenode.net
+1314161833109.85 PING :verne.freenode.net
+1314161971096.74 PING :verne.freenode.net
+1314162109090.64 PING :verne.freenode.net
+1314162247082.53 PING :verne.freenode.net
+1314162385062.42 PING :verne.freenode.net
+1314162523053.31 PING :verne.freenode.net
+1314162661041.21 PING :verne.freenode.net
+1314162799038.1 PING :verne.freenode.net
+1314162937025.99 PING :verne.freenode.net
+1314163075015.88 PING :verne.freenode.net
+1314163212998.78 PING :verne.freenode.net
+1314163351008.67 PING :verne.freenode.net
+1314163488978.56 PING :verne.freenode.net
+1314163626961.45 PING :verne.freenode.net
+1314163764954.35 PING :verne.freenode.net
+1314163902938.24 PING :verne.freenode.net
+1314164040930.13 PING :verne.freenode.net
+1314164179007.03 PING :verne.freenode.net
+1314164316904.92 PING :verne.freenode.net
+1314164454896.81 PING :verne.freenode.net
+1314164592883.7 PING :verne.freenode.net
+1314164730872.59 PING :verne.freenode.net
+1314164868854.48 PING :verne.freenode.net
+1314165006841.38 PING :verne.freenode.net
+1314165144837.27 PING :verne.freenode.net
+1314165282823.16 PING :verne.freenode.net
+1314165420813.05 PING :verne.freenode.net
+1314165558805.95 PING :verne.freenode.net
+1314165696790.84 PING :verne.freenode.net
+1314165834773.73 PING :verne.freenode.net
+1314165972765.62 PING :verne.freenode.net
+1314166110756.52 PING :verne.freenode.net
+1314166248746.41 PING :verne.freenode.net
+1314166386735.3 PING :verne.freenode.net
+1314166524722.19 PING :verne.freenode.net
+1314166662701.09 PING :verne.freenode.net
+1314166800697.98 PING :verne.freenode.net
+1314166938684.87 PING :verne.freenode.net
+1314167076753.77 PING :verne.freenode.net
+1314167214661.66 PING :verne.freenode.net
+1314167352651.55 PING :verne.freenode.net
+1314167490643.44 PING :verne.freenode.net
+1314167628630.34 PING :verne.freenode.net
+1314167766615.23 PING :verne.freenode.net
+1314167904615.12 PING :verne.freenode.net
+1314168042594.01 PING :verne.freenode.net
+1314168180579.9 PING :verne.freenode.net
+1314168318580.8 PING :verne.freenode.net
+1314168456555.69 PING :verne.freenode.net
+1314168594553.58 PING :verne.freenode.net
+1314168732545.48 PING :verne.freenode.net
+1314168870526.37 PING :verne.freenode.net
+1314169008515.26 PING :verne.freenode.net
+1314169146502.15 PING :verne.freenode.net
+1314169284489.04 PING :verne.freenode.net
+1314169422478.94 PING :verne.freenode.net
+1314169560474.83 PING :verne.freenode.net
+1314169698459.72 PING :verne.freenode.net
+1314169836451.62 PING :verne.freenode.net
+1314169974434.51 PING :verne.freenode.net
+1314170112423.4 PING :verne.freenode.net
+1314170250429.29 PING :verne.freenode.net
+1314170388503.19 PING :verne.freenode.net
+1314170526430.08 PING :verne.freenode.net
+1314170664473.98 PING :verne.freenode.net
+1314170802369.86 PING :verne.freenode.net
+1314170940362.76 PING :verne.freenode.net
+1314171078341.65 PING :verne.freenode.net
+1314171216329.54 PING :verne.freenode.net
+1314171354327.43 PING :verne.freenode.net
+1314171492315.33 PING :verne.freenode.net
+1314171630301.22 PING :verne.freenode.net
+1314171768293.11 PING :verne.freenode.net
+1314171906311 PING :verne.freenode.net
+1314172044273.9 PING :verne.freenode.net
+1314172675778.02 :verne.freenode.net NOTICE * :*** Looking up your hostname...
+1314172675822.02 :verne.freenode.net NOTICE * :*** Checking Ident
+1314172676309.05 :verne.freenode.net NOTICE * :*** Found your hostname
+1314172688504.74 :verne.freenode.net NOTICE * :*** No Ident response
+1314172688514.74 :verne.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314172688514.74 :verne.freenode.net 002 Murphy :Your host is verne.freenode.net[216.155.130.130/6667], running version ircd-seven-1.0.3
+1314172688515.74 :verne.freenode.net 003 Murphy :This server was created Tue Feb 23 2010 at 18:01:42 EST
+1314172688515.74 :verne.freenode.net 004 Murphy verne.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314172688515.74 :verne.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314172688515.74 :verne.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314172688515.74 :verne.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314172688516.74 :verne.freenode.net 251 Murphy :There are 306 users and 68044 invisible on 27 servers
+1314172688516.74 :verne.freenode.net 252 Murphy 30 :IRC Operators online
+1314172688516.74 :verne.freenode.net 253 Murphy 6 :unknown connection(s)
+1314172688516.74 :verne.freenode.net 254 Murphy 44039 :channels formed
+1314172688517.74 :verne.freenode.net 255 Murphy :I have 5083 clients and 1 servers
+1314172688517.74 :verne.freenode.net 265 Murphy 5083 5318 :Current local users 5083, max 5318
+1314172688517.74 :verne.freenode.net 266 Murphy 68350 75047 :Current global users 68350, max 75047
+1314172688517.74 :verne.freenode.net 250 Murphy :Highest connection count: 5319 (5318 clients) (576302 connections received)
+1314172688518.74 :verne.freenode.net 375 Murphy :- verne.freenode.net Message of the Day - 
+1314172688518.74 :verne.freenode.net 372 Murphy :- Welcome to verne.freenode.net in Newark, NJ, US.
+1314172688518.74 :verne.freenode.net 372 Murphy :- Thanks to Choopa 'www.choopa.com' for providing this server!
+1314172688518.74 :verne.freenode.net 372 Murphy :-  
+1314172688519.74 :verne.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314172688519.74 :verne.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314172688519.74 :verne.freenode.net 372 Murphy :-  
+1314172688520.74 :verne.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314172688520.74 :verne.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314172688520.74 :verne.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314172688520.74 :verne.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314172688521.74 :verne.freenode.net 372 Murphy :-  
+1314172688521.74 :verne.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314172688521.74 :verne.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314172688524.74 :verne.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314172688525.74 :verne.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314172688525.74 :verne.freenode.net 372 Murphy :- support.
+1314172688525.74 :verne.freenode.net 372 Murphy :-  
+1314172688526.74 :verne.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314172688526.74 :verne.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314172688526.74 :verne.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314172688526.74 :verne.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314172688527.74 :verne.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314172688798.76 :verne.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314172688798.76 :verne.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314172688799.76 :verne.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314172688799.76 :verne.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314172688799.76 :verne.freenode.net 372 Murphy :-  
+1314172688799.76 :verne.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314172688800.76 :verne.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314172688800.76 :verne.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314172688800.76 :verne.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314172688800.76 :verne.freenode.net 372 Murphy :-  
+1314172688801.76 :verne.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314172688801.76 :verne.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314172689298.79 :verne.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314172689299.79 :verne.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314172689299.79 :verne.freenode.net 372 Murphy :- the network!
+1314172689299.79 :verne.freenode.net 372 Murphy :-  
+1314172689299.79 :verne.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314172689300.79 :verne.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314172689300.79 :verne.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314172689300.79 :verne.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314172689301.79 :verne.freenode.net 372 Murphy :- [http://geeknic.org]
+1314172689301.79 :verne.freenode.net 372 Murphy :-  
+1314172689301.79 :verne.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314172689301.79 :verne.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314172690149.84 :verne.freenode.net 372 Murphy :-  
+1314172690150.84 :verne.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314172690150.84 :verne.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314172690150.84 :verne.freenode.net 372 Murphy :-  
+1314172690151.84 :verne.freenode.net 372 Murphy :- Thank you for using freenode!
+1314172690151.84 :verne.freenode.net 372 Murphy :-  
+1314172690152.84 :verne.freenode.net 372 Murphy :- ***************************************************************
+1314172690152.84 :verne.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314172690152.84 :verne.freenode.net 372 Murphy :- ***************************************************************
+1314172690152.84 :verne.freenode.net 376 Murphy :End of /MOTD command.
+1314172690153.84 :Murphy MODE Murphy :+i
+1314172690154.84 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314172690154.84 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314172692924 :Murphy!~MrTiggr@dsl-220-253-65-99.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314172693293.02 :verne.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy MrTiggrAFK KenArmitt TiggrBot SuprTiggr Graet
+1314172693293.02 :verne.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314172693784.05 :verne.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314172693785.05 :verne.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314172694288.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr dsl-220-253-65-99.NSW.netspace.net.au verne.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314172694288.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in verne.freenode.net MrTiggrAFK H :0 MrTiggr
+1314172694289.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314172694289.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314172694289.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314172694289.07 :verne.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314172694290.07 :verne.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314172694781.1 :verne.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314172695295.13 :Murphy!~MrTiggr@dsl-220-253-65-99.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314172826216.62 PING :verne.freenode.net
+1314172964191.51 PING :verne.freenode.net
+1314173102182.4 PING :verne.freenode.net
+1314173240171.3 PING :verne.freenode.net
+1314173378161.19 PING :verne.freenode.net
+1314173516148.08 PING :verne.freenode.net
+1314173654134.97 PING :verne.freenode.net
+1314173792116.87 PING :verne.freenode.net
+1314173930107.76 PING :verne.freenode.net
+1314174068109.65 PING :verne.freenode.net
+1314174206118.55 PING :verne.freenode.net
+1314174344077.44 PING :verne.freenode.net
+1314174482063.33 PING :verne.freenode.net
+1314174620052.22 PING :verne.freenode.net
+1314175251797.36 :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+1314175251837.36 :hitchcock.freenode.net NOTICE * :*** Checking Ident
+1314175252692.41 :hitchcock.freenode.net NOTICE * :*** Found your hostname
+1314175265857.16 :hitchcock.freenode.net NOTICE * :*** No Ident response
+1314175265868.16 :hitchcock.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314175265868.16 :hitchcock.freenode.net 002 Murphy :Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.0.3
+1314175265869.16 :hitchcock.freenode.net 003 Murphy :This server was created Thu Feb 24 2011 at 18:22:29 EET
+1314175265869.16 :hitchcock.freenode.net 004 Murphy hitchcock.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314175265870.16 :hitchcock.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314175265871.16 :hitchcock.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314175265872.16 :hitchcock.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314175265872.16 :hitchcock.freenode.net 251 Murphy :There are 296 users and 65956 invisible on 27 servers
+1314175265873.16 :hitchcock.freenode.net 252 Murphy 31 :IRC Operators online
+1314175265873.16 :hitchcock.freenode.net 253 Murphy 3 :unknown connection(s)
+1314175265874.16 :hitchcock.freenode.net 254 Murphy 43883 :channels formed
+1314175265874.16 :hitchcock.freenode.net 255 Murphy :I have 3178 clients and 1 servers
+1314175265874.16 :hitchcock.freenode.net 265 Murphy 3178 3482 :Current local users 3178, max 3482
+1314175265875.16 :hitchcock.freenode.net 266 Murphy 66252 75049 :Current global users 66252, max 75049
+1314175265875.16 :hitchcock.freenode.net 250 Murphy :Highest connection count: 3483 (3482 clients) (257208 connections received)
+1314175265875.16 :hitchcock.freenode.net 375 Murphy :- hitchcock.freenode.net Message of the Day - 
+1314175265875.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265876.16 :hitchcock.freenode.net 372 Murphy :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+1314175265876.16 :hitchcock.freenode.net 372 Murphy :- OnlineDirect (http://onlinedirect.bg).
+1314175265876.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265877.16 :hitchcock.freenode.net 372 Murphy :- HITCHCOCK, ALFRED [1889-1980].  Born in London, UK, Hitchcock went on to pioneer
+1314175265877.16 :hitchcock.freenode.net 372 Murphy :- many techniques in film-making.
+1314175265877.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265877.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265878.16 :hitchcock.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314175265878.16 :hitchcock.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314175265878.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265879.16 :hitchcock.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314175265879.16 :hitchcock.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314175265879.16 :hitchcock.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314175265879.16 :hitchcock.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314175265880.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175265880.16 :hitchcock.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314175265880.16 :hitchcock.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314175265880.16 :hitchcock.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314175265881.16 :hitchcock.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314175265881.16 :hitchcock.freenode.net 372 Murphy :- support.
+1314175265881.16 :hitchcock.freenode.net 372 Murphy :-  
+1314175266421.19 :hitchcock.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314175266421.19 :hitchcock.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314175266421.19 :hitchcock.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314175266422.19 :hitchcock.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314175266422.19 :hitchcock.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314175266422.19 :hitchcock.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314175267414.25 :hitchcock.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314175267415.25 :hitchcock.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314175267416.25 :hitchcock.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314175267416.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267417.25 :hitchcock.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314175267417.25 :hitchcock.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314175267417.25 :hitchcock.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314175267417.25 :hitchcock.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314175267418.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267418.25 :hitchcock.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314175267418.25 :hitchcock.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314175267418.25 :hitchcock.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314175267419.25 :hitchcock.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314175267419.25 :hitchcock.freenode.net 372 Murphy :- the network!
+1314175267419.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267419.25 :hitchcock.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314175267420.25 :hitchcock.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314175267420.25 :hitchcock.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314175267420.25 :hitchcock.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314175267420.25 :hitchcock.freenode.net 372 Murphy :- [http://geeknic.org]
+1314175267421.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267421.25 :hitchcock.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314175267421.25 :hitchcock.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314175267422.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267422.25 :hitchcock.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314175267422.25 :hitchcock.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314175267422.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267423.25 :hitchcock.freenode.net 372 Murphy :- Thank you for using freenode!
+1314175267423.25 :hitchcock.freenode.net 372 Murphy :-  
+1314175267423.25 :hitchcock.freenode.net 372 Murphy :- ***************************************************************
+1314175267424.25 :hitchcock.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314175267424.25 :hitchcock.freenode.net 372 Murphy :- ***************************************************************
+1314175267424.25 :hitchcock.freenode.net 376 Murphy :End of /MOTD command.
+1314175267425.25 :Murphy MODE Murphy :+i
+1314175267425.25 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314175267426.25 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314175269966.39 :Murphy!~MrTiggr@dsl-220-253-65-223.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314175270629.43 :hitchcock.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy MrTiggrAFK KenArmitt TiggrBot SuprTiggr Graet
+1314175270629.43 :hitchcock.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314175270630.43 :hitchcock.freenode.net NOTICE #bitcoin-police-bot :[freenode-info] channel flooding and no channel staff around to help? Please check with freenode support: http://freenode.net/faq.shtml#gettinghelp
+1314175270962.45 :hitchcock.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314175270962.45 :hitchcock.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314175271463.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr dsl-220-253-65-223.NSW.netspace.net.au hitchcock.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314175271463.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in verne.freenode.net MrTiggrAFK H :0 MrTiggr
+1314175271464.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314175271464.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314175271464.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314175271464.48 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314175271465.48 :hitchcock.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314175271970.51 :hitchcock.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314175272460.54 :Murphy!~MrTiggr@dsl-220-253-65-223.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.
+1314175405713.16 PING :hitchcock.freenode.net
+1314175535710.59 PING :hitchcock.freenode.net
+1314175665718.03 PING :hitchcock.freenode.net
+1314175795717.47 PING :hitchcock.freenode.net
+1314175811864.39 :noagendamarket!~dave@unaffiliated/noagendamarket JOIN :#bitcoin-police-bot
+1314175812450.42 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~dave unaffiliated/noagendamarket calvino.freenode.net noagendamarket H :0 dave
+1314175812951.45 :hitchcock.freenode.net 315 Murphy noagendamarket :End of /WHO list.
+1314175951723.39 PING :hitchcock.freenode.net
+1314176081725.82 PING :hitchcock.freenode.net
+1314176211727.26 PING :hitchcock.freenode.net
+1314176341725.7 PING :hitchcock.freenode.net
+1314176471735.13 PING :hitchcock.freenode.net
+1314176601737.57 PING :hitchcock.freenode.net
+1314176731736 PING :hitchcock.freenode.net
+1314176861741.44 PING :hitchcock.freenode.net
+1314176991740.87 PING :hitchcock.freenode.net
+1314177121745.31 PING :hitchcock.freenode.net
+1314177251748.75 PING :hitchcock.freenode.net
+1314177381747.18 PING :hitchcock.freenode.net
+1314177511749.62 PING :hitchcock.freenode.net
+1314177641752.05 PING :hitchcock.freenode.net
+1314177771755.49 PING :hitchcock.freenode.net
+1314178403939.65 :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+1314178403980.65 :hitchcock.freenode.net NOTICE * :*** Checking Ident
+1314178403981.65 :hitchcock.freenode.net NOTICE * :*** Found your hostname
+1314178417064.4 :hitchcock.freenode.net NOTICE * :*** No Ident response
+1314178417065.4 :hitchcock.freenode.net 001 Murphy :Welcome to the freenode Internet Relay Chat Network Murphy
+1314178417065.4 :hitchcock.freenode.net 002 Murphy :Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.0.3
+1314178417065.4 :hitchcock.freenode.net 003 Murphy :This server was created Thu Feb 24 2011 at 18:22:29 EET
+1314178417065.4 :hitchcock.freenode.net 004 Murphy hitchcock.freenode.net ircd-seven-1.0.3 DOQRSZaghilopswz CFILMPQbcefgijklmnopqrstvz bkloveqjfI
+1314178417066.4 :hitchcock.freenode.net 005 Murphy CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQcgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+1314178417066.4 :hitchcock.freenode.net 005 Murphy SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 :are supported by this server
+1314178417066.4 :hitchcock.freenode.net 005 Murphy FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,arx WHOX CLIENTVER=3.0 :are supported by this server
+1314178417066.4 :hitchcock.freenode.net 251 Murphy :There are 293 users and 64397 invisible on 27 servers
+1314178417067.4 :hitchcock.freenode.net 252 Murphy 31 :IRC Operators online
+1314178417067.4 :hitchcock.freenode.net 253 Murphy 5 :unknown connection(s)
+1314178417067.4 :hitchcock.freenode.net 254 Murphy 43772 :channels formed
+1314178417067.4 :hitchcock.freenode.net 255 Murphy :I have 3109 clients and 1 servers
+1314178417068.4 :hitchcock.freenode.net 265 Murphy 3109 3482 :Current local users 3109, max 3482
+1314178417068.4 :hitchcock.freenode.net 266 Murphy 64690 75049 :Current global users 64690, max 75049
+1314178417068.4 :hitchcock.freenode.net 250 Murphy :Highest connection count: 3483 (3482 clients) (257569 connections received)
+1314178417068.4 :hitchcock.freenode.net 375 Murphy :- hitchcock.freenode.net Message of the Day - 
+1314178417069.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417069.4 :hitchcock.freenode.net 372 Murphy :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+1314178417069.4 :hitchcock.freenode.net 372 Murphy :- OnlineDirect (http://onlinedirect.bg).
+1314178417070.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417070.4 :hitchcock.freenode.net 372 Murphy :- HITCHCOCK, ALFRED [1889-1980].  Born in London, UK, Hitchcock went on to pioneer
+1314178417070.4 :hitchcock.freenode.net 372 Murphy :- many techniques in film-making.
+1314178417070.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417071.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417071.4 :hitchcock.freenode.net 372 Murphy :- You're using freenode, a service of Peer-Directed Projects
+1314178417071.4 :hitchcock.freenode.net 372 Murphy :- Center Ltd (http://freenode.net/pdpc.shtml).
+1314178417071.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417072.4 :hitchcock.freenode.net 372 Murphy :- PDPC's 2011 fundraiser launched on 14th February 2011. We would 
+1314178417072.4 :hitchcock.freenode.net 372 Murphy :- like to invite all users of freenode to get involved in the fun
+1314178417072.4 :hitchcock.freenode.net 372 Murphy :- of our Valentine-themed fundraiser launch - see 
+1314178417073.4 :hitchcock.freenode.net 372 Murphy :- http://freenode.net/pdpc_valentine.shtml for more!
+1314178417073.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417073.4 :hitchcock.freenode.net 372 Murphy :- On the subject of fundraisers, we'd like to thank our donors, 
+1314178417073.4 :hitchcock.freenode.net 372 Murphy :- hardware and bandwith sponsors and especially  The Gallery 
+1314178417074.4 :hitchcock.freenode.net 372 Murphy :- Project (http://gallery.menalto.com/) and our corporate sponsor 
+1314178417074.4 :hitchcock.freenode.net 372 Murphy :- Canonical Ltd (http://www.canonical.com) for the generous 
+1314178417074.4 :hitchcock.freenode.net 372 Murphy :- support.
+1314178417074.4 :hitchcock.freenode.net 372 Murphy :-  
+1314178417617.43 :hitchcock.freenode.net 372 Murphy :- By connecting to freenode you indicate that you have read
+1314178417617.43 :hitchcock.freenode.net 372 Murphy :- and agree to adhere to our policies and procedures as per
+1314178417618.43 :hitchcock.freenode.net 372 Murphy :- the website (http://freenode.net). We would like to remind
+1314178417618.43 :hitchcock.freenode.net 372 Murphy :- you that unauthorized public logging of channels on the
+1314178417618.43 :hitchcock.freenode.net 372 Murphy :- network is prohibited. Public channel logging should only
+1314178417619.43 :hitchcock.freenode.net 372 Murphy :- take place where the channel owner(s) has requested this
+1314178419123.52 :hitchcock.freenode.net 372 Murphy :- and users of the channel are all made aware (if you are
+1314178419123.52 :hitchcock.freenode.net 372 Murphy :- publically logging your channel, you may wish to keep a
+1314178419124.52 :hitchcock.freenode.net 372 Murphy :- notice in topic and perhaps as a on-join message).
+1314178419124.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419124.52 :hitchcock.freenode.net 372 Murphy :- By registering your nickname with Nickserv you agree that you
+1314178419124.52 :hitchcock.freenode.net 372 Murphy :- are 13 years of age, or older. For more information about the
+1314178419124.52 :hitchcock.freenode.net 372 Murphy :- Children's Online Privacy Protection Act please see their
+1314178419125.52 :hitchcock.freenode.net 372 Murphy :- website at (http://www.coppa.org).
+1314178419125.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419125.52 :hitchcock.freenode.net 372 Murphy :- freenode runs an open proxy scanner. Your use of the network
+1314178419126.52 :hitchcock.freenode.net 372 Murphy :- indicates your acceptance of this policy. For details on
+1314178419126.52 :hitchcock.freenode.net 372 Murphy :- freenode network policy, please take a look at our policy
+1314178419126.52 :hitchcock.freenode.net 372 Murphy :- page (http://freenode.net/policy.shtml). Thank you for using
+1314178419126.52 :hitchcock.freenode.net 372 Murphy :- the network!
+1314178419127.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419127.52 :hitchcock.freenode.net 372 Murphy :- Don't forget to check out these other Peer-Directed Projects:
+1314178419127.52 :hitchcock.freenode.net 372 Murphy :- FOSSCON [http://www.fosscon.org] and fossevents 
+1314178419127.52 :hitchcock.freenode.net 372 Murphy :- [http://www.fossevents.org], and soon we'll repeat last years 
+1314178419128.52 :hitchcock.freenode.net 372 Murphy :- success with Picnics for Geeks across the globe, more info at 
+1314178419128.52 :hitchcock.freenode.net 372 Murphy :- [http://geeknic.org]
+1314178419128.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419128.52 :hitchcock.freenode.net 372 Murphy :- freenode is a service of Peer-Directed Projects Center Ltd,
+1314178419129.52 :hitchcock.freenode.net 372 Murphy :- a not for profit organisation registered in England and Wales.
+1314178419129.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419129.52 :hitchcock.freenode.net 372 Murphy :- If you support the work we do and wish to donate to the PDPC, 
+1314178419130.52 :hitchcock.freenode.net 372 Murphy :- you may do so over at http://freenode.net/pdpc_donations.shtml
+1314178419130.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419130.52 :hitchcock.freenode.net 372 Murphy :- Thank you for using freenode!
+1314178419130.52 :hitchcock.freenode.net 372 Murphy :-  
+1314178419131.52 :hitchcock.freenode.net 372 Murphy :- ***************************************************************
+1314178419131.52 :hitchcock.freenode.net 372 Murphy :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+1314178419131.52 :hitchcock.freenode.net 372 Murphy :- ***************************************************************
+1314178419131.52 :hitchcock.freenode.net 376 Murphy :End of /MOTD command.
+1314178419132.52 :Murphy MODE Murphy :+i
+1314178419133.52 :NickServ!NickServ@services. NOTICE Murphy :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+1314178419133.52 :NickServ!NickServ@services. NOTICE Murphy :Invalid password for Murphy.
+1314178421289.64 :Murphy!~MrTiggr@dsl-220-253-65-223.NSW.netspace.net.au JOIN :#bitcoin-police-bot
+1314178421920.68 :hitchcock.freenode.net 353 Murphy @ #bitcoin-police-bot :Murphy noagendamarket MrTiggrAFK KenArmitt TiggrBot SuprTiggr Graet
+1314178421920.68 :hitchcock.freenode.net 366 Murphy #bitcoin-police-bot :End of /NAMES list.
+1314178422055.68 :hitchcock.freenode.net 324 Murphy #bitcoin-police-bot +ns
+1314178422056.68 :hitchcock.freenode.net 329 Murphy #bitcoin-police-bot 1312895859
+1314178422545.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr dsl-220-253-65-223.NSW.netspace.net.au hitchcock.freenode.net Murphy H :0 Alexander James Murphy (RoboCOP)
+1314178422545.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~dave unaffiliated/noagendamarket calvino.freenode.net noagendamarket H :0 dave
+1314178422546.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ozco.in verne.freenode.net MrTiggrAFK H :0 MrTiggr
+1314178422546.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot KenArmitt 66.17.233.220.static.exetel.com.au leguin.freenode.net KenArmitt H :0 ...
+1314178422546.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~TiggrBot ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com gibson.freenode.net TiggrBot H :0 PPF V0.6
+1314178422547.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~MrTiggr ec2-122-248-242-159.ap-southeast-1.compute.amazonaws.com zelazny.freenode.net SuprTiggr H :0 SuprTiggr
+1314178422547.71 :hitchcock.freenode.net 352 Murphy #bitcoin-police-bot ~Graet unaffiliated/graet gibson.freenode.net Graet H :0 ?
+1314178422547.71 :hitchcock.freenode.net 315 Murphy #bitcoin-police-bot :End of /WHO list.
+1314178423046.74 :hitchcock.freenode.net 368 Murphy #bitcoin-police-bot :End of Channel Ban List
+1314178423549.77 :Murphy!~MrTiggr@dsl-220-253-65-223.NSW.netspace.net.au NOTICE Murphy :There are 0 upcoming events.

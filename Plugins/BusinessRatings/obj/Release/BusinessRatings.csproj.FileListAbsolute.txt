@@ -17,3 +17,5 @@ C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\Release Output
 C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\ResolveAssemblyReference.cache
 C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\BusinessRatings.dll
 C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Plugins\BusinessRatings\obj\Release\BusinessRatings.pdb
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\BusinessRatings.dll
+C:\Users\wleearcher\Desktop\Bitcoin Security Group\Murphy\Release Output\Plugins\BusinessRatings.pdb

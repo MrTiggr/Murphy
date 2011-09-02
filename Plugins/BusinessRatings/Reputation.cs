@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Murphy;
 using System.Data;
+using Engine;
 
 namespace BusinessRatings
 {
@@ -20,6 +21,16 @@ namespace BusinessRatings
         #region member variables
         public string BOT_CONTROL_SEQ = "#";
         private SQLiteDatabase db = new SQLiteDatabase();
+        private RijndaelEnhanced enc;
+
+        #region SALT AND PEPPER
+
+        private const string S4LT="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";
+        private const string K3Y = "81tc01np0l1c3s3cr3tk3yphr4s3";
+        private const string IV= "5X%&kKWjtn6()!@8";
+
+        #endregion
+
         #endregion
 
         #region Constructor
@@ -28,7 +39,7 @@ namespace BusinessRatings
             : base(bot)
         {
             BOT_CONTROL_SEQ = Bot.Configuration["Config"].Attributes["ControlSeq"].Value;
-
+            enc=new RijndaelEnhanced(K3Y, IV, 256, 512, 256, "SHA-1", S4LT, 5);
             //Hook Up the Bot event Handlers
             Bot.OnChannelMessage += new IrcEventHandler(Bot_OnChannelMessage);
             Bot.OnQueryMessage += new IrcEventHandler(Bot_OnPrivateMessage);
@@ -164,10 +175,11 @@ namespace BusinessRatings
                 {
                     //TODO! Check the InfoType is valid - for now accept invalis ones
                     DataRow user = getAccount(e.Data.Nick);
+                    string encdata=enc.Encrypt(Matches["info"].Value);
                     Dictionary<String, String> account = new Dictionary<string, string>();
                     account.Add("account_id", user["ID"].ToString());
                     account.Add("validation_type", Matches["infotype"].Value);
-                    account.Add("validation", Matches["info"].Value);
+                    account.Add("validation", encdata);
                     db.Insert("validation", account);
                     AnswerWithNotice(n, e, String.Format("Your information for "+ FormatBold("{0}")+" was successfully set. A moderator will validate this information shortly. Your registered email will be used as a point of contact for the validation process.", Matches["infotype"].Value));
                 }

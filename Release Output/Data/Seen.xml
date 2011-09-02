@@ -71,4 +71,99 @@
     <Text>on #bitcoin-police-bot, saying Known words: fwiw, "Duck, NSA, MITM, FUBAR, MineShaft, IxCoin, DSO, DEA, tineye, LMGTFY, SNAFU, FS, MH, FOBP, IANAL, IANAM, bbiab, MO, bbiaf, TAFE, BCIS, HC, RCMP, somethingawful, bbiaw, SA, NaCL, CoC, PS</Text>
     <Ident>~TiggrBot</Ident>
   </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>Murphy</string>
+      <string>MrTiggrAFK</string>
+      <string>MrTiggr</string>
+      <string>Murph1736777808</string>
+      <string>Murph856372690</string>
+      <string>SuprTiggr</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-09-02T00:44:26.5067475+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying l;ooks like the encryption werks</Text>
+    <Ident>~MrTiggr</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>SomeoneWeird</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-24T03:42:28.4203404+10:00</Date>
+    <Text>quitting IRC (Quit: Leaving)</Text>
+    <Ident>~no</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>Graet</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-23T22:39:22.3141547+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying i cant really do school hols</Text>
+    <Ident>~Graet</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>KenArmitt</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-23T22:20:01.5457625+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying lol</Text>
+    <Ident>KenArmitt</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>Caltex-Bot</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-23T22:25:16.4137719+10:00</Date>
+    <Text>quitting IRC (Remote host closed the connection)</Text>
+    <Ident>~Caltex-Bo</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>yamum</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-23T22:27:06.7990856+10:00</Date>
+    <Text>quitting IRC (Remote host closed the connection)</Text>
+    <Ident>~yamum</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>noagendamarket</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-27T22:51:09.7419196+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying cool</Text>
+    <Ident>~dave</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>nefario</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-08-28T03:45:55.5204883+10:00</Date>
+    <Text>leaving #bitcoin-police-bot</Text>
+    <Ident>~nefario</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>ryannathans</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-09-01T20:29:34.8083721+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying #|checkip 0.0.0.0</Text>
+    <Ident>~ryannatha</Ident>
+  </SeenInfo>
+  <SeenInfo>
+    <Names>
+      <string>SomeoneWeird</string>
+    </Names>
+    <Network>Murphy</Network>
+    <Date>2011-09-02T00:44:47.7999654+10:00</Date>
+    <Text>on #bitcoin-police-bot, saying coolies</Text>
+    <Ident>~SomeoneWe</Ident>
+  </SeenInfo>
 </ArrayOfSeenInfo>
