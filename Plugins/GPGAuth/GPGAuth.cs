@@ -50,13 +50,24 @@ namespace Murphy.Plugins
         /// <param name="e">The message event and data itself</param>
         void Bot_OnMessage(Network n, Irc.IrcEventArgs e)
         {
+            string mes = string.Empty;
+
             if (e.Data.Message.StartsWith(BOT_CONTROL_SEQ))
             {
-                string mes = e.Data.Message.Substring(1).Split(' ')[0];
-                bool isadmin = false;
+                try
+                {
+                    mes = e.Data.Message.Substring(1).Split(' ')[0];
+                }
+                catch (Exception ex)
+                {
+                    Answer(n, e, "An error occurred, please try again.");
+                }
+
+                bool isadmin = Bot.isAdmin(e.Data.Nick);
                 
                 //Process Admin Commands
-                if(Bot.isAdmin(e.Data.Nick)){
+                if(isadmin)
+                {
                     switch (mes)
                     {
                         case "rollcall":
@@ -207,8 +218,6 @@ namespace Murphy.Plugins
                     MemoryStream unencrypted = new MemoryStream(Encoding.ASCII.GetBytes(name + ":" + DateTime.Now.Ticks + "\n"));
                     MemoryStream encrypted = new MemoryStream();
                     gpg.Encrypt(unencrypted, encrypted);
-
-
                     Dictionary<String, String> data = new Dictionary<String, String>();
                     data.Add("verify", StreamToString(unencrypted));
                     db.Update("accounts", data, String.Format("id = {0}", id));
@@ -218,7 +227,6 @@ namespace Murphy.Plugins
                     noemail = false;
                 }
             }
-
             if (noemail)
             {
                 Answer(n, e, e.Data.Nick + ": No registered email for your nick. To register an email; login normally then issue IRC command " + FormatBold("#setemail <emailaddress>"));
@@ -446,9 +454,12 @@ namespace Murphy.Plugins
                         num++;
                     }
                 }
-                catch { }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
             }
-            if (!lot)
+            else
             {
                 Answer(n, e, e.Data.Nick + ": you are not logged in.");
             }
