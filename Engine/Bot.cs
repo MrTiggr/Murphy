@@ -49,7 +49,15 @@ namespace Murphy {
 
 			#region " Load Configuration "
 			configuration = new XmlDocument();
-			configuration.Load("Configuration.xml");
+
+            try
+            {
+                configuration.Load("Configuration.xml");
+            }
+            catch (XmlException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 
             //Load the Admins from config file
             foreach (XmlElement elem in configuration["Murphy"]["Config"].GetElementsByTagName("admin"))
@@ -167,7 +175,7 @@ namespace Murphy {
 		}
 		#endregion
 
-		#region " Methods "
+		    #region " Methods "
 
 
 
@@ -205,7 +213,14 @@ namespace Murphy {
 		}
 
 		public void SaveConfiguration() {
-			configuration.Save("Configuration.xml");
+            try
+            {
+                configuration.Save("Configuration.xml");
+            }
+            catch (XmlException e)
+            {
+                Console.WriteLine(e.Message);
+            }
 		}
 		#endregion
 
