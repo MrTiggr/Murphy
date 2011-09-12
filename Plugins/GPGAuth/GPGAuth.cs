@@ -211,18 +211,26 @@ namespace Murphy.Plugins
                 id++;
                 if (account["NAME"] as string == name && account["EMAIL"].ToString().Length > 0)
                 {
-                    Answer(n, e, FormatItalic(e.Data.Nick + ": .. sending #email, please be patient.."));
-                    gpg.Recipient = account["key"] as string;
-                    MemoryStream unencrypted = new MemoryStream(Encoding.ASCII.GetBytes(name + ":" + DateTime.Now.Ticks + "\n"));
-                    MemoryStream encrypted = new MemoryStream();
-                    gpg.Encrypt(unencrypted, encrypted);
-                    Dictionary<String, String> data = new Dictionary<String, String>();
-                    data.Add("verify", StreamToString(unencrypted));
-                    db.Update("accounts", data, String.Format("id = {0}", id));
-                    GmailSender g = new GmailSender("MrTiggr@BitcoinPolice.org", "LAcIYB<4;=~zAbW{}7Tdjk,kW!Nq.~-C");
-                    g.Send("MrTiggr@BitcoinPolice.org", account["EMAIL"].ToString(), "#bitcoin-police gpg login request for: " + name, StreamToString(encrypted));
-                    Answer(n, e, e.Data.Nick + ": An Email has been sent to your registered email address. Decrypt the contents using your GpG Key and then send IRC message " + FormatBold("#everify <decodedctext>") + " to login.");
-                    noemail = false;
+                    try
+                    {
+                        Answer(n, e, FormatItalic(e.Data.Nick + ": .. sending #email, please be patient.."));
+                        gpg.Recipient = account["key"] as string;
+                        MemoryStream unencrypted = new MemoryStream(Encoding.ASCII.GetBytes(name + ":" + DateTime.Now.Ticks + "\n"));
+                        MemoryStream encrypted = new MemoryStream();
+                        gpg.Encrypt(unencrypted, encrypted);
+                        Dictionary<String, String> data = new Dictionary<String, String>();
+                        data.Add("verify", StreamToString(unencrypted));
+                        db.Update("accounts", data, String.Format("id = {0}", id));
+                        GmailSender g = new GmailSender("MrTiggr@BitcoinPolice.org", "LAcIYB<4;=~zAbW{}7Tdjk,kW!Nq.~-C");
+                        g.Send("MrTiggr@BitcoinPolice.org", account["EMAIL"].ToString(), "#bitcoin-police gpg login request for: " + name, StreamToString(encrypted));
+                        Answer(n, e, e.Data.Nick + ": An Email has been sent to your registered email address. Decrypt the contents using your GpG Key and then send IRC message " + FormatBold("#everify <decodedctext>") + " to login.");
+                        noemail = false;
+                    }
+                    catch (Exception ex)
+                    {
+                        Answer(n, e, "Failed to send email, something went wrong.");
+                        Console.WriteLine(ex.Message);
+                    }
                 }
             }
             if (noemail)
@@ -305,28 +313,35 @@ namespace Murphy.Plugins
                 id++;
                 if (account["NAME"] as string == name)
                 {
-                    gpg.Recipient = account["key"] as string;
-                    MemoryStream unencrypted = new MemoryStream(Encoding.ASCII.GetBytes(name + ":" + DateTime.Now.Ticks + "\n"));
-                    MemoryStream encrypted = new MemoryStream();
-                    gpg.Encrypt(unencrypted, encrypted);
-
-
-                    Dictionary<String, String> data = new Dictionary<String, String>();
-                    data.Add("verify", StreamToString(unencrypted));
-                    db.Update("accounts", data, String.Format("id = {0}", id));
-
-                    Pastie p = new Pastie();
-                    string pastie = p.SendViaPasteBin(StreamToString(encrypted), "#bitcoin-police gpg login request for: " + name);
-                    string[] paste = pastie.Split('/');
-                    if (wget)
+                    try
                     {
-                        Answer(n, e, e.Data.Nick + ": wget -qO " + FormatBold("http://pastebin.com/raw.php?i=" + paste[3]) + " | gpg --decrypt");
-                    }
-                    else
-                    {
-                        Answer(n, e, e.Data.Nick + ": Request here: "+ FormatBold("http://pastebin.com/raw.php?i=" + paste[3]));
-                    }
+                        gpg.Recipient = account["key"] as string;
+                        MemoryStream unencrypted = new MemoryStream(Encoding.ASCII.GetBytes(name + ":" + DateTime.Now.Ticks + "\n"));
+                        MemoryStream encrypted = new MemoryStream();
+                        gpg.Encrypt(unencrypted, encrypted);
 
+
+                        Dictionary<String, String> data = new Dictionary<String, String>();
+                        data.Add("verify", StreamToString(unencrypted));
+                        db.Update("accounts", data, String.Format("id = {0}", id));
+
+                        Pastie p = new Pastie();
+                        string pastie = p.SendViaPasteBin(StreamToString(encrypted), "#bitcoin-police gpg login request for: " + name);
+                        string[] paste = pastie.Split('/');
+                        if (wget)
+                        {
+                            Answer(n, e, e.Data.Nick + ": wget -qO " + FormatBold("http://pastebin.com/raw.php?i=" + paste[3]) + " | gpg --decrypt");
+                        }
+                        else
+                        {
+                            Answer(n, e, e.Data.Nick + ": Request here: " + FormatBold("http://pastebin.com/raw.php?i=" + paste[3]));
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        Answer(n, e, "An error occured, please try again.");
+                        Console.WriteLine(ex.Message);
+                    }
                 }
             }
         }
