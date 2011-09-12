@@ -58,9 +58,9 @@ namespace Murphy.Plugins
                 {
                     mes = e.Data.Message.Substring(1).Split(' ')[0];
                 }
-                catch (Exception ex)
+                catch
                 {
-                    Answer(n, e, "");
+                    return;
                 }
 
                 bool isadmin = Bot.isAdmin(e.Data.Nick);
@@ -77,43 +77,42 @@ namespace Murphy.Plugins
                     }
                 }
 
-                
-                    switch (mes)
-                    {
-                        case "register":
-                            register(n, e);
-                            break;
-                        case "eauth":
-                            login(n, e, false);
-                            break;
-                        case "leauth":
-                            login(n, e, true);
-                            break;
-                        case "everify":
-                            loginconf(n, e);
-                            break;
-                        case "ident":
-                            ident(n, e);
-                            break;
-                        case "bizident":
-                            bizident(n, e);
-                            break;
-                        case "logout":
-                            logout(n, e);
-                            break;
-                        case "email":
-                            emailogin(n, e);
-                            break;
-                        case "setemail":
-                            setemail(n, e);
-                            break;
-                        case "login":
-                            help(n, e);
-                            break;
-                        default:
-                            //Answer(n, e, "I do not know that command, " + e.Data.Nick);
-                            break;
-                    
+
+                switch (mes)
+                {
+                    case "register":
+                        register(n, e);
+                        break;
+                    case "eauth":
+                        login(n, e, false);
+                        break;
+                    case "leauth":
+                        login(n, e, true);
+                        break;
+                    case "everify":
+                        loginconf(n, e);
+                        break;
+                    case "ident":
+                        ident(n, e);
+                        break;
+                    case "bizident":
+                        bizident(n, e);
+                        break;
+                    case "logout":
+                        logout(n, e);
+                        break;
+                    case "email":
+                        emailogin(n, e);
+                        break;
+                    case "setemail":
+                        setemail(n, e);
+                        break;
+                    case "login":
+                        help(n, e);
+                        break;
+                    default:
+                        //Answer(n, e, "I do not know that command, " + e.Data.Nick);
+                        break;
                 }
             }
         }
