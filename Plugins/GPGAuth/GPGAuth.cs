@@ -60,7 +60,7 @@ namespace Murphy.Plugins
                 }
                 catch (Exception ex)
                 {
-                    Answer(n, e, "An error occurred, please try again.");
+                    Answer(n, e, "");
                 }
 
                 bool isadmin = Bot.isAdmin(e.Data.Nick);
@@ -77,9 +77,7 @@ namespace Murphy.Plugins
                     }
                 }
 
-                //Process Normal Commands
-                if (!isadmin)
-                {
+                
                     switch (mes)
                     {
                         case "register":
@@ -115,7 +113,7 @@ namespace Murphy.Plugins
                         default:
                             //Answer(n, e, "I do not know that command, " + e.Data.Nick);
                             break;
-                    }
+                    
                 }
             }
         }
@@ -454,9 +452,10 @@ namespace Murphy.Plugins
                         num++;
                     }
                 }
-                catch (Exception e)
+                catch (Exception ex)
                 {
-                    Console.WriteLine(e.Message);
+                    AnswerWithNotice(n, e, "An error occured, please try again.");
+                    Console.WriteLine(ex.Message);
                 }
             }
             else
