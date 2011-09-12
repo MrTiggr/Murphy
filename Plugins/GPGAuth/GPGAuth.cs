@@ -58,9 +58,10 @@ namespace Murphy.Plugins
                 {
                     mes = e.Data.Message.Substring(1).Split(' ')[0];
                 }
-                catch
+                catch(Exception ex)
                 {
-                    return;
+                    AnswerWithNotice(n, e, "Error parsing string, please try again.");
+                    Console.WriteLine(ex.Message);
                 }
 
                 bool isadmin = Bot.isAdmin(e.Data.Nick);
