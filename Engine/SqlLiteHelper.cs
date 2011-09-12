@@ -146,7 +146,7 @@ public class SQLiteDatabase
         }
         catch (Exception fail)
         {
-            //MessageBox.Show(fail.Message);
+            Console.WriteLine(fail.Message);
             returnCode = false;
         }
         return returnCode;
@@ -176,7 +176,7 @@ public class SQLiteDatabase
         }
         catch (Exception fail)
         {
-            //  MessageBox.Show(fail.Message);
+            Console.WriteLine(fail.Message);
             returnCode = false;
         }
         return returnCode;
